@@ -6,3 +6,8 @@
 /prod-classify-v1/dataset_b/
 /prod-classify-v1/dataset_r/
 /yolov5x.pt
+/prod-classify-v2/dataset/test/
+/prod-classify-v2/dataset/train/
+/prod-classify-v2/dataset/val/
+/prod-classify-v2/dataset_b/
+/prod-classify-v2/dataset_r/

@@ -1,0 +1,13 @@
+train: C:\Users\a_zhuck\Documents\GitHub\prod_localization_v2\dataset\train
+
+val: C:\Users\a_zhuck\Documents\GitHub\prod_localization_v2\dataset\val
+
+test:  C:\Users\a_zhuck\Documents\GitHub\prod_localization_v2\dataset\test
+
+
+
+# Classes
+
+nc: 2
+
+names: ['bejickaya', 'ruzhimmash']
