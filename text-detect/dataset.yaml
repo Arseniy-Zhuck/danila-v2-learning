@@ -1,0 +1,13 @@
+train: C:\Users\a_zhuck\Documents\GitHub\text_detect\dataset\train
+
+val: C:\Users\a_zhuck\Documents\GitHub\text_detect\dataset\val
+
+test:  C:\Users\a_zhuck\Documents\GitHub\text_detect\dataset\test
+
+
+
+# Classes
+
+nc: 5
+
+names: ['number', 'bejickaya', 'text', 'year',  'ruzhimmash']
