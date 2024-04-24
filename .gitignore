@@ -11,3 +11,8 @@
 /prod-classify-v2/dataset/val/
 /prod-classify-v2/dataset_b/
 /prod-classify-v2/dataset_r/
+/letters-detect/crops/
+/letters-detect/cuts/
+/letters-detect/cuts_for_learn/
+/letters-detect/dataset/
+/letters-detect/project-2-at-2024-04-23-18-46-1803f0e2/

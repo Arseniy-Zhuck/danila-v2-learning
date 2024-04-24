@@ -1,0 +1,1 @@
+python train.py --img 48 --batch 4 --epochs 40 --data 'C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\dataset.yaml' --weights 'C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\yolov5x.pt' --nosave --cache
