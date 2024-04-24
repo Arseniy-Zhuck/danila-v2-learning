@@ -1,0 +1,8 @@
+/venv/
+/yolov5/
+/prod-classify-v1/dataset/test/
+/prod-classify-v1/dataset/train/
+/prod-classify-v1/dataset/val/
+/prod-classify-v1/dataset_b/
+/prod-classify-v1/dataset_r/
+/yolov5x.pt
