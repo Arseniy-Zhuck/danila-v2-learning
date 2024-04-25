@@ -1,0 +1,1 @@
+C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\yolov5\runs\train\exp5 letters-detect  24.04.2024  200

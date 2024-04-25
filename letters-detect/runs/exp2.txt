@@ -1,0 +1,5 @@
+25.04
+160 - 20 imgs train - val
+20 imgs - test
+C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\runs\exp2
+найдено 3 тройки

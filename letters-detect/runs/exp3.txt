@@ -1,0 +1,5 @@
+25.04
+160 - 20 imgs train - val
+160 imgs - train
+C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\runs\exp
+найдено 10 тройки и 10 единиц, иногда с ошибками
