@@ -33,13 +33,41 @@ class CifrCount:
     def min_cifr_count(self):
         return min(self.letters_counts.values())
 
+    def min_cifr(self):
+        cifr_m = '0'
+        min_cifr = self.letters_counts['0']
+        for cifr in self.letters_counts.keys():
+            if self.letters_counts[cifr] < min_cifr:
+                min_cifr = self.letters_counts[cifr]
+                cifr_m = cifr
+        return cifr_m, min_cifr
+
     def cif_count_difference(self):
         return max(self.letters_counts.values()) - min(self.letters_counts.values())
 
 class TwoCifrArray:
+
+    @staticmethod
+    def union(list1, list2):
+        new_list =  list1.two_cif_array + list2.two_cif_array
+        new_obj = TwoCifrArray()
+        new_obj.two_cif_array = new_list
+        return new_obj
+
     def __init__(self):
         self.two_cif_array = []
 
+    def build_min_array(self):
+        subset_min = TwoCifrArray()
+        least_subset = TwoCifrArray()
+        cifr_count = self.count_cifrs()
+        min_count_cifr, min_count = cifr_count.min_cifr()
+        for two_cifr in self.two_cif_array:
+            if two_cifr.has_cifr(min_count_cifr):
+                subset_min.add_two_cifr(two_cifr)
+            else:
+                least_subset.add_two_cifr(two_cifr)
+        return subset_min, least_subset
 
     def build_two_cifr_subset(self, list):
         subset_two_cifr_array = TwoCifrArray()
@@ -59,7 +87,7 @@ class TwoCifrArray:
             cifr_count.up_cifr_counts(two_cifr)
         return cifr_count
 
-dataset_dir = 'C:\\Users\\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\labeled_img\labels'
+dataset_dir = 'C:\\Users\\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\labeled_img1\labels'
 files = os.listdir(dataset_dir)
 main_array = TwoCifrArray()
 for file in files:
@@ -71,16 +99,23 @@ for file in files:
             lines.append(line)
         main_array.add_two_cifr(TwoCifr(file_name, lines))
 initial_cifr_count = main_array.count_cifrs()
+
 MIN_CIFR_COUNT = initial_cifr_count.min_cifr_count()
 min_difference = initial_cifr_count.cif_count_difference()
 best_subset = main_array
 n = main_array.length()
-lst = [i for i in range(0,n)]
+subset_min, least_subset = main_array.build_min_array()
+print(initial_cifr_count.letters_counts)
+print(':  ' + str(MIN_CIFR_COUNT) + ' ' + str(min_difference) + ' imgscount = ' + str(initial_cifr_count.whole_count()))
+
+m = least_subset.length()
+lst = [i for i in range(0,m)]
 j = 0
-for i in range(MIN_CIFR_COUNT * 5, (MIN_CIFR_COUNT + 20) * 5):
+for i in range(MIN_CIFR_COUNT * 4 + 2, (MIN_CIFR_COUNT) * 4 + 3):
     for comb in combinations(lst, i):
         comb_list = list(comb)
-        subset_two_cifr_array = main_array.build_two_cifr_subset(comb_list)
+        subset_without_min = least_subset.build_two_cifr_subset(comb_list)
+        subset_two_cifr_array = TwoCifrArray.union(subset_min,subset_without_min)
         subset_cifr_count = subset_two_cifr_array.count_cifrs()
         min_cifr_count_s = subset_cifr_count.min_cifr_count()
         difference = subset_cifr_count.cif_count_difference()
@@ -92,23 +127,23 @@ for i in range(MIN_CIFR_COUNT * 5, (MIN_CIFR_COUNT + 20) * 5):
             best_subset = subset_two_cifr_array
             min_difference = difference
             print('ALARM!!!! CHANGE!!!!!')
-        j += 1
-new_lines = []
-for two_cifr in best_subset.two_cif_array:
-    new_lines.append(two_cifr.file_name)
-with open('C:\\Users\\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\files.txt', "w") as new_f:
-    new_f.writelines(new_lines)
-print("URA___KOPIROVANIEFAILOV")
-old_addr_imgs = 'C:\\Users\\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\labeled_img\images\\'
-old_addr_labels = 'C:\\Users\\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\labeled_img\labels\\'
-new_addr_imgs = 'C:\\Users\\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\\normalized_dataset\images\\'
-new_addr_labels = 'C:\\Users\\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\\normalized_dataset\labels\\'
-import shutil
+            new_lines = []
+            for two_cifr in best_subset.two_cif_array:
+                new_lines.append(two_cifr.file_name)
+            with open('C:\\Users\\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\\files.txt', "w") as new_f:
+                new_f.writelines(new_lines)
+            print("URA___KOPIROVANIEFAILOV")
+            old_addr_imgs = 'C:\\Users\\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\labeled_img1\images\\'
+            old_addr_labels = 'C:\\Users\\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\labeled_img1\labels\\'
+            new_addr_imgs = 'C:\\Users\\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\\normalized_dataset\images\\'
+            new_addr_labels = 'C:\\Users\\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\\normalized_dataset\labels\\'
+            import shutil
 
-for file_name in new_lines:
-    old_img_name = old_addr_imgs + file_name + '.jpg'
-    old_label_name = old_addr_labels + file_name + '.txt'
-    new_img_name = new_addr_imgs + file_name + '.jpg'
-    new_label_name = new_addr_labels + file_name + '.txt'
-    shutil.copy2(old_label_name, new_label_name)
-    shutil.copy2(old_img_name, new_img_name)
+            for file_name in new_lines:
+                old_img_name = old_addr_imgs + file_name + '.jpg'
+                old_label_name = old_addr_labels + file_name + '.txt'
+                new_img_name = new_addr_imgs + file_name + '.jpg'
+                new_label_name = new_addr_labels + file_name + '.txt'
+                shutil.copy2(old_label_name, new_label_name)
+                shutil.copy2(old_img_name, new_img_name)
+        j += 1

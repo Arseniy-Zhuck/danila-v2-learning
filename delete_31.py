@@ -8,8 +8,10 @@ for file in files:
         lines = []
         for line in f:
             lines.append(line)
-        for line in lines:
-            numbers = line.split(' ')
-            letters_counts[numbers[0]] +=1
-print(len(files))
-print(letters_counts)
+    if len(lines)==2:
+        three = lines[0].split(' ')[0]
+        one = lines[1].split(' ')[0]
+        if (three == '3') and (one == '1'):
+            os.remove(whole_file_name)
+            img_name = 'C:\\Users\\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\labeled_img1\images' + '\\' + file.split('.')[0] + '.jpg'
+            os.remove(img_name)
