@@ -1,5 +1,5 @@
 import os
-dataset_dir = 'C:\\Users\\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\labeled_img1\labels'
+dataset_dir = 'C:\\Users\\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\dataset_n\labels'
 files = os.listdir(dataset_dir)
 letters_counts = {'0':0, '1':0, '2':0,'3':0, '4':0, '5':0, '6':0, '7':0, '8':0, '9':0}
 for file in files:

@@ -1,0 +1,4 @@
+26.04
+800 - 100 imgs train-val
+600 imgs - train
+good needed percent

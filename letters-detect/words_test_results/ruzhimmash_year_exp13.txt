@@ -1,0 +1,20 @@
+model - 06_05_1000_764_n_1500/exp13/weights/best.pt
+ruzhimmash_year
+222 - 23
+333 - 23
+37 - 23
+23 - 23
+26 - 23
+3 - 23
+3 - 23
+36 - 23
+3 - 23
+35 - 23
+3 - 23
+3 - 23
+33 - 23
+33 - 23
+26 - 23
+37 - 23
+{<Word_compare_result.equal: 3>: 1, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 6.2, <Word_compare_result.partial: 2>: 93.8, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 0.0}

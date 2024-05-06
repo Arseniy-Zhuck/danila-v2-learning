@@ -29,3 +29,11 @@
 /letters-detect/labeled_img/
 /letters-detect/normalized_dataset/
 /letters-detect/labeled_img1/
+/letters-detect/dataset_n/
+/letters-detect/dataset_w/
+/letters-detect/dataset_www.zip
+/letters-detect/runs/exp5/
+/letters-detect/runs/exp6/
+/letters-detect/runs/exp9/
+/letters-detect/runs/exp10/
+/letters-detect/words_test/

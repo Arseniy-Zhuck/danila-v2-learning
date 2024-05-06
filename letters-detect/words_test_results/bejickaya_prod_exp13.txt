@@ -1,0 +1,19 @@
+model - 06_05_1000_764_n_1500/exp13/weights/best.pt
+bejickaya_prod12 - 12
+12 - 12
+12 - 12
+12 - 12
+12 - 12
+12 - 12
+12 - 12
+12 - 12
+12 - 12
+12 - 12
+12 - 12
+12 - 12
+12 - 12
+12 - 12
+12 - 12
+12 - 12
+{<Word_compare_result.equal: 3>: 16, <Word_compare_result.partial: 2>: 0, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 100.0, <Word_compare_result.partial: 2>: 0.0, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 0.0}

@@ -1,4 +1,5 @@
 import os
+import shutil
 from itertools import combinations
 class TwoCifr:
     def __init__(self, file_name, lines):
@@ -8,7 +9,6 @@ class TwoCifr:
             cifr = line.split(' ')[0]
             cifrs.append(cifr)
         self.cifrs = cifrs
-
 
     def has_cifr(self, cifr):
         return cifr in self.cifrs
@@ -137,7 +137,7 @@ for i in range(MIN_CIFR_COUNT * 4 + 2, (MIN_CIFR_COUNT) * 4 + 3):
             old_addr_labels = 'C:\\Users\\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\labeled_img1\labels\\'
             new_addr_imgs = 'C:\\Users\\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\\normalized_dataset\images\\'
             new_addr_labels = 'C:\\Users\\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\\normalized_dataset\labels\\'
-            import shutil
+
 
             for file_name in new_lines:
                 old_img_name = old_addr_imgs + file_name + '.jpg'

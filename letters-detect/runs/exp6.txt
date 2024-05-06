@@ -1,0 +1,4 @@
+26.04
+320 - 40 imgs train-val
+86 imgs - test
+awfull
