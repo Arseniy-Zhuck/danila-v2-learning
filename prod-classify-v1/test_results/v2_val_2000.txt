@@ -1,0 +1,1711 @@
+v2_val_2000
+1. 060cbcff-1215.jpg - right
+{'obj': 'bejickaya', 'xmin': 791, 'xmax': 847, 'ymin': 46, 'ymax': 96, 'confidence': 0.9525542855}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 155, 'ymin': 1, 'ymax': 44, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 800, 'xmax': 871, 'ymin': 290, 'ymax': 346, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 149, 'xmax': 240, 'ymin': 274, 'ymax': 330, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 205, 'xmax': 276, 'ymin': 24, 'ymax': 76, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 790, 'xmax': 845, 'ymin': 49, 'ymax': 98, 'confidence': 0.0}
+
+2. 062fd4ef-1397.jpg - right
+{'obj': 'bejickaya', 'xmin': 1258, 'xmax': 1378, 'ymin': 8, 'ymax': 103, 'confidence': 0.9436516166}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 207, 'ymin': 16, 'ymax': 80, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1305, 'xmax': 1459, 'ymin': 529, 'ymax': 637, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 136, 'xmax': 275, 'ymin': 425, 'ymax': 511, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 247, 'xmax': 353, 'ymin': 33, 'ymax': 108, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1257, 'xmax': 1381, 'ymin': 11, 'ymax': 102, 'confidence': 0.0}
+
+3. 072a9e37-1391.jpg - right
+{'obj': 'bejickaya', 'xmin': 1179, 'xmax': 1272, 'ymin': 13, 'ymax': 92, 'confidence': 0.9345768094}
+
+{'obj': 'text', 'xmin': 4, 'xmax': 227, 'ymin': 14, 'ymax': 79, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1143, 'xmax': 1238, 'ymin': 366, 'ymax': 433, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 302, 'xmax': 421, 'ymin': 362, 'ymax': 431, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 292, 'xmax': 391, 'ymin': 26, 'ymax': 108, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1181, 'xmax': 1275, 'ymin': 14, 'ymax': 93, 'confidence': 0.0}
+
+4. 1361593e-1360.jpg - right
+{'obj': 'bejickaya', 'xmin': 807, 'xmax': 875, 'ymin': 9, 'ymax': 67, 'confidence': 0.9578408599}
+
+{'obj': 'text', 'xmin': 5, 'xmax': 149, 'ymin': 21, 'ymax': 68, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 782, 'xmax': 855, 'ymin': 270, 'ymax': 319, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 202, 'xmax': 281, 'ymin': 270, 'ymax': 314, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 192, 'xmax': 263, 'ymin': 27, 'ymax': 86, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 807, 'xmax': 874, 'ymin': 11, 'ymax': 67, 'confidence': 0.0}
+
+5. 19125f4a-6026.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 877, 'xmax': 1025, 'ymin': 9, 'ymax': 82, 'confidence': 0.9609534144}
+
+{'obj': 'text', 'xmin': 65, 'xmax': 188, 'ymin': 358, 'ymax': 401, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1046, 'xmax': 1181, 'ymin': 2, 'ymax': 53, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 888, 'xmax': 944, 'ymin': 350, 'ymax': 392, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 877, 'xmax': 1025, 'ymin': 10, 'ymax': 82, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 949, 'xmax': 976, 'ymin': 354, 'ymax': 388, 'confidence': 0.0}
+
+6. 23801332-1237.jpg - right
+{'obj': 'bejickaya', 'xmin': 1268, 'xmax': 1403, 'ymin': 13, 'ymax': 121, 'confidence': 0.9492897391}
+
+{'obj': 'text', 'xmin': 5, 'xmax': 175, 'ymin': 93, 'ymax': 173, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1294, 'xmax': 1451, 'ymin': 552, 'ymax': 660, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 209, 'xmax': 325, 'ymin': 506, 'ymax': 588, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 240, 'xmax': 332, 'ymin': 112, 'ymax': 196, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1267, 'xmax': 1405, 'ymin': 15, 'ymax': 121, 'confidence': 0.0}
+
+7. 2541ad1e-1221.jpg - right
+{'obj': 'bejickaya', 'xmin': 787, 'xmax': 847, 'ymin': 28, 'ymax': 77, 'confidence': 0.953805089}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 154, 'ymin': 3, 'ymax': 44, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 772, 'xmax': 841, 'ymin': 263, 'ymax': 309, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 171, 'xmax': 258, 'ymin': 246, 'ymax': 293, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 194, 'xmax': 262, 'ymin': 17, 'ymax': 68, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 787, 'xmax': 849, 'ymin': 25, 'ymax': 77, 'confidence': 0.0}
+
+8. 272d3591-6087.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 895, 'xmax': 1064, 'ymin': 7, 'ymax': 91, 'confidence': 0.9674325585}
+{'obj': 'ruzhimmash', 'xmin': 4, 'xmax': 141, 'ymin': 4, 'ymax': 75, 'confidence': 0.5516235828}
+
+{'obj': 'text', 'xmin': 15, 'xmax': 157, 'ymin': 366, 'ymax': 411, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1090, 'xmax': 1234, 'ymin': 1, 'ymax': 61, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 892, 'xmax': 952, 'ymin': 368, 'ymax': 412, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 896, 'xmax': 1062, 'ymin': 9, 'ymax': 91, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 957, 'xmax': 986, 'ymin': 372, 'ymax': 409, 'confidence': 0.0}
+
+9. 280acaa7-1224.jpg - right
+{'obj': 'bejickaya', 'xmin': 830, 'xmax': 888, 'ymin': 15, 'ymax': 66, 'confidence': 0.9432787299}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 176, 'ymin': 2, 'ymax': 50, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 802, 'xmax': 870, 'ymin': 264, 'ymax': 313, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 184, 'xmax': 274, 'ymin': 273, 'ymax': 326, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 220, 'xmax': 293, 'ymin': 18, 'ymax': 74, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 830, 'xmax': 888, 'ymin': 16, 'ymax': 68, 'confidence': 0.0}
+
+10. 289fa977-1211.jpg - right
+{'obj': 'bejickaya', 'xmin': 842, 'xmax': 930, 'ymin': 13, 'ymax': 86, 'confidence': 0.9549265504}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 119, 'ymin': 77, 'ymax': 125, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 870, 'xmax': 977, 'ymin': 374, 'ymax': 450, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 133, 'xmax': 208, 'ymin': 352, 'ymax': 405, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 157, 'xmax': 220, 'ymin': 82, 'ymax': 138, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 840, 'xmax': 929, 'ymin': 13, 'ymax': 86, 'confidence': 0.0}
+
+11. 350ab90a-6079.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 805, 'xmax': 950, 'ymin': 14, 'ymax': 83, 'confidence': 0.9582742453}
+
+{'obj': 'text', 'xmin': 46, 'xmax': 161, 'ymin': 339, 'ymax': 382, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 976, 'xmax': 1110, 'ymin': 1, 'ymax': 50, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 835, 'xmax': 892, 'ymin': 353, 'ymax': 391, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 805, 'xmax': 952, 'ymin': 13, 'ymax': 82, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 900, 'xmax': 927, 'ymin': 356, 'ymax': 390, 'confidence': 0.0}
+
+12. 3665dca6-1238.jpg - right
+{'obj': 'bejickaya', 'xmin': 1174, 'xmax': 1315, 'ymin': 15, 'ymax': 135, 'confidence': 0.953980267}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 155, 'ymin': 206, 'ymax': 285, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1263, 'xmax': 1444, 'ymin': 624, 'ymax': 741, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 170, 'xmax': 275, 'ymin': 592, 'ymax': 675, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 201, 'xmax': 282, 'ymin': 201, 'ymax': 287, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1173, 'xmax': 1312, 'ymin': 18, 'ymax': 133, 'confidence': 0.0}
+
+13. 407ba4dd-1218.jpg - right
+{'obj': 'bejickaya', 'xmin': 796, 'xmax': 854, 'ymin': 15, 'ymax': 68, 'confidence': 0.9489768147}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 157, 'ymin': 1, 'ymax': 45, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 790, 'xmax': 854, 'ymin': 248, 'ymax': 302, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 796, 'xmax': 854, 'ymin': 17, 'ymax': 69, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 204, 'xmax': 290, 'ymin': 262, 'ymax': 312, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 217, 'xmax': 281, 'ymin': 19, 'ymax': 73, 'confidence': 0.0}
+
+14. 410a7ed8-5956.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 544, 'xmax': 642, 'ymin': 12, 'ymax': 59, 'confidence': 0.9605882168}
+
+{'obj': 'text', 'xmin': 35, 'xmax': 115, 'ymin': 245, 'ymax': 276, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 659, 'xmax': 743, 'ymin': 1, 'ymax': 34, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 583, 'xmax': 619, 'ymin': 225, 'ymax': 255, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 545, 'xmax': 643, 'ymin': 10, 'ymax': 60, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 624, 'xmax': 641, 'ymin': 227, 'ymax': 251, 'confidence': 0.0}
+
+15. 430ad9db-1317.jpg - right
+{'obj': 'bejickaya', 'xmin': 1266, 'xmax': 1399, 'ymin': 16, 'ymax': 124, 'confidence': 0.9542866349}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 182, 'ymin': 103, 'ymax': 175, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1321, 'xmax': 1483, 'ymin': 582, 'ymax': 689, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 185, 'xmax': 307, 'ymin': 511, 'ymax': 596, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 232, 'xmax': 327, 'ymin': 106, 'ymax': 192, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1264, 'xmax': 1396, 'ymin': 16, 'ymax': 125, 'confidence': 0.0}
+
+16. 44734de5-1313.jpg - right
+{'obj': 'bejickaya', 'xmin': 1314, 'xmax': 1459, 'ymin': 12, 'ymax': 129, 'confidence': 0.9563068151}
+
+{'obj': 'text', 'xmin': 5, 'xmax': 190, 'ymin': 81, 'ymax': 157, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1345, 'xmax': 1512, 'ymin': 618, 'ymax': 729, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 196, 'xmax': 314, 'ymin': 510, 'ymax': 593, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 236, 'xmax': 331, 'ymin': 93, 'ymax': 178, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1315, 'xmax': 1456, 'ymin': 15, 'ymax': 133, 'confidence': 0.0}
+
+17. 44759734-1379.jpg - right
+{'obj': 'bejickaya', 'xmin': 797, 'xmax': 858, 'ymin': 24, 'ymax': 74, 'confidence': 0.9482361674}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 154, 'ymin': 2, 'ymax': 42, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 783, 'xmax': 851, 'ymin': 250, 'ymax': 300, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 182, 'xmax': 265, 'ymin': 245, 'ymax': 295, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 205, 'xmax': 272, 'ymin': 17, 'ymax': 71, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 796, 'xmax': 857, 'ymin': 23, 'ymax': 73, 'confidence': 0.0}
+
+18. 45086af2-1302.jpg - right
+{'obj': 'bejickaya', 'xmin': 1194, 'xmax': 1326, 'ymin': 18, 'ymax': 125, 'confidence': 0.946172893}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 167, 'ymin': 120, 'ymax': 193, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1249, 'xmax': 1403, 'ymin': 539, 'ymax': 646, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 191, 'xmax': 303, 'ymin': 510, 'ymax': 589, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 222, 'xmax': 312, 'ymin': 130, 'ymax': 211, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1194, 'xmax': 1324, 'ymin': 17, 'ymax': 130, 'confidence': 0.0}
+
+19. 47478618-5881.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 725, 'xmax': 852, 'ymin': 10, 'ymax': 72, 'confidence': 0.9542329311}
+
+{'obj': 'text', 'xmin': 37, 'xmax': 140, 'ymin': 315, 'ymax': 352, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 872, 'xmax': 977, 'ymin': 1, 'ymax': 43, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 742, 'xmax': 788, 'ymin': 299, 'ymax': 335, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 726, 'xmax': 852, 'ymin': 10, 'ymax': 74, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 793, 'xmax': 817, 'ymin': 303, 'ymax': 332, 'confidence': 0.0}
+
+20. 48615e34-1216.jpg - right
+{'obj': 'bejickaya', 'xmin': 689, 'xmax': 739, 'ymin': 23, 'ymax': 66, 'confidence': 0.9534110427}
+
+{'obj': 'text', 'xmin': 0, 'xmax': 137, 'ymin': 1, 'ymax': 37, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 688, 'xmax': 744, 'ymin': 226, 'ymax': 271, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 689, 'xmax': 739, 'ymin': 23, 'ymax': 67, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 154, 'xmax': 231, 'ymin': 230, 'ymax': 278, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 185, 'xmax': 244, 'ymin': 18, 'ymax': 63, 'confidence': 0.0}
+
+21. 49062f1d-6094.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 885, 'xmax': 1034, 'ymin': 15, 'ymax': 85, 'confidence': 0.9655074477}
+
+{'obj': 'text', 'xmin': 63, 'xmax': 189, 'ymin': 348, 'ymax': 391, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1060, 'xmax': 1189, 'ymin': 1, 'ymax': 55, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 899, 'xmax': 952, 'ymin': 330, 'ymax': 373, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 882, 'xmax': 1035, 'ymin': 14, 'ymax': 84, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 957, 'xmax': 985, 'ymin': 334, 'ymax': 370, 'confidence': 0.0}
+
+22. 4944a8a0-1381.jpg - right
+{'obj': 'bejickaya', 'xmin': 1271, 'xmax': 1415, 'ymin': 16, 'ymax': 130, 'confidence': 0.9564091563}
+
+{'obj': 'text', 'xmin': 5, 'xmax': 179, 'ymin': 106, 'ymax': 184, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1321, 'xmax': 1493, 'ymin': 617, 'ymax': 732, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 196, 'xmax': 311, 'ymin': 523, 'ymax': 602, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 225, 'xmax': 316, 'ymin': 114, 'ymax': 203, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1271, 'xmax': 1418, 'ymin': 13, 'ymax': 133, 'confidence': 0.0}
+
+23. 5025fac6-5945.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 649, 'xmax': 782, 'ymin': 16, 'ymax': 82, 'confidence': 0.9606016874}
+
+{'obj': 'text', 'xmin': 22, 'xmax': 113, 'ymin': 323, 'ymax': 363, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 804, 'xmax': 934, 'ymin': 2, 'ymax': 48, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 716, 'xmax': 766, 'ymin': 354, 'ymax': 398, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 648, 'xmax': 783, 'ymin': 18, 'ymax': 84, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 774, 'xmax': 804, 'ymin': 358, 'ymax': 397, 'confidence': 0.0}
+
+24. 51cddff3-1367.jpg - right
+{'obj': 'bejickaya', 'xmin': 679, 'xmax': 728, 'ymin': 30, 'ymax': 74, 'confidence': 0.9521074891}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 136, 'ymin': 1, 'ymax': 42, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 672, 'xmax': 729, 'ymin': 248, 'ymax': 291, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 153, 'xmax': 230, 'ymin': 235, 'ymax': 284, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 175, 'xmax': 236, 'ymin': 16, 'ymax': 64, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 679, 'xmax': 728, 'ymin': 28, 'ymax': 74, 'confidence': 0.0}
+
+25. 5267eeea-6027.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 811, 'xmax': 935, 'ymin': 14, 'ymax': 77, 'confidence': 0.9474039674}
+
+{'obj': 'text', 'xmin': 41, 'xmax': 169, 'ymin': 359, 'ymax': 403, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 951, 'xmax': 1061, 'ymin': 2, 'ymax': 44, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 830, 'xmax': 878, 'ymin': 312, 'ymax': 349, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 810, 'xmax': 937, 'ymin': 11, 'ymax': 78, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 879, 'xmax': 903, 'ymin': 310, 'ymax': 343, 'confidence': 0.0}
+
+26. 5358582d-1260.jpg - right
+{'obj': 'bejickaya', 'xmin': 1248, 'xmax': 1388, 'ymin': 20, 'ymax': 136, 'confidence': 0.9537775517}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 162, 'ymin': 188, 'ymax': 271, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1329, 'xmax': 1508, 'ymin': 641, 'ymax': 761, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 164, 'xmax': 277, 'ymin': 598, 'ymax': 686, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 209, 'xmax': 300, 'ymin': 185, 'ymax': 274, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1245, 'xmax': 1391, 'ymin': 17, 'ymax': 137, 'confidence': 0.0}
+
+27. 541543fe-6020.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 813, 'xmax': 1004, 'ymin': 15, 'ymax': 108, 'confidence': 0.9376067519}
+
+{'obj': 'text', 'xmin': 1035, 'xmax': 1207, 'ymin': 30, 'ymax': 100, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 827, 'xmax': 886, 'ymin': 394, 'ymax': 437, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 819, 'xmax': 1006, 'ymin': 18, 'ymax': 112, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 895, 'xmax': 927, 'ymin': 405, 'ymax': 442, 'confidence': 0.0}
+
+28. 5694315e-5984.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 559, 'xmax': 648, 'ymin': 19, 'ymax': 72, 'confidence': 0.9414240718}
+
+{'obj': 'text', 'xmin': 26, 'xmax': 124, 'ymin': 336, 'ymax': 383, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 661, 'xmax': 737, 'ymin': 1, 'ymax': 38, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 611, 'xmax': 642, 'ymin': 213, 'ymax': 241, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 559, 'xmax': 650, 'ymin': 24, 'ymax': 76, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 647, 'xmax': 664, 'ymin': 209, 'ymax': 231, 'confidence': 0.0}
+
+29. 56a60cff-1361.jpg - right
+{'obj': 'bejickaya', 'xmin': 850, 'xmax': 913, 'ymin': 8, 'ymax': 61, 'confidence': 0.943751812}
+
+{'obj': 'text', 'xmin': 4, 'xmax': 167, 'ymin': 2, 'ymax': 48, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 806, 'xmax': 877, 'ymin': 248, 'ymax': 296, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 219, 'xmax': 304, 'ymin': 256, 'ymax': 305, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 220, 'xmax': 294, 'ymin': 13, 'ymax': 74, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 848, 'xmax': 914, 'ymin': 8, 'ymax': 65, 'confidence': 0.0}
+
+30. 5771a13a-6073.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 855, 'xmax': 1000, 'ymin': 9, 'ymax': 81, 'confidence': 0.9495886564}
+
+{'obj': 'text', 'xmin': 58, 'xmax': 180, 'ymin': 359, 'ymax': 402, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1019, 'xmax': 1148, 'ymin': 2, 'ymax': 56, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 867, 'xmax': 923, 'ymin': 345, 'ymax': 387, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 853, 'xmax': 1003, 'ymin': 10, 'ymax': 84, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 928, 'xmax': 955, 'ymin': 350, 'ymax': 383, 'confidence': 0.0}
+
+31. 59b763df-1328.jpg - right
+{'obj': 'bejickaya', 'xmin': 508, 'xmax': 544, 'ymin': 7, 'ymax': 39, 'confidence': 0.95074898}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 100, 'ymin': 1, 'ymax': 27, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 514, 'xmax': 557, 'ymin': 161, 'ymax': 195, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 114, 'xmax': 172, 'ymin': 167, 'ymax': 205, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 135, 'xmax': 180, 'ymin': 10, 'ymax': 44, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 507, 'xmax': 546, 'ymin': 7, 'ymax': 41, 'confidence': 0.0}
+
+32. 60962d39-6058.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 476, 'xmax': 595, 'ymin': 22, 'ymax': 94, 'confidence': 0.9449825287}
+
+{'obj': 'text', 'xmin': 24, 'xmax': 87, 'ymin': 196, 'ymax': 236, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 615, 'xmax': 734, 'ymin': 35, 'ymax': 89, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 533, 'xmax': 575, 'ymin': 323, 'ymax': 362, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 477, 'xmax': 595, 'ymin': 28, 'ymax': 97, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 582, 'xmax': 604, 'ymin': 337, 'ymax': 366, 'confidence': 0.0}
+
+33. 6144729b-6028.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 722, 'xmax': 844, 'ymin': 11, 'ymax': 70, 'confidence': 0.9585092664}
+
+{'obj': 'text', 'xmin': 45, 'xmax': 150, 'ymin': 298, 'ymax': 335, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 862, 'xmax': 971, 'ymin': 0, 'ymax': 43, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 744, 'xmax': 789, 'ymin': 298, 'ymax': 335, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 721, 'xmax': 842, 'ymin': 11, 'ymax': 71, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 792, 'xmax': 816, 'ymin': 299, 'ymax': 327, 'confidence': 0.0}
+
+34. 6161c151-1375.jpg - right
+{'obj': 'bejickaya', 'xmin': 881, 'xmax': 946, 'ymin': 10, 'ymax': 62, 'confidence': 0.9443525076}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 181, 'ymin': 7, 'ymax': 59, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 854, 'xmax': 927, 'ymin': 255, 'ymax': 306, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 203, 'xmax': 296, 'ymin': 262, 'ymax': 315, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 226, 'xmax': 305, 'ymin': 19, 'ymax': 75, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 880, 'xmax': 949, 'ymin': 10, 'ymax': 62, 'confidence': 0.0}
+
+35. 641d28d9-1364.jpg - right
+{'obj': 'bejickaya', 'xmin': 576, 'xmax': 619, 'ymin': 22, 'ymax': 57, 'confidence': 0.9589781761}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 120, 'ymin': 1, 'ymax': 36, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 532, 'xmax': 577, 'ymin': 181, 'ymax': 212, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 146, 'xmax': 207, 'ymin': 171, 'ymax': 205, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 151, 'xmax': 202, 'ymin': 13, 'ymax': 54, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 576, 'xmax': 620, 'ymin': 20, 'ymax': 58, 'confidence': 0.0}
+
+36. 6437dda3-1235.jpg - right
+{'obj': 'bejickaya', 'xmin': 1285, 'xmax': 1425, 'ymin': 12, 'ymax': 124, 'confidence': 0.9397204518}
+
+{'obj': 'text', 'xmin': 0, 'xmax': 182, 'ymin': 111, 'ymax': 189, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1337, 'xmax': 1501, 'ymin': 607, 'ymax': 715, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 194, 'xmax': 312, 'ymin': 532, 'ymax': 616, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 230, 'xmax': 324, 'ymin': 117, 'ymax': 206, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1287, 'xmax': 1424, 'ymin': 15, 'ymax': 126, 'confidence': 0.0}
+
+37. 65974866-1337.jpg - right
+{'obj': 'bejickaya', 'xmin': 569, 'xmax': 611, 'ymin': 26, 'ymax': 63, 'confidence': 0.9487534165}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 114, 'ymin': 2, 'ymax': 33, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 570, 'xmax': 621, 'ymin': 208, 'ymax': 247, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 114, 'xmax': 178, 'ymin': 191, 'ymax': 229, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 140, 'xmax': 192, 'ymin': 12, 'ymax': 52, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 569, 'xmax': 611, 'ymin': 25, 'ymax': 63, 'confidence': 0.0}
+
+38. 672c5705-1349.jpg - right
+{'obj': 'bejickaya', 'xmin': 942, 'xmax': 1013, 'ymin': 7, 'ymax': 69, 'confidence': 0.9541682601}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 183, 'ymin': 16, 'ymax': 72, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 946, 'xmax': 1030, 'ymin': 310, 'ymax': 369, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 204, 'xmax': 307, 'ymin': 314, 'ymax': 380, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 235, 'xmax': 312, 'ymin': 25, 'ymax': 93, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 943, 'xmax': 1014, 'ymin': 9, 'ymax': 72, 'confidence': 0.0}
+
+39. 7177d851-1228.jpg - right
+{'obj': 'bejickaya', 'xmin': 878, 'xmax': 944, 'ymin': 25, 'ymax': 79, 'confidence': 0.939664185}
+
+{'obj': 'text', 'xmin': 4, 'xmax': 179, 'ymin': 4, 'ymax': 49, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 851, 'xmax': 927, 'ymin': 283, 'ymax': 333, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 194, 'xmax': 290, 'ymin': 275, 'ymax': 330, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 226, 'xmax': 300, 'ymin': 18, 'ymax': 76, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 878, 'xmax': 945, 'ymin': 25, 'ymax': 79, 'confidence': 0.0}
+
+40. 71ea5db6-1253.jpg - right
+{'obj': 'bejickaya', 'xmin': 1256, 'xmax': 1395, 'ymin': 16, 'ymax': 130, 'confidence': 0.9447238445}
+
+{'obj': 'text', 'xmin': 0, 'xmax': 172, 'ymin': 128, 'ymax': 205, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1312, 'xmax': 1482, 'ymin': 608, 'ymax': 712, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 189, 'xmax': 305, 'ymin': 545, 'ymax': 625, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 222, 'xmax': 311, 'ymin': 130, 'ymax': 217, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1256, 'xmax': 1394, 'ymin': 13, 'ymax': 128, 'confidence': 0.0}
+
+41. 723a6eb0-6091.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 792, 'xmax': 933, 'ymin': 12, 'ymax': 80, 'confidence': 0.9618073702}
+
+{'obj': 'text', 'xmin': 42, 'xmax': 157, 'ymin': 349, 'ymax': 392, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 953, 'xmax': 1079, 'ymin': 0, 'ymax': 46, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 821, 'xmax': 874, 'ymin': 341, 'ymax': 381, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 792, 'xmax': 931, 'ymin': 14, 'ymax': 85, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 879, 'xmax': 907, 'ymin': 341, 'ymax': 375, 'confidence': 0.0}
+
+42. 72afc783-1334.jpg - right
+{'obj': 'bejickaya', 'xmin': 947, 'xmax': 1018, 'ymin': 28, 'ymax': 86, 'confidence': 0.9446786046}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 190, 'ymin': 3, 'ymax': 53, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 916, 'xmax': 996, 'ymin': 305, 'ymax': 361, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 216, 'xmax': 318, 'ymin': 294, 'ymax': 353, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 244, 'xmax': 327, 'ymin': 20, 'ymax': 82, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 947, 'xmax': 1019, 'ymin': 28, 'ymax': 89, 'confidence': 0.0}
+
+43. 72e6cc37-1296.jpg - right
+{'obj': 'bejickaya', 'xmin': 1284, 'xmax': 1420, 'ymin': 9, 'ymax': 118, 'confidence': 0.9404166937}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 183, 'ymin': 112, 'ymax': 191, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1346, 'xmax': 1505, 'ymin': 588, 'ymax': 704, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 196, 'xmax': 319, 'ymin': 533, 'ymax': 617, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 236, 'xmax': 333, 'ymin': 116, 'ymax': 206, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1282, 'xmax': 1419, 'ymin': 13, 'ymax': 121, 'confidence': 0.0}
+
+44. 7685bdbe-1280.jpg - right
+{'obj': 'bejickaya', 'xmin': 933, 'xmax': 1004, 'ymin': 40, 'ymax': 96, 'confidence': 0.9515779614}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 180, 'ymin': 1, 'ymax': 49, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 896, 'xmax': 976, 'ymin': 280, 'ymax': 332, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 223, 'xmax': 320, 'ymin': 263, 'ymax': 314, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 241, 'xmax': 319, 'ymin': 22, 'ymax': 80, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 931, 'xmax': 1007, 'ymin': 40, 'ymax': 98, 'confidence': 0.0}
+
+45. 76aacddd-1339.jpg - right
+{'obj': 'bejickaya', 'xmin': 615, 'xmax': 663, 'ymin': 41, 'ymax': 81, 'confidence': 0.9440324903}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 116, 'ymin': 1, 'ymax': 38, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 610, 'xmax': 667, 'ymin': 246, 'ymax': 289, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 115, 'xmax': 185, 'ymin': 206, 'ymax': 249, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 146, 'xmax': 199, 'ymin': 16, 'ymax': 60, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 613, 'xmax': 664, 'ymin': 41, 'ymax': 83, 'confidence': 0.0}
+
+46. 783d36ee-1376.jpg - right
+{'obj': 'bejickaya', 'xmin': 840, 'xmax': 903, 'ymin': 7, 'ymax': 57, 'confidence': 0.9527871609}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 170, 'ymin': 9, 'ymax': 56, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 822, 'xmax': 890, 'ymin': 247, 'ymax': 296, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 190, 'xmax': 281, 'ymin': 254, 'ymax': 309, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 215, 'xmax': 288, 'ymin': 19, 'ymax': 74, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 839, 'xmax': 905, 'ymin': 8, 'ymax': 59, 'confidence': 0.0}
+
+47. 80846917-1365.jpg - right
+{'obj': 'bejickaya', 'xmin': 692, 'xmax': 742, 'ymin': 10, 'ymax': 47, 'confidence': 0.9264556766}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 150, 'ymin': 21, 'ymax': 62, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 633, 'xmax': 687, 'ymin': 154, 'ymax': 187, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 201, 'xmax': 268, 'ymin': 177, 'ymax': 213, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 191, 'xmax': 255, 'ymin': 24, 'ymax': 70, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 694, 'xmax': 745, 'ymin': 9, 'ymax': 45, 'confidence': 0.0}
+
+48. 8384a922-1394.jpg - right
+{'obj': 'bejickaya', 'xmin': 1319, 'xmax': 1464, 'ymin': 15, 'ymax': 127, 'confidence': 0.956587851}
+
+{'obj': 'text', 'xmin': 5, 'xmax': 185, 'ymin': 69, 'ymax': 141, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1357, 'xmax': 1525, 'ymin': 583, 'ymax': 699, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 185, 'xmax': 308, 'ymin': 498, 'ymax': 583, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 247, 'xmax': 346, 'ymin': 88, 'ymax': 169, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1317, 'xmax': 1464, 'ymin': 17, 'ymax': 129, 'confidence': 0.0}
+
+49. 839e86e0-5978.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 539, 'xmax': 643, 'ymin': 10, 'ymax': 57, 'confidence': 0.9655820131}
+
+{'obj': 'text', 'xmin': 55, 'xmax': 130, 'ymin': 215, 'ymax': 240, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 662, 'xmax': 758, 'ymin': 1, 'ymax': 34, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 590, 'xmax': 629, 'ymin': 217, 'ymax': 245, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 540, 'xmax': 646, 'ymin': 11, 'ymax': 57, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 633, 'xmax': 651, 'ymin': 220, 'ymax': 244, 'confidence': 0.0}
+
+50. 85c5953e-1232.jpg - right
+{'obj': 'bejickaya', 'xmin': 1292, 'xmax': 1424, 'ymin': 13, 'ymax': 120, 'confidence': 0.9516283274}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 189, 'ymin': 60, 'ymax': 131, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1340, 'xmax': 1500, 'ymin': 582, 'ymax': 690, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 187, 'xmax': 312, 'ymin': 482, 'ymax': 565, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 243, 'xmax': 337, 'ymin': 77, 'ymax': 156, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1289, 'xmax': 1422, 'ymin': 15, 'ymax': 118, 'confidence': 0.0}
+
+51. 8710fc11-1371.jpg - right
+{'obj': 'bejickaya', 'xmin': 689, 'xmax': 744, 'ymin': 32, 'ymax': 78, 'confidence': 0.9450906515}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 127, 'ymin': 4, 'ymax': 40, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 693, 'xmax': 758, 'ymin': 252, 'ymax': 296, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 156, 'xmax': 229, 'ymin': 212, 'ymax': 256, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 160, 'xmax': 220, 'ymin': 16, 'ymax': 64, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 688, 'xmax': 745, 'ymin': 32, 'ymax': 81, 'confidence': 0.0}
+
+52. 873d4b85-6090.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 892, 'xmax': 1042, 'ymin': 17, 'ymax': 94, 'confidence': 0.9583830833}
+
+{'obj': 'text', 'xmin': 64, 'xmax': 193, 'ymin': 416, 'ymax': 464, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1064, 'xmax': 1196, 'ymin': 1, 'ymax': 54, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 926, 'xmax': 981, 'ymin': 371, 'ymax': 415, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 890, 'xmax': 1039, 'ymin': 18, 'ymax': 100, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 988, 'xmax': 1016, 'ymin': 372, 'ymax': 410, 'confidence': 0.0}
+
+53. 90143617-1277.jpg - right
+{'obj': 'bejickaya', 'xmin': 680, 'xmax': 733, 'ymin': 22, 'ymax': 67, 'confidence': 0.9512911439}
+
+{'obj': 'text', 'xmin': 4, 'xmax': 134, 'ymin': 2, 'ymax': 38, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 679, 'xmax': 742, 'ymin': 240, 'ymax': 285, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 144, 'xmax': 219, 'ymin': 218, 'ymax': 262, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 168, 'xmax': 225, 'ymin': 11, 'ymax': 60, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 679, 'xmax': 734, 'ymin': 25, 'ymax': 69, 'confidence': 0.0}
+
+54. 90cde2db-1387.jpg - right
+{'obj': 'bejickaya', 'xmin': 1256, 'xmax': 1398, 'ymin': 18, 'ymax': 134, 'confidence': 0.9499114752}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 174, 'ymin': 142, 'ymax': 217, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1321, 'xmax': 1481, 'ymin': 574, 'ymax': 682, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 210, 'xmax': 323, 'ymin': 553, 'ymax': 633, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 234, 'xmax': 325, 'ymin': 149, 'ymax': 233, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1256, 'xmax': 1402, 'ymin': 20, 'ymax': 135, 'confidence': 0.0}
+
+55. 9157f56a-6107.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 907, 'xmax': 1064, 'ymin': 12, 'ymax': 86, 'confidence': 0.963349402}
+
+{'obj': 'text', 'xmin': 69, 'xmax': 193, 'ymin': 362, 'ymax': 402, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1087, 'xmax': 1230, 'ymin': 1, 'ymax': 54, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 916, 'xmax': 973, 'ymin': 363, 'ymax': 404, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 902, 'xmax': 1063, 'ymin': 14, 'ymax': 88, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 974, 'xmax': 1001, 'ymin': 364, 'ymax': 400, 'confidence': 0.0}
+
+56. 9214236c-1358.jpg - right
+{'obj': 'bejickaya', 'xmin': 842, 'xmax': 911, 'ymin': 6, 'ymax': 65, 'confidence': 0.9495845437}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 156, 'ymin': 12, 'ymax': 65, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 802, 'xmax': 878, 'ymin': 268, 'ymax': 319, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 214, 'xmax': 297, 'ymin': 266, 'ymax': 315, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 201, 'xmax': 275, 'ymin': 22, 'ymax': 83, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 842, 'xmax': 913, 'ymin': 8, 'ymax': 68, 'confidence': 0.0}
+
+57. 924d3f0a-1223.jpg - right
+{'obj': 'bejickaya', 'xmin': 862, 'xmax': 926, 'ymin': 43, 'ymax': 95, 'confidence': 0.9556665421}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 174, 'ymin': 5, 'ymax': 52, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 838, 'xmax': 910, 'ymin': 289, 'ymax': 338, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 861, 'xmax': 928, 'ymin': 41, 'ymax': 96, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 195, 'xmax': 288, 'ymin': 263, 'ymax': 313, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 219, 'xmax': 292, 'ymin': 23, 'ymax': 76, 'confidence': 0.0}
+
+58. 925debc4-6021.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 862, 'xmax': 1009, 'ymin': 11, 'ymax': 80, 'confidence': 0.9629173279}
+
+{'obj': 'text', 'xmin': 76, 'xmax': 195, 'ymin': 319, 'ymax': 359, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1032, 'xmax': 1161, 'ymin': 0, 'ymax': 50, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 875, 'xmax': 925, 'ymin': 326, 'ymax': 364, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 861, 'xmax': 1011, 'ymin': 10, 'ymax': 78, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 930, 'xmax': 956, 'ymin': 326, 'ymax': 360, 'confidence': 0.0}
+
+59. 931823cd-1335.jpg - right
+{'obj': 'bejickaya', 'xmin': 903, 'xmax': 968, 'ymin': 26, 'ymax': 82, 'confidence': 0.95484972}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 180, 'ymin': 2, 'ymax': 51, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 888, 'xmax': 959, 'ymin': 290, 'ymax': 346, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 203, 'xmax': 301, 'ymin': 293, 'ymax': 350, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 240, 'xmax': 318, 'ymin': 24, 'ymax': 81, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 901, 'xmax': 969, 'ymin': 24, 'ymax': 84, 'confidence': 0.0}
+
+60. 9466b409-1249.jpg - right
+{'obj': 'bejickaya', 'xmin': 1090, 'xmax': 1212, 'ymin': 15, 'ymax': 122, 'confidence': 0.9534744024}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 146, 'ymin': 172, 'ymax': 246, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1150, 'xmax': 1294, 'ymin': 517, 'ymax': 614, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 195, 'xmax': 296, 'ymin': 536, 'ymax': 613, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 204, 'xmax': 283, 'ymin': 174, 'ymax': 252, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1088, 'xmax': 1217, 'ymin': 18, 'ymax': 124, 'confidence': 0.0}
+
+61. 954994df-1308.jpg - right
+{'obj': 'bejickaya', 'xmin': 1292, 'xmax': 1431, 'ymin': 11, 'ymax': 122, 'confidence': 0.9348446131}
+
+{'obj': 'text', 'xmin': 5, 'xmax': 183, 'ymin': 65, 'ymax': 138, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1320, 'xmax': 1477, 'ymin': 564, 'ymax': 679, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 186, 'xmax': 303, 'ymin': 488, 'ymax': 572, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 245, 'xmax': 339, 'ymin': 82, 'ymax': 164, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1288, 'xmax': 1432, 'ymin': 13, 'ymax': 128, 'confidence': 0.0}
+
+62. 97f458dd-1319.jpg - right
+{'obj': 'bejickaya', 'xmin': 1339, 'xmax': 1483, 'ymin': 8, 'ymax': 122, 'confidence': 0.9516820908}
+
+{'obj': 'text', 'xmin': 0, 'xmax': 188, 'ymin': 23, 'ymax': 91, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1346, 'xmax': 1517, 'ymin': 612, 'ymax': 730, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 176, 'xmax': 299, 'ymin': 458, 'ymax': 545, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 237, 'xmax': 340, 'ymin': 35, 'ymax': 123, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1334, 'xmax': 1486, 'ymin': 10, 'ymax': 126, 'confidence': 0.0}
+
+63. 980cb7dc-6013.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 571, 'xmax': 677, 'ymin': 21, 'ymax': 73, 'confidence': 0.9710949659}
+
+{'obj': 'text', 'xmin': 57, 'xmax': 137, 'ymin': 273, 'ymax': 306, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 695, 'xmax': 796, 'ymin': 0, 'ymax': 42, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 609, 'xmax': 649, 'ymin': 236, 'ymax': 265, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 570, 'xmax': 677, 'ymin': 21, 'ymax': 75, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 653, 'xmax': 673, 'ymin': 236, 'ymax': 261, 'confidence': 0.0}
+
+64. a16e2d57-6035.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 887, 'xmax': 1048, 'ymin': 9, 'ymax': 85, 'confidence': 0.9513131976}
+
+{'obj': 'text', 'xmin': 72, 'xmax': 201, 'ymin': 339, 'ymax': 381, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1077, 'xmax': 1223, 'ymin': 2, 'ymax': 54, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 909, 'xmax': 967, 'ymin': 351, 'ymax': 390, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 881, 'xmax': 1047, 'ymin': 9, 'ymax': 88, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 969, 'xmax': 997, 'ymin': 351, 'ymax': 388, 'confidence': 0.0}
+
+65. a1fd5426-1261.jpg - right
+{'obj': 'bejickaya', 'xmin': 1279, 'xmax': 1421, 'ymin': 14, 'ymax': 129, 'confidence': 0.9518845081}
+
+{'obj': 'text', 'xmin': 0, 'xmax': 167, 'ymin': 122, 'ymax': 196, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1330, 'xmax': 1501, 'ymin': 616, 'ymax': 730, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 189, 'xmax': 310, 'ymin': 541, 'ymax': 624, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 224, 'xmax': 314, 'ymin': 125, 'ymax': 215, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1278, 'xmax': 1420, 'ymin': 10, 'ymax': 132, 'confidence': 0.0}
+
+66. a23f3589-6056.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 693, 'xmax': 799, 'ymin': 19, 'ymax': 77, 'confidence': 0.9467504025}
+
+{'obj': 'text', 'xmin': 0, 'xmax': 119, 'ymin': 407, 'ymax': 460, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 817, 'xmax': 907, 'ymin': 0, 'ymax': 41, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 727, 'xmax': 766, 'ymin': 279, 'ymax': 313, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 694, 'xmax': 802, 'ymin': 16, 'ymax': 83, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 770, 'xmax': 789, 'ymin': 277, 'ymax': 304, 'confidence': 0.0}
+
+67. a2d4c901-1325.jpg - right
+{'obj': 'bejickaya', 'xmin': 689, 'xmax': 741, 'ymin': 8, 'ymax': 51, 'confidence': 0.9462509751}
+
+{'obj': 'text', 'xmin': 0, 'xmax': 139, 'ymin': 3, 'ymax': 44, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 661, 'xmax': 716, 'ymin': 203, 'ymax': 242, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 189, 'xmax': 257, 'ymin': 208, 'ymax': 249, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 178, 'xmax': 240, 'ymin': 13, 'ymax': 60, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 689, 'xmax': 743, 'ymin': 5, 'ymax': 53, 'confidence': 0.0}
+
+68. a530bdc9-1293.jpg - right
+{'obj': 'bejickaya', 'xmin': 491, 'xmax': 529, 'ymin': 5, 'ymax': 36, 'confidence': 0.948387444}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 98, 'ymin': 11, 'ymax': 42, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 481, 'xmax': 521, 'ymin': 141, 'ymax': 171, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 134, 'xmax': 183, 'ymin': 156, 'ymax': 184, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 129, 'xmax': 170, 'ymin': 18, 'ymax': 52, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 491, 'xmax': 529, 'ymin': 4, 'ymax': 36, 'confidence': 0.0}
+
+69. a59d96c6-1290.jpg - right
+{'obj': 'bejickaya', 'xmin': 1003, 'xmax': 1082, 'ymin': 20, 'ymax': 83, 'confidence': 0.9458019733}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 196, 'ymin': 3, 'ymax': 55, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 970, 'xmax': 1059, 'ymin': 314, 'ymax': 373, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 220, 'xmax': 329, 'ymin': 302, 'ymax': 365, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 250, 'xmax': 336, 'ymin': 19, 'ymax': 86, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1002, 'xmax': 1081, 'ymin': 20, 'ymax': 85, 'confidence': 0.0}
+
+70. a6ddb762-1294.jpg - right
+{'obj': 'bejickaya', 'xmin': 631, 'xmax': 677, 'ymin': 31, 'ymax': 71, 'confidence': 0.9573605657}
+
+{'obj': 'text', 'xmin': 4, 'xmax': 128, 'ymin': 3, 'ymax': 39, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 618, 'xmax': 671, 'ymin': 210, 'ymax': 250, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 151, 'xmax': 219, 'ymin': 204, 'ymax': 247, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 170, 'xmax': 225, 'ymin': 21, 'ymax': 63, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 632, 'xmax': 678, 'ymin': 32, 'ymax': 72, 'confidence': 0.0}
+
+71. a8724217-5898.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 730, 'xmax': 852, 'ymin': 13, 'ymax': 70, 'confidence': 0.9656629562}
+
+{'obj': 'text', 'xmin': 68, 'xmax': 164, 'ymin': 278, 'ymax': 310, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 870, 'xmax': 985, 'ymin': 2, 'ymax': 42, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 737, 'xmax': 779, 'ymin': 264, 'ymax': 296, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 727, 'xmax': 855, 'ymin': 16, 'ymax': 72, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 784, 'xmax': 804, 'ymin': 264, 'ymax': 291, 'confidence': 0.0}
+
+72. a956c82b-1315.jpg - right
+{'obj': 'bejickaya', 'xmin': 1256, 'xmax': 1393, 'ymin': 15, 'ymax': 128, 'confidence': 0.9508507848}
+
+{'obj': 'text', 'xmin': 5, 'xmax': 184, 'ymin': 121, 'ymax': 198, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1318, 'xmax': 1482, 'ymin': 602, 'ymax': 710, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 187, 'xmax': 303, 'ymin': 536, 'ymax': 616, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 228, 'xmax': 321, 'ymin': 126, 'ymax': 213, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1255, 'xmax': 1393, 'ymin': 17, 'ymax': 128, 'confidence': 0.0}
+
+73. a9afd5da-1396.jpg - right
+{'obj': 'bejickaya', 'xmin': 1248, 'xmax': 1388, 'ymin': 15, 'ymax': 129, 'confidence': 0.9563631415}
+
+{'obj': 'text', 'xmin': 5, 'xmax': 175, 'ymin': 158, 'ymax': 236, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1314, 'xmax': 1486, 'ymin': 617, 'ymax': 727, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 180, 'xmax': 298, 'ymin': 567, 'ymax': 651, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 221, 'xmax': 310, 'ymin': 160, 'ymax': 247, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1245, 'xmax': 1389, 'ymin': 17, 'ymax': 134, 'confidence': 0.0}
+
+74. aa107436-5906.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 481, 'xmax': 566, 'ymin': 8, 'ymax': 49, 'confidence': 0.9551064968}
+
+{'obj': 'text', 'xmin': 6, 'xmax': 82, 'ymin': 210, 'ymax': 238, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 581, 'xmax': 660, 'ymin': 0, 'ymax': 30, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 517, 'xmax': 554, 'ymin': 222, 'ymax': 249, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 480, 'xmax': 568, 'ymin': 10, 'ymax': 49, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 558, 'xmax': 576, 'ymin': 224, 'ymax': 249, 'confidence': 0.0}
+
+75. aa5109b8-1262.jpg - right
+{'obj': 'bejickaya', 'xmin': 1183, 'xmax': 1314, 'ymin': 10, 'ymax': 117, 'confidence': 0.9560479522}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 166, 'ymin': 92, 'ymax': 161, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1225, 'xmax': 1387, 'ymin': 575, 'ymax': 685, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 169, 'xmax': 279, 'ymin': 483, 'ymax': 562, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 211, 'xmax': 297, 'ymin': 97, 'ymax': 179, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1180, 'xmax': 1317, 'ymin': 12, 'ymax': 119, 'confidence': 0.0}
+
+76. ab256ae4-1295.jpg - right
+{'obj': 'bejickaya', 'xmin': 525, 'xmax': 567, 'ymin': 15, 'ymax': 51, 'confidence': 0.9497730136}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 104, 'ymin': 1, 'ymax': 32, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 508, 'xmax': 553, 'ymin': 179, 'ymax': 211, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 133, 'xmax': 185, 'ymin': 167, 'ymax': 196, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 131, 'xmax': 175, 'ymin': 11, 'ymax': 47, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 525, 'xmax': 567, 'ymin': 16, 'ymax': 51, 'confidence': 0.0}
+
+77. ab72979d-5927.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 499, 'xmax': 591, 'ymin': 15, 'ymax': 60, 'confidence': 0.9617084265}
+
+{'obj': 'text', 'xmin': 26, 'xmax': 102, 'ymin': 250, 'ymax': 280, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 604, 'xmax': 690, 'ymin': 0, 'ymax': 34, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 550, 'xmax': 583, 'ymin': 231, 'ymax': 259, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 499, 'xmax': 591, 'ymin': 14, 'ymax': 63, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 588, 'xmax': 607, 'ymin': 231, 'ymax': 255, 'confidence': 0.0}
+
+78. abd9bea8-6011.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 735, 'xmax': 872, 'ymin': 12, 'ymax': 79, 'confidence': 0.9508354068}
+
+{'obj': 'text', 'xmin': 25, 'xmax': 138, 'ymin': 318, 'ymax': 357, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 899, 'xmax': 1025, 'ymin': 1, 'ymax': 49, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 778, 'xmax': 831, 'ymin': 329, 'ymax': 370, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 733, 'xmax': 875, 'ymin': 14, 'ymax': 84, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 836, 'xmax': 862, 'ymin': 334, 'ymax': 367, 'confidence': 0.0}
+
+79. acff220e-6076.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 907, 'xmax': 1051, 'ymin': 11, 'ymax': 81, 'confidence': 0.9545844793}
+
+{'obj': 'text', 'xmin': 62, 'xmax': 196, 'ymin': 341, 'ymax': 388, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1074, 'xmax': 1205, 'ymin': 2, 'ymax': 52, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 905, 'xmax': 960, 'ymin': 338, 'ymax': 379, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 905, 'xmax': 1054, 'ymin': 10, 'ymax': 80, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 961, 'xmax': 986, 'ymin': 340, 'ymax': 375, 'confidence': 0.0}
+
+80. adc82cf4-1406.jpg - right
+{'obj': 'bejickaya', 'xmin': 1287, 'xmax': 1389, 'ymin': 10, 'ymax': 94, 'confidence': 0.9404965043}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 241, 'ymin': 52, 'ymax': 134, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1232, 'xmax': 1341, 'ymin': 370, 'ymax': 441, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 337, 'xmax': 465, 'ymin': 393, 'ymax': 463, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 310, 'xmax': 422, 'ymin': 63, 'ymax': 151, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1282, 'xmax': 1392, 'ymin': 12, 'ymax': 95, 'confidence': 0.0}
+
+81. ae04befb-1393.jpg - right
+{'obj': 'bejickaya', 'xmin': 1258, 'xmax': 1402, 'ymin': 16, 'ymax': 133, 'confidence': 0.9596428275}
+
+{'obj': 'text', 'xmin': 5, 'xmax': 173, 'ymin': 152, 'ymax': 227, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1340, 'xmax': 1513, 'ymin': 624, 'ymax': 741, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 197, 'xmax': 314, 'ymin': 566, 'ymax': 650, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 223, 'xmax': 313, 'ymin': 153, 'ymax': 241, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1259, 'xmax': 1406, 'ymin': 17, 'ymax': 134, 'confidence': 0.0}
+
+82. ae5347b7-1278.jpg - right
+{'obj': 'bejickaya', 'xmin': 863, 'xmax': 926, 'ymin': 26, 'ymax': 80, 'confidence': 0.9531139135}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 168, 'ymin': 3, 'ymax': 48, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 847, 'xmax': 923, 'ymin': 294, 'ymax': 346, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 180, 'xmax': 273, 'ymin': 273, 'ymax': 326, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 212, 'xmax': 289, 'ymin': 17, 'ymax': 76, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 860, 'xmax': 927, 'ymin': 26, 'ymax': 80, 'confidence': 0.0}
+
+83. af944f2a-6108.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 845, 'xmax': 991, 'ymin': 11, 'ymax': 82, 'confidence': 0.9479255676}
+
+{'obj': 'text', 'xmin': 1011, 'xmax': 1141, 'ymin': 1, 'ymax': 47, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 876, 'xmax': 931, 'ymin': 350, 'ymax': 393, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 845, 'xmax': 989, 'ymin': 8, 'ymax': 81, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 937, 'xmax': 966, 'ymin': 355, 'ymax': 391, 'confidence': 0.0}
+
+84. afb70428-6003.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 676, 'xmax': 808, 'ymin': 31, 'ymax': 99, 'confidence': 0.9614824653}
+
+{'obj': 'text', 'xmin': 20, 'xmax': 110, 'ymin': 242, 'ymax': 285, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 832, 'xmax': 947, 'ymin': 37, 'ymax': 90, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 693, 'xmax': 739, 'ymin': 328, 'ymax': 368, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 677, 'xmax': 810, 'ymin': 32, 'ymax': 100, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 747, 'xmax': 773, 'ymin': 341, 'ymax': 373, 'confidence': 0.0}
+
+85. afba225b-1389.jpg - right
+{'obj': 'bejickaya', 'xmin': 1279, 'xmax': 1383, 'ymin': 12, 'ymax': 92, 'confidence': 0.940220952}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 235, 'ymin': 120, 'ymax': 200, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1263, 'xmax': 1367, 'ymin': 333, 'ymax': 399, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 365, 'xmax': 488, 'ymin': 397, 'ymax': 462, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 303, 'xmax': 416, 'ymin': 114, 'ymax': 197, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1276, 'xmax': 1386, 'ymin': 15, 'ymax': 93, 'confidence': 0.0}
+
+86. b08dba3a-6089.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 812, 'xmax': 946, 'ymin': 11, 'ymax': 76, 'confidence': 0.9576636553}
+
+{'obj': 'text', 'xmin': 49, 'xmax': 170, 'ymin': 335, 'ymax': 376, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 967, 'xmax': 1090, 'ymin': 1, 'ymax': 47, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 825, 'xmax': 875, 'ymin': 320, 'ymax': 361, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 811, 'xmax': 947, 'ymin': 12, 'ymax': 81, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 879, 'xmax': 908, 'ymin': 323, 'ymax': 356, 'confidence': 0.0}
+
+87. b09e7f70-1244.jpg - right
+{'obj': 'bejickaya', 'xmin': 1202, 'xmax': 1340, 'ymin': 11, 'ymax': 121, 'confidence': 0.9529416561}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 164, 'ymin': 108, 'ymax': 177, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1244, 'xmax': 1417, 'ymin': 610, 'ymax': 720, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 150, 'xmax': 260, 'ymin': 512, 'ymax': 590, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 206, 'xmax': 295, 'ymin': 111, 'ymax': 194, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1202, 'xmax': 1341, 'ymin': 18, 'ymax': 125, 'confidence': 0.0}
+
+88. b0a6b20d-1370.jpg - right
+{'obj': 'bejickaya', 'xmin': 649, 'xmax': 701, 'ymin': 32, 'ymax': 76, 'confidence': 0.9538810253}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 123, 'ymin': 3, 'ymax': 39, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 652, 'xmax': 716, 'ymin': 246, 'ymax': 293, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 132, 'xmax': 202, 'ymin': 210, 'ymax': 255, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 152, 'xmax': 208, 'ymin': 16, 'ymax': 60, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 648, 'xmax': 701, 'ymin': 34, 'ymax': 78, 'confidence': 0.0}
+
+89. b0ccf0b8-1257.jpg - right
+{'obj': 'bejickaya', 'xmin': 1284, 'xmax': 1419, 'ymin': 13, 'ymax': 123, 'confidence': 0.9495904446}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 185, 'ymin': 105, 'ymax': 183, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1340, 'xmax': 1503, 'ymin': 594, 'ymax': 699, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 200, 'xmax': 322, 'ymin': 524, 'ymax': 604, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 235, 'xmax': 327, 'ymin': 113, 'ymax': 201, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1281, 'xmax': 1420, 'ymin': 15, 'ymax': 130, 'confidence': 0.0}
+
+90. b172fdfa-1229.jpg - right
+{'obj': 'bejickaya', 'xmin': 1007, 'xmax': 1087, 'ymin': 50, 'ymax': 113, 'confidence': 0.9532876611}
+
+{'obj': 'text', 'xmin': 4, 'xmax': 193, 'ymin': 2, 'ymax': 57, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 977, 'xmax': 1063, 'ymin': 350, 'ymax': 410, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 221, 'xmax': 327, 'ymin': 306, 'ymax': 364, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 246, 'xmax': 331, 'ymin': 27, 'ymax': 89, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1009, 'xmax': 1087, 'ymin': 52, 'ymax': 115, 'confidence': 0.0}
+
+91. b193b52d-5970.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 493, 'xmax': 577, 'ymin': 10, 'ymax': 52, 'confidence': 0.9632624388}
+
+{'obj': 'text', 'xmin': 17, 'xmax': 92, 'ymin': 220, 'ymax': 248, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 592, 'xmax': 667, 'ymin': 2, 'ymax': 32, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 517, 'xmax': 550, 'ymin': 209, 'ymax': 235, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 493, 'xmax': 577, 'ymin': 11, 'ymax': 53, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 554, 'xmax': 572, 'ymin': 210, 'ymax': 233, 'confidence': 0.0}
+
+92. b2c014d6-1395.jpg - right
+{'obj': 'bejickaya', 'xmin': 1218, 'xmax': 1355, 'ymin': 20, 'ymax': 131, 'confidence': 0.9374092221}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 171, 'ymin': 138, 'ymax': 214, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1294, 'xmax': 1464, 'ymin': 598, 'ymax': 706, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 181, 'xmax': 296, 'ymin': 545, 'ymax': 627, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 219, 'xmax': 308, 'ymin': 144, 'ymax': 228, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1219, 'xmax': 1356, 'ymin': 18, 'ymax': 128, 'confidence': 0.0}
+
+93. b5325584-1209.jpg - right
+{'obj': 'bejickaya', 'xmin': 816, 'xmax': 902, 'ymin': 9, 'ymax': 79, 'confidence': 0.9511566758}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 117, 'ymin': 67, 'ymax': 117, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 856, 'xmax': 959, 'ymin': 383, 'ymax': 455, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 119, 'xmax': 197, 'ymin': 342, 'ymax': 395, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 149, 'xmax': 210, 'ymin': 75, 'ymax': 129, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 817, 'xmax': 901, 'ymin': 11, 'ymax': 78, 'confidence': 0.0}
+
+94. b5331301-1208.jpg - right
+{'obj': 'bejickaya', 'xmin': 834, 'xmax': 925, 'ymin': 13, 'ymax': 87, 'confidence': 0.9561578035}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 116, 'ymin': 104, 'ymax': 156, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 882, 'xmax': 994, 'ymin': 405, 'ymax': 480, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 836, 'xmax': 925, 'ymin': 11, 'ymax': 87, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 127, 'xmax': 206, 'ymin': 376, 'ymax': 432, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 149, 'xmax': 209, 'ymin': 105, 'ymax': 162, 'confidence': 0.0}
+
+95. b628042a-1231.jpg - right
+{'obj': 'bejickaya', 'xmin': 1214, 'xmax': 1349, 'ymin': 12, 'ymax': 119, 'confidence': 0.941706121}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 168, 'ymin': 97, 'ymax': 169, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1245, 'xmax': 1390, 'ymin': 543, 'ymax': 650, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 187, 'xmax': 300, 'ymin': 496, 'ymax': 579, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 224, 'xmax': 313, 'ymin': 111, 'ymax': 195, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1216, 'xmax': 1345, 'ymin': 14, 'ymax': 121, 'confidence': 0.0}
+
+96. b9853906-1311.jpg - right
+{'obj': 'bejickaya', 'xmin': 1194, 'xmax': 1328, 'ymin': 18, 'ymax': 131, 'confidence': 0.9484086633}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 165, 'ymin': 182, 'ymax': 255, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1250, 'xmax': 1405, 'ymin': 574, 'ymax': 679, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 191, 'xmax': 301, 'ymin': 567, 'ymax': 646, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 213, 'xmax': 300, 'ymin': 178, 'ymax': 264, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1194, 'xmax': 1332, 'ymin': 16, 'ymax': 131, 'confidence': 0.0}
+
+97. b9c924d5-1233.jpg - right
+{'obj': 'bejickaya', 'xmin': 1250, 'xmax': 1393, 'ymin': 21, 'ymax': 141, 'confidence': 0.9526643157}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 164, 'ymin': 186, 'ymax': 275, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1316, 'xmax': 1496, 'ymin': 588, 'ymax': 704, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 205, 'xmax': 320, 'ymin': 591, 'ymax': 678, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 226, 'xmax': 314, 'ymin': 188, 'ymax': 280, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1250, 'xmax': 1396, 'ymin': 24, 'ymax': 140, 'confidence': 0.0}
+
+98. ba42d2a2-1273.jpg - right
+{'obj': 'bejickaya', 'xmin': 585, 'xmax': 629, 'ymin': 22, 'ymax': 60, 'confidence': 0.9521302581}
+
+{'obj': 'text', 'xmin': 0, 'xmax': 111, 'ymin': 3, 'ymax': 34, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 587, 'xmax': 642, 'ymin': 217, 'ymax': 260, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 113, 'xmax': 180, 'ymin': 198, 'ymax': 239, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 140, 'xmax': 193, 'ymin': 14, 'ymax': 53, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 584, 'xmax': 631, 'ymin': 23, 'ymax': 63, 'confidence': 0.0}
+
+99. baa7bd9e-1322.jpg - right
+{'obj': 'bejickaya', 'xmin': 1305, 'xmax': 1446, 'ymin': 16, 'ymax': 128, 'confidence': 0.9516623616}
+
+{'obj': 'text', 'xmin': 5, 'xmax': 189, 'ymin': 51, 'ymax': 128, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1324, 'xmax': 1500, 'ymin': 617, 'ymax': 742, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 179, 'xmax': 299, 'ymin': 479, 'ymax': 564, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 231, 'xmax': 328, 'ymin': 70, 'ymax': 155, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1298, 'xmax': 1445, 'ymin': 15, 'ymax': 131, 'confidence': 0.0}
+
+100. bb1e58cb-6024.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 871, 'xmax': 1016, 'ymin': 12, 'ymax': 80, 'confidence': 0.9621617198}
+
+{'obj': 'text', 'xmin': 84, 'xmax': 202, 'ymin': 320, 'ymax': 359, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1038, 'xmax': 1170, 'ymin': 0, 'ymax': 49, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 879, 'xmax': 935, 'ymin': 325, 'ymax': 365, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 871, 'xmax': 1018, 'ymin': 11, 'ymax': 81, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 938, 'xmax': 966, 'ymin': 325, 'ymax': 359, 'confidence': 0.0}
+
+101. bb7aa0b6-6092.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 824, 'xmax': 965, 'ymin': 8, 'ymax': 76, 'confidence': 0.9678733945}
+
+{'obj': 'text', 'xmin': 47, 'xmax': 169, 'ymin': 302, 'ymax': 341, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 987, 'xmax': 1112, 'ymin': 4, 'ymax': 51, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 817, 'xmax': 870, 'ymin': 318, 'ymax': 355, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 824, 'xmax': 967, 'ymin': 7, 'ymax': 77, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 874, 'xmax': 901, 'ymin': 324, 'ymax': 354, 'confidence': 0.0}
+
+102. bc112698-1285.jpg - right
+{'obj': 'bejickaya', 'xmin': 880, 'xmax': 946, 'ymin': 26, 'ymax': 80, 'confidence': 0.9467815757}
+
+{'obj': 'text', 'xmin': 5, 'xmax': 180, 'ymin': 4, 'ymax': 51, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 854, 'xmax': 929, 'ymin': 283, 'ymax': 334, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 195, 'xmax': 292, 'ymin': 275, 'ymax': 331, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 226, 'xmax': 303, 'ymin': 19, 'ymax': 76, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 880, 'xmax': 948, 'ymin': 23, 'ymax': 79, 'confidence': 0.0}
+
+103. bea6d39e-1241.jpg - right
+{'obj': 'bejickaya', 'xmin': 1319, 'xmax': 1465, 'ymin': 16, 'ymax': 134, 'confidence': 0.954056859}
+
+{'obj': 'text', 'xmin': 5, 'xmax': 188, 'ymin': 131, 'ymax': 213, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1389, 'xmax': 1558, 'ymin': 632, 'ymax': 747, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 204, 'xmax': 325, 'ymin': 566, 'ymax': 648, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 235, 'xmax': 325, 'ymin': 137, 'ymax': 227, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1317, 'xmax': 1462, 'ymin': 17, 'ymax': 131, 'confidence': 0.0}
+
+104. bf65421d-6017.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 828, 'xmax': 977, 'ymin': 9, 'ymax': 78, 'confidence': 0.9627177119}
+
+{'obj': 'text', 'xmin': 55, 'xmax': 172, 'ymin': 316, 'ymax': 358, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1002, 'xmax': 1135, 'ymin': 1, 'ymax': 51, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 853, 'xmax': 910, 'ymin': 344, 'ymax': 383, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 829, 'xmax': 977, 'ymin': 10, 'ymax': 83, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 914, 'xmax': 943, 'ymin': 344, 'ymax': 378, 'confidence': 0.0}
+
+105. bf83f224-1220.jpg - right
+{'obj': 'bejickaya', 'xmin': 935, 'xmax': 1007, 'ymin': 38, 'ymax': 99, 'confidence': 0.9514527917}
+
+{'obj': 'text', 'xmin': 0, 'xmax': 177, 'ymin': 4, 'ymax': 53, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 919, 'xmax': 1002, 'ymin': 329, 'ymax': 388, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 195, 'xmax': 293, 'ymin': 292, 'ymax': 349, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 223, 'xmax': 300, 'ymin': 22, 'ymax': 84, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 934, 'xmax': 1010, 'ymin': 37, 'ymax': 100, 'confidence': 0.0}
+
+106. c26fa926-1400.jpg - right
+{'obj': 'bejickaya', 'xmin': 1189, 'xmax': 1336, 'ymin': 10, 'ymax': 128, 'confidence': 0.9512642026}
+
+{'obj': 'text', 'xmin': 6, 'xmax': 162, 'ymin': 196, 'ymax': 273, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1291, 'xmax': 1477, 'ymin': 613, 'ymax': 734, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 174, 'xmax': 286, 'ymin': 590, 'ymax': 676, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 206, 'xmax': 288, 'ymin': 191, 'ymax': 278, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1192, 'xmax': 1333, 'ymin': 15, 'ymax': 129, 'confidence': 0.0}
+
+107. c409c99a-1266.jpg - right
+{'obj': 'bejickaya', 'xmin': 610, 'xmax': 654, 'ymin': 27, 'ymax': 65, 'confidence': 0.9527930617}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 122, 'ymin': 4, 'ymax': 34, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 613, 'xmax': 664, 'ymin': 219, 'ymax': 259, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 132, 'xmax': 202, 'ymin': 208, 'ymax': 250, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 156, 'xmax': 211, 'ymin': 14, 'ymax': 56, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 611, 'xmax': 655, 'ymin': 25, 'ymax': 65, 'confidence': 0.0}
+
+108. c4a5fbb2-1301.jpg - right
+{'obj': 'bejickaya', 'xmin': 1266, 'xmax': 1399, 'ymin': 10, 'ymax': 117, 'confidence': 0.9429298639}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 185, 'ymin': 81, 'ymax': 155, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1311, 'xmax': 1475, 'ymin': 585, 'ymax': 695, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 182, 'xmax': 301, 'ymin': 495, 'ymax': 578, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 232, 'xmax': 326, 'ymin': 88, 'ymax': 177, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1264, 'xmax': 1403, 'ymin': 11, 'ymax': 118, 'confidence': 0.0}
+
+109. c4e7d469-1341.jpg - right
+{'obj': 'bejickaya', 'xmin': 650, 'xmax': 698, 'ymin': 22, 'ymax': 64, 'confidence': 0.9490715265}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 126, 'ymin': 1, 'ymax': 36, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 655, 'xmax': 715, 'ymin': 232, 'ymax': 277, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 137, 'xmax': 209, 'ymin': 215, 'ymax': 259, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 159, 'xmax': 216, 'ymin': 12, 'ymax': 57, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 648, 'xmax': 700, 'ymin': 21, 'ymax': 65, 'confidence': 0.0}
+
+110. c5624536-1226.jpg - right
+{'obj': 'bejickaya', 'xmin': 966, 'xmax': 1038, 'ymin': 28, 'ymax': 85, 'confidence': 0.9401598573}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 198, 'ymin': 7, 'ymax': 54, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 909, 'xmax': 989, 'ymin': 284, 'ymax': 334, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 213, 'xmax': 315, 'ymin': 276, 'ymax': 331, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 251, 'xmax': 332, 'ymin': 21, 'ymax': 82, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 970, 'xmax': 1037, 'ymin': 30, 'ymax': 83, 'confidence': 0.0}
+
+111. c6b600e7-1373.jpg - right
+{'obj': 'bejickaya', 'xmin': 712, 'xmax': 766, 'ymin': 25, 'ymax': 72, 'confidence': 0.9513674378}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 139, 'ymin': 1, 'ymax': 40, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 711, 'xmax': 771, 'ymin': 239, 'ymax': 288, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 155, 'xmax': 233, 'ymin': 233, 'ymax': 280, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 185, 'xmax': 244, 'ymin': 16, 'ymax': 65, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 712, 'xmax': 766, 'ymin': 25, 'ymax': 72, 'confidence': 0.0}
+
+112. c707bf90-1372.jpg - right
+{'obj': 'bejickaya', 'xmin': 662, 'xmax': 716, 'ymin': 43, 'ymax': 87, 'confidence': 0.9594072104}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 121, 'ymin': 1, 'ymax': 38, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 666, 'xmax': 727, 'ymin': 260, 'ymax': 306, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 140, 'xmax': 210, 'ymin': 213, 'ymax': 257, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 155, 'xmax': 211, 'ymin': 17, 'ymax': 62, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 662, 'xmax': 716, 'ymin': 43, 'ymax': 88, 'confidence': 0.0}
+
+113. c7654e22-6071.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 543, 'xmax': 646, 'ymin': 5, 'ymax': 54, 'confidence': 0.9504967332}
+
+{'obj': 'text', 'xmin': 22, 'xmax': 101, 'ymin': 217, 'ymax': 247, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 660, 'xmax': 754, 'ymin': 1, 'ymax': 33, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 573, 'xmax': 611, 'ymin': 241, 'ymax': 269, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 545, 'xmax': 646, 'ymin': 8, 'ymax': 54, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 615, 'xmax': 635, 'ymin': 242, 'ymax': 268, 'confidence': 0.0}
+
+114. c85d16cc-1384.jpg - right
+{'obj': 'bejickaya', 'xmin': 1276, 'xmax': 1419, 'ymin': 17, 'ymax': 134, 'confidence': 0.9530465603}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 177, 'ymin': 143, 'ymax': 219, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1352, 'xmax': 1512, 'ymin': 610, 'ymax': 717, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 206, 'xmax': 325, 'ymin': 555, 'ymax': 639, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 232, 'xmax': 322, 'ymin': 148, 'ymax': 232, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1276, 'xmax': 1421, 'ymin': 18, 'ymax': 132, 'confidence': 0.0}
+
+115. c8c15194-6018.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 904, 'xmax': 1058, 'ymin': 11, 'ymax': 84, 'confidence': 0.9664353132}
+
+{'obj': 'text', 'xmin': 62, 'xmax': 190, 'ymin': 336, 'ymax': 377, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1079, 'xmax': 1224, 'ymin': 1, 'ymax': 52, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 910, 'xmax': 965, 'ymin': 348, 'ymax': 390, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 901, 'xmax': 1061, 'ymin': 9, 'ymax': 84, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 970, 'xmax': 997, 'ymin': 350, 'ymax': 386, 'confidence': 0.0}
+
+116. c934797d-1390.jpg - right
+{'obj': 'bejickaya', 'xmin': 1247, 'xmax': 1389, 'ymin': 20, 'ymax': 141, 'confidence': 0.9592000246}
+
+{'obj': 'text', 'xmin': 0, 'xmax': 167, 'ymin': 162, 'ymax': 242, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1336, 'xmax': 1507, 'ymin': 626, 'ymax': 743, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 176, 'xmax': 298, 'ymin': 589, 'ymax': 678, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 214, 'xmax': 308, 'ymin': 162, 'ymax': 254, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1247, 'xmax': 1390, 'ymin': 19, 'ymax': 143, 'confidence': 0.0}
+
+117. c9a7e979-1258.jpg - right
+{'obj': 'bejickaya', 'xmin': 1282, 'xmax': 1426, 'ymin': 14, 'ymax': 128, 'confidence': 0.9590435028}
+
+{'obj': 'text', 'xmin': 6, 'xmax': 180, 'ymin': 51, 'ymax': 120, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1302, 'xmax': 1477, 'ymin': 627, 'ymax': 745, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 176, 'xmax': 292, 'ymin': 469, 'ymax': 554, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 225, 'xmax': 314, 'ymin': 61, 'ymax': 147, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1276, 'xmax': 1425, 'ymin': 17, 'ymax': 134, 'confidence': 0.0}
+
+118. c9c331c0-1286.jpg - right
+{'obj': 'bejickaya', 'xmin': 970, 'xmax': 1042, 'ymin': 10, 'ymax': 69, 'confidence': 0.9471698999}
+
+{'obj': 'text', 'xmin': 4, 'xmax': 205, 'ymin': 0, 'ymax': 56, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 939, 'xmax': 1018, 'ymin': 295, 'ymax': 353, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 220, 'xmax': 326, 'ymin': 305, 'ymax': 368, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 258, 'xmax': 343, 'ymin': 15, 'ymax': 84, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 968, 'xmax': 1043, 'ymin': 10, 'ymax': 73, 'confidence': 0.0}
+
+119. c9f99889-5983.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 529, 'xmax': 608, 'ymin': 12, 'ymax': 60, 'confidence': 0.9500801563}
+
+{'obj': 'text', 'xmin': 20, 'xmax': 105, 'ymin': 297, 'ymax': 336, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 617, 'xmax': 684, 'ymin': 3, 'ymax': 33, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 537, 'xmax': 567, 'ymin': 228, 'ymax': 258, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 530, 'xmax': 608, 'ymin': 13, 'ymax': 60, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 571, 'xmax': 585, 'ymin': 227, 'ymax': 249, 'confidence': 0.0}
+
+120. ca0d94a5-1212.jpg - right
+{'obj': 'bejickaya', 'xmin': 768, 'xmax': 825, 'ymin': 45, 'ymax': 95, 'confidence': 0.961879611}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 151, 'ymin': 2, 'ymax': 47, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 767, 'xmax': 833, 'ymin': 299, 'ymax': 351, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 767, 'xmax': 825, 'ymin': 46, 'ymax': 95, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 152, 'xmax': 238, 'ymin': 264, 'ymax': 316, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 190, 'xmax': 256, 'ymin': 23, 'ymax': 71, 'confidence': 0.0}
+
+121. cb1a153a-1287.jpg - right
+{'obj': 'bejickaya', 'xmin': 966, 'xmax': 1038, 'ymin': 29, 'ymax': 86, 'confidence': 0.9453361034}
+
+{'obj': 'text', 'xmin': 0, 'xmax': 197, 'ymin': 3, 'ymax': 55, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 910, 'xmax': 989, 'ymin': 284, 'ymax': 337, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 215, 'xmax': 316, 'ymin': 277, 'ymax': 333, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 249, 'xmax': 337, 'ymin': 21, 'ymax': 82, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 967, 'xmax': 1038, 'ymin': 30, 'ymax': 87, 'confidence': 0.0}
+
+122. cb389a7e-6083.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 828, 'xmax': 983, 'ymin': 10, 'ymax': 81, 'confidence': 0.9572033882}
+
+{'obj': 'text', 'xmin': 47, 'xmax': 163, 'ymin': 315, 'ymax': 356, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1007, 'xmax': 1150, 'ymin': 1, 'ymax': 52, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 843, 'xmax': 900, 'ymin': 340, 'ymax': 380, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 828, 'xmax': 982, 'ymin': 7, 'ymax': 84, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 901, 'xmax': 931, 'ymin': 343, 'ymax': 376, 'confidence': 0.0}
+
+123. cb80f2aa-1347.jpg - right
+{'obj': 'bejickaya', 'xmin': 564, 'xmax': 607, 'ymin': 5, 'ymax': 42, 'confidence': 0.9555593133}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 110, 'ymin': 1, 'ymax': 32, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 561, 'xmax': 609, 'ymin': 181, 'ymax': 219, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 129, 'xmax': 191, 'ymin': 182, 'ymax': 221, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 141, 'xmax': 191, 'ymin': 8, 'ymax': 47, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 563, 'xmax': 606, 'ymin': 5, 'ymax': 43, 'confidence': 0.0}
+
+124. cbc776b4-1236.jpg - right
+{'obj': 'bejickaya', 'xmin': 1277, 'xmax': 1419, 'ymin': 21, 'ymax': 138, 'confidence': 0.9559160471}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 175, 'ymin': 128, 'ymax': 205, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1340, 'xmax': 1510, 'ymin': 624, 'ymax': 738, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 191, 'xmax': 309, 'ymin': 547, 'ymax': 634, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 224, 'xmax': 316, 'ymin': 130, 'ymax': 220, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1274, 'xmax': 1418, 'ymin': 19, 'ymax': 135, 'confidence': 0.0}
+
+125. cc4b54d1-1345.jpg - right
+{'obj': 'bejickaya', 'xmin': 668, 'xmax': 717, 'ymin': 31, 'ymax': 75, 'confidence': 0.9555051327}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 132, 'ymin': 2, 'ymax': 38, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 672, 'xmax': 730, 'ymin': 252, 'ymax': 295, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 135, 'xmax': 209, 'ymin': 230, 'ymax': 275, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 166, 'xmax': 225, 'ymin': 14, 'ymax': 63, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 666, 'xmax': 717, 'ymin': 31, 'ymax': 74, 'confidence': 0.0}
+
+126. cc59cf23-5985.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 837, 'xmax': 950, 'ymin': 18, 'ymax': 89, 'confidence': 0.9540451169}
+
+{'obj': 'text', 'xmin': 67, 'xmax': 208, 'ymin': 463, 'ymax': 530, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 966, 'xmax': 1061, 'ymin': 1, 'ymax': 48, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 862, 'xmax': 909, 'ymin': 315, 'ymax': 359, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 835, 'xmax': 952, 'ymin': 22, 'ymax': 93, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 911, 'xmax': 934, 'ymin': 315, 'ymax': 348, 'confidence': 0.0}
+
+127. cc72de50-5964.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 392, 'xmax': 460, 'ymin': 6, 'ymax': 39, 'confidence': 0.9576622844}
+
+{'obj': 'text', 'xmin': 13, 'xmax': 73, 'ymin': 173, 'ymax': 196, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 471, 'xmax': 533, 'ymin': 1, 'ymax': 25, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 418, 'xmax': 445, 'ymin': 170, 'ymax': 192, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 392, 'xmax': 460, 'ymin': 6, 'ymax': 39, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 448, 'xmax': 463, 'ymin': 172, 'ymax': 192, 'confidence': 0.0}
+
+128. cd3ef03b-1312.jpg - right
+{'obj': 'bejickaya', 'xmin': 1276, 'xmax': 1417, 'ymin': 11, 'ymax': 125, 'confidence': 0.9493396878}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 179, 'ymin': 94, 'ymax': 165, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1318, 'xmax': 1489, 'ymin': 612, 'ymax': 721, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 182, 'xmax': 299, 'ymin': 516, 'ymax': 596, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 224, 'xmax': 314, 'ymin': 100, 'ymax': 188, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1274, 'xmax': 1419, 'ymin': 15, 'ymax': 128, 'confidence': 0.0}
+
+129. ce4b1390-5903.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 603, 'xmax': 716, 'ymin': 18, 'ymax': 76, 'confidence': 0.9561484456}
+
+{'obj': 'text', 'xmin': 25, 'xmax': 120, 'ymin': 328, 'ymax': 364, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 733, 'xmax': 832, 'ymin': 3, 'ymax': 43, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 666, 'xmax': 711, 'ymin': 275, 'ymax': 311, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 605, 'xmax': 717, 'ymin': 19, 'ymax': 77, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 713, 'xmax': 739, 'ymin': 276, 'ymax': 308, 'confidence': 0.0}
+
+130. cfe08803-1256.jpg - right
+{'obj': 'bejickaya', 'xmin': 1225, 'xmax': 1362, 'ymin': 13, 'ymax': 125, 'confidence': 0.9488480687}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 174, 'ymin': 110, 'ymax': 186, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1274, 'xmax': 1437, 'ymin': 592, 'ymax': 702, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1224, 'xmax': 1360, 'ymin': 16, 'ymax': 125, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 186, 'xmax': 300, 'ymin': 519, 'ymax': 597, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 220, 'xmax': 305, 'ymin': 115, 'ymax': 206, 'confidence': 0.0}
+
+131. d0867a03-1305.jpg - right
+{'obj': 'bejickaya', 'xmin': 1307, 'xmax': 1442, 'ymin': 13, 'ymax': 121, 'confidence': 0.9560696483}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 191, 'ymin': 105, 'ymax': 183, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1361, 'xmax': 1520, 'ymin': 585, 'ymax': 694, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 203, 'xmax': 330, 'ymin': 530, 'ymax': 618, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 245, 'xmax': 345, 'ymin': 112, 'ymax': 198, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1306, 'xmax': 1443, 'ymin': 12, 'ymax': 122, 'confidence': 0.0}
+
+132. d0ed42e6-5967.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 527, 'xmax': 605, 'ymin': 11, 'ymax': 58, 'confidence': 0.9637259245}
+
+{'obj': 'text', 'xmin': 17, 'xmax': 104, 'ymin': 297, 'ymax': 336, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 614, 'xmax': 683, 'ymin': 0, 'ymax': 32, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 535, 'xmax': 565, 'ymin': 227, 'ymax': 256, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 527, 'xmax': 607, 'ymin': 11, 'ymax': 60, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 568, 'xmax': 583, 'ymin': 226, 'ymax': 249, 'confidence': 0.0}
+
+133. d13a763e-5998.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 419, 'xmax': 500, 'ymin': 7, 'ymax': 46, 'confidence': 0.9595103264}
+
+{'obj': 'text', 'xmin': 11, 'xmax': 72, 'ymin': 185, 'ymax': 211, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 511, 'xmax': 585, 'ymin': 3, 'ymax': 31, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 454, 'xmax': 486, 'ymin': 210, 'ymax': 236, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 418, 'xmax': 498, 'ymin': 7, 'ymax': 46, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 490, 'xmax': 508, 'ymin': 212, 'ymax': 236, 'confidence': 0.0}
+
+134. d1ef5386-6004.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 462, 'xmax': 559, 'ymin': 6, 'ymax': 52, 'confidence': 0.9630522132}
+
+{'obj': 'text', 'xmin': 12, 'xmax': 74, 'ymin': 195, 'ymax': 226, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 576, 'xmax': 667, 'ymin': 0, 'ymax': 33, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 502, 'xmax': 542, 'ymin': 249, 'ymax': 282, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 461, 'xmax': 558, 'ymin': 6, 'ymax': 52, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 546, 'xmax': 568, 'ymin': 255, 'ymax': 282, 'confidence': 0.0}
+
+135. d2208973-1213.jpg - right
+{'obj': 'bejickaya', 'xmin': 884, 'xmax': 955, 'ymin': 6, 'ymax': 61, 'confidence': 0.9429389834}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 174, 'ymin': 3, 'ymax': 54, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 833, 'xmax': 898, 'ymin': 240, 'ymax': 283, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 248, 'xmax': 334, 'ymin': 245, 'ymax': 287, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 220, 'xmax': 299, 'ymin': 15, 'ymax': 75, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 886, 'xmax': 960, 'ymin': 6, 'ymax': 62, 'confidence': 0.0}
+
+136. d2284ce9-1282.jpg - right
+{'obj': 'bejickaya', 'xmin': 1021, 'xmax': 1095, 'ymin': 5, 'ymax': 66, 'confidence': 0.9552977085}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 209, 'ymin': 1, 'ymax': 62, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 977, 'xmax': 1057, 'ymin': 269, 'ymax': 328, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 248, 'xmax': 353, 'ymin': 298, 'ymax': 363, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 280, 'xmax': 369, 'ymin': 18, 'ymax': 89, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1023, 'xmax': 1097, 'ymin': 10, 'ymax': 68, 'confidence': 0.0}
+
+137. d29113cf-1356.jpg - right
+{'obj': 'bejickaya', 'xmin': 806, 'xmax': 893, 'ymin': 7, 'ymax': 77, 'confidence': 0.9515096545}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 116, 'ymin': 94, 'ymax': 143, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 857, 'xmax': 967, 'ymin': 380, 'ymax': 449, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 128, 'xmax': 202, 'ymin': 357, 'ymax': 410, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 146, 'xmax': 207, 'ymin': 94, 'ymax': 151, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 805, 'xmax': 892, 'ymin': 8, 'ymax': 82, 'confidence': 0.0}
+
+138. d316c6fd-1363.jpg - right
+{'obj': 'bejickaya', 'xmin': 746, 'xmax': 805, 'ymin': 8, 'ymax': 59, 'confidence': 0.9621254206}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 143, 'ymin': 24, 'ymax': 71, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 728, 'xmax': 791, 'ymin': 244, 'ymax': 291, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 186, 'xmax': 262, 'ymin': 254, 'ymax': 300, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 185, 'xmax': 248, 'ymin': 29, 'ymax': 84, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 743, 'xmax': 806, 'ymin': 9, 'ymax': 60, 'confidence': 0.0}
+
+139. d39881a1-1392.jpg - right
+{'obj': 'bejickaya', 'xmin': 1184, 'xmax': 1319, 'ymin': 14, 'ymax': 126, 'confidence': 0.9449449778}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 168, 'ymin': 208, 'ymax': 293, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1299, 'xmax': 1458, 'ymin': 580, 'ymax': 686, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 212, 'xmax': 324, 'ymin': 599, 'ymax': 682, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 210, 'xmax': 303, 'ymin': 202, 'ymax': 290, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1185, 'xmax': 1322, 'ymin': 16, 'ymax': 129, 'confidence': 0.0}
+
+140. d3cdf86c-1323.jpg - right
+{'obj': 'bejickaya', 'xmin': 1318, 'xmax': 1458, 'ymin': 8, 'ymax': 119, 'confidence': 0.9533317089}
+
+{'obj': 'text', 'xmin': 5, 'xmax': 194, 'ymin': 44, 'ymax': 114, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1338, 'xmax': 1503, 'ymin': 601, 'ymax': 717, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 184, 'xmax': 303, 'ymin': 473, 'ymax': 564, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 242, 'xmax': 339, 'ymin': 54, 'ymax': 144, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1314, 'xmax': 1461, 'ymin': 11, 'ymax': 122, 'confidence': 0.0}
+
+141. d421d672-1368.jpg - right
+{'obj': 'bejickaya', 'xmin': 633, 'xmax': 681, 'ymin': 17, 'ymax': 58, 'confidence': 0.9545420408}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 125, 'ymin': 1, 'ymax': 37, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 621, 'xmax': 676, 'ymin': 219, 'ymax': 259, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 149, 'xmax': 215, 'ymin': 208, 'ymax': 250, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 159, 'xmax': 214, 'ymin': 14, 'ymax': 55, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 632, 'xmax': 682, 'ymin': 18, 'ymax': 61, 'confidence': 0.0}
+
+142. d432ae25-1402.jpg - right
+{'obj': 'bejickaya', 'xmin': 1297, 'xmax': 1446, 'ymin': 14, 'ymax': 132, 'confidence': 0.9598832726}
+
+{'obj': 'text', 'xmin': 6, 'xmax': 182, 'ymin': 83, 'ymax': 155, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1329, 'xmax': 1503, 'ymin': 634, 'ymax': 760, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 186, 'xmax': 300, 'ymin': 502, 'ymax': 587, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 227, 'xmax': 319, 'ymin': 93, 'ymax': 179, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1293, 'xmax': 1445, 'ymin': 17, 'ymax': 135, 'confidence': 0.0}
+
+143. d9120fbd-1340.jpg - right
+{'obj': 'bejickaya', 'xmin': 582, 'xmax': 626, 'ymin': 32, 'ymax': 69, 'confidence': 0.9506666064}
+
+{'obj': 'text', 'xmin': 0, 'xmax': 113, 'ymin': 2, 'ymax': 35, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 583, 'xmax': 637, 'ymin': 226, 'ymax': 267, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 108, 'xmax': 173, 'ymin': 198, 'ymax': 240, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 141, 'xmax': 192, 'ymin': 14, 'ymax': 54, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 582, 'xmax': 629, 'ymin': 31, 'ymax': 71, 'confidence': 0.0}
+
+144. dd0f2e59-1386.jpg - right
+{'obj': 'bejickaya', 'xmin': 1254, 'xmax': 1402, 'ymin': 15, 'ymax': 135, 'confidence': 0.9550855756}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 168, 'ymin': 98, 'ymax': 164, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1296, 'xmax': 1473, 'ymin': 644, 'ymax': 766, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1254, 'xmax': 1404, 'ymin': 21, 'ymax': 136, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 163, 'xmax': 273, 'ymin': 508, 'ymax': 589, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 211, 'xmax': 298, 'ymin': 108, 'ymax': 189, 'confidence': 0.0}
+
+145. df0ae7d4-1252.jpg - right
+{'obj': 'bejickaya', 'xmin': 1288, 'xmax': 1432, 'ymin': 11, 'ymax': 127, 'confidence': 0.9621102214}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 177, 'ymin': 119, 'ymax': 198, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1348, 'xmax': 1521, 'ymin': 629, 'ymax': 743, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 188, 'xmax': 304, 'ymin': 546, 'ymax': 631, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 223, 'xmax': 318, 'ymin': 124, 'ymax': 214, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1285, 'xmax': 1431, 'ymin': 12, 'ymax': 130, 'confidence': 0.0}
+
+146. df26ffdc-6000.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 659, 'xmax': 795, 'ymin': 21, 'ymax': 86, 'confidence': 0.9648353457}
+
+{'obj': 'text', 'xmin': 64, 'xmax': 147, 'ymin': 211, 'ymax': 250, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 823, 'xmax': 946, 'ymin': 21, 'ymax': 73, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 696, 'xmax': 741, 'ymin': 290, 'ymax': 326, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 658, 'xmax': 799, 'ymin': 18, 'ymax': 86, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 751, 'xmax': 775, 'ymin': 300, 'ymax': 329, 'confidence': 0.0}
+
+147. dfbfa422-5928.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 662, 'xmax': 776, 'ymin': 13, 'ymax': 72, 'confidence': 0.9592232108}
+
+{'obj': 'text', 'xmin': 44, 'xmax': 144, 'ymin': 318, 'ymax': 358, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 792, 'xmax': 895, 'ymin': 3, 'ymax': 41, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 705, 'xmax': 747, 'ymin': 277, 'ymax': 311, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 661, 'xmax': 776, 'ymin': 17, 'ymax': 76, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 753, 'xmax': 773, 'ymin': 278, 'ymax': 306, 'confidence': 0.0}
+
+148. e0769a46-1382.jpg - right
+{'obj': 'bejickaya', 'xmin': 1234, 'xmax': 1370, 'ymin': 17, 'ymax': 128, 'confidence': 0.9484425187}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 176, 'ymin': 131, 'ymax': 208, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1314, 'xmax': 1485, 'ymin': 610, 'ymax': 724, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 182, 'xmax': 299, 'ymin': 543, 'ymax': 629, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 223, 'xmax': 314, 'ymin': 135, 'ymax': 222, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1232, 'xmax': 1370, 'ymin': 18, 'ymax': 129, 'confidence': 0.0}
+
+149. e0d8e39f-1354.jpg - right
+{'obj': 'bejickaya', 'xmin': 1034, 'xmax': 1112, 'ymin': 10, 'ymax': 73, 'confidence': 0.9514681697}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 209, 'ymin': 1, 'ymax': 57, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 999, 'xmax': 1087, 'ymin': 313, 'ymax': 373, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 229, 'xmax': 338, 'ymin': 317, 'ymax': 384, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 266, 'xmax': 355, 'ymin': 16, 'ymax': 83, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1038, 'xmax': 1112, 'ymin': 11, 'ymax': 73, 'confidence': 0.0}
+
+150. e2c34f72-5914.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 593, 'xmax': 714, 'ymin': 6, 'ymax': 63, 'confidence': 0.973264575}
+
+{'obj': 'text', 'xmin': 29, 'xmax': 107, 'ymin': 196, 'ymax': 227, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 738, 'xmax': 850, 'ymin': 6, 'ymax': 50, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 624, 'xmax': 667, 'ymin': 264, 'ymax': 297, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 592, 'xmax': 717, 'ymin': 7, 'ymax': 66, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 669, 'xmax': 692, 'ymin': 267, 'ymax': 296, 'confidence': 0.0}
+
+151. e3707e8c-1230.jpg - right
+{'obj': 'bejickaya', 'xmin': 1269, 'xmax': 1410, 'ymin': 13, 'ymax': 128, 'confidence': 0.9505069256}
+
+{'obj': 'text', 'xmin': 0, 'xmax': 171, 'ymin': 109, 'ymax': 182, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1314, 'xmax': 1480, 'ymin': 622, 'ymax': 736, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 176, 'xmax': 292, 'ymin': 528, 'ymax': 608, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 216, 'xmax': 313, 'ymin': 114, 'ymax': 199, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1267, 'xmax': 1414, 'ymin': 17, 'ymax': 128, 'confidence': 0.0}
+
+152. e3cccf19-1331.jpg - right
+{'obj': 'bejickaya', 'xmin': 908, 'xmax': 977, 'ymin': 21, 'ymax': 78, 'confidence': 0.9481392503}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 177, 'ymin': 3, 'ymax': 51, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 894, 'xmax': 973, 'ymin': 294, 'ymax': 350, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 193, 'xmax': 292, 'ymin': 281, 'ymax': 336, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 224, 'xmax': 300, 'ymin': 16, 'ymax': 75, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 907, 'xmax': 979, 'ymin': 21, 'ymax': 79, 'confidence': 0.0}
+
+153. e44f8f45-5890.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 667, 'xmax': 769, 'ymin': 9, 'ymax': 61, 'confidence': 0.9545169473}
+
+{'obj': 'text', 'xmin': 30, 'xmax': 137, 'ymin': 325, 'ymax': 369, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 783, 'xmax': 866, 'ymin': 0, 'ymax': 35, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 725, 'xmax': 766, 'ymin': 271, 'ymax': 308, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 667, 'xmax': 770, 'ymin': 12, 'ymax': 64, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 769, 'xmax': 792, 'ymin': 275, 'ymax': 304, 'confidence': 0.0}
+
+154. e51a2950-5952.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 549, 'xmax': 625, 'ymin': 17, 'ymax': 70, 'confidence': 0.9487872124}
+
+{'obj': 'text', 'xmin': 38, 'xmax': 136, 'ymin': 366, 'ymax': 424, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 633, 'xmax': 695, 'ymin': 0, 'ymax': 35, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 581, 'xmax': 609, 'ymin': 243, 'ymax': 275, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 549, 'xmax': 624, 'ymin': 17, 'ymax': 70, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 612, 'xmax': 628, 'ymin': 241, 'ymax': 265, 'confidence': 0.0}
+
+155. e564fa35-1362.jpg - right
+{'obj': 'bejickaya', 'xmin': 832, 'xmax': 901, 'ymin': 4, 'ymax': 62, 'confidence': 0.9581779838}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 148, 'ymin': 13, 'ymax': 64, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 806, 'xmax': 885, 'ymin': 280, 'ymax': 331, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 200, 'xmax': 281, 'ymin': 272, 'ymax': 320, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 193, 'xmax': 261, 'ymin': 23, 'ymax': 84, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 832, 'xmax': 903, 'ymin': 7, 'ymax': 66, 'confidence': 0.0}
+
+156. e5761582-6033.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 798, 'xmax': 937, 'ymin': 7, 'ymax': 74, 'confidence': 0.9633381367}
+
+{'obj': 'text', 'xmin': 48, 'xmax': 161, 'ymin': 298, 'ymax': 337, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 960, 'xmax': 1085, 'ymin': 4, 'ymax': 52, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 798, 'xmax': 847, 'ymin': 311, 'ymax': 348, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 797, 'xmax': 937, 'ymin': 8, 'ymax': 76, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 853, 'xmax': 878, 'ymin': 314, 'ymax': 346, 'confidence': 0.0}
+
+157. e7397b40-6022.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 849, 'xmax': 979, 'ymin': 9, 'ymax': 74, 'confidence': 0.94871068}
+
+{'obj': 'text', 'xmin': 46, 'xmax': 181, 'ymin': 372, 'ymax': 423, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 996, 'xmax': 1112, 'ymin': 2, 'ymax': 46, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 870, 'xmax': 922, 'ymin': 333, 'ymax': 375, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 849, 'xmax': 980, 'ymin': 11, 'ymax': 79, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 927, 'xmax': 953, 'ymin': 338, 'ymax': 369, 'confidence': 0.0}
+
+158. e763cf4b-1306.jpg - right
+{'obj': 'bejickaya', 'xmin': 1290, 'xmax': 1396, 'ymin': 6, 'ymax': 91, 'confidence': 0.9462229609}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 232, 'ymin': 60, 'ymax': 135, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1372, 'xmax': 1503, 'ymin': 475, 'ymax': 564, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 232, 'xmax': 377, 'ymin': 484, 'ymax': 578, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 291, 'xmax': 407, 'ymin': 67, 'ymax': 157, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1290, 'xmax': 1397, 'ymin': 8, 'ymax': 95, 'confidence': 0.0}
+
+159. e98376f6-1242.jpg - right
+{'obj': 'bejickaya', 'xmin': 1272, 'xmax': 1403, 'ymin': 20, 'ymax': 126, 'confidence': 0.9532113671}
+
+{'obj': 'text', 'xmin': 6, 'xmax': 182, 'ymin': 119, 'ymax': 196, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1312, 'xmax': 1465, 'ymin': 547, 'ymax': 652, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 209, 'xmax': 330, 'ymin': 528, 'ymax': 610, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 248, 'xmax': 339, 'ymin': 129, 'ymax': 213, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1273, 'xmax': 1404, 'ymin': 17, 'ymax': 127, 'confidence': 0.0}
+
+160. e994c721-1240.jpg - right
+{'obj': 'bejickaya', 'xmin': 1320, 'xmax': 1461, 'ymin': 15, 'ymax': 130, 'confidence': 0.9550389051}
+
+{'obj': 'text', 'xmin': 5, 'xmax': 187, 'ymin': 120, 'ymax': 197, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1371, 'xmax': 1543, 'ymin': 625, 'ymax': 737, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 192, 'xmax': 315, 'ymin': 551, 'ymax': 635, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 236, 'xmax': 331, 'ymin': 129, 'ymax': 217, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1319, 'xmax': 1462, 'ymin': 15, 'ymax': 129, 'confidence': 0.0}
+
+161. ebd10dc9-1292.jpg - right
+{'obj': 'bejickaya', 'xmin': 744, 'xmax': 800, 'ymin': 43, 'ymax': 90, 'confidence': 0.9335405231}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 155, 'ymin': 5, 'ymax': 51, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 704, 'xmax': 764, 'ymin': 255, 'ymax': 293, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 200, 'xmax': 271, 'ymin': 238, 'ymax': 278, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 196, 'xmax': 262, 'ymin': 24, 'ymax': 75, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 743, 'xmax': 802, 'ymin': 46, 'ymax': 93, 'confidence': 0.0}
+
+162. ec9abeca-1348.jpg - right
+{'obj': 'bejickaya', 'xmin': 1020, 'xmax': 1094, 'ymin': 30, 'ymax': 94, 'confidence': 0.9566712976}
+
+{'obj': 'text', 'xmin': 1, 'xmax': 206, 'ymin': 1, 'ymax': 57, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 988, 'xmax': 1070, 'ymin': 339, 'ymax': 402, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 218, 'xmax': 332, 'ymin': 337, 'ymax': 402, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 267, 'xmax': 353, 'ymin': 22, 'ymax': 93, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1023, 'xmax': 1095, 'ymin': 32, 'ymax': 94, 'confidence': 0.0}
+
+163. ed25549a-6081.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 894, 'xmax': 1051, 'ymin': 11, 'ymax': 87, 'confidence': 0.9655967951}
+
+{'obj': 'text', 'xmin': 1075, 'xmax': 1214, 'ymin': 2, 'ymax': 55, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 901, 'xmax': 956, 'ymin': 348, 'ymax': 390, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 895, 'xmax': 1053, 'ymin': 12, 'ymax': 88, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 961, 'xmax': 989, 'ymin': 353, 'ymax': 387, 'confidence': 0.0}
+
+164. edb217ad-1343.jpg - right
+{'obj': 'bejickaya', 'xmin': 538, 'xmax': 580, 'ymin': 19, 'ymax': 57, 'confidence': 0.9530234337}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 102, 'ymin': 0, 'ymax': 30, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 536, 'xmax': 587, 'ymin': 204, 'ymax': 242, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 109, 'xmax': 167, 'ymin': 182, 'ymax': 218, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 127, 'xmax': 173, 'ymin': 10, 'ymax': 48, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 537, 'xmax': 580, 'ymin': 20, 'ymax': 57, 'confidence': 0.0}
+
+165. edd7e1f1-1267.jpg - right
+{'obj': 'bejickaya', 'xmin': 573, 'xmax': 615, 'ymin': 30, 'ymax': 67, 'confidence': 0.9503656626}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 113, 'ymin': 1, 'ymax': 35, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 563, 'xmax': 612, 'ymin': 211, 'ymax': 247, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 129, 'xmax': 190, 'ymin': 192, 'ymax': 231, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 144, 'xmax': 195, 'ymin': 16, 'ymax': 53, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 572, 'xmax': 616, 'ymin': 29, 'ymax': 68, 'confidence': 0.0}
+
+166. ee514e01-1234.jpg - right
+{'obj': 'bejickaya', 'xmin': 1265, 'xmax': 1404, 'ymin': 11, 'ymax': 125, 'confidence': 0.9578977823}
+
+{'obj': 'text', 'xmin': 5, 'xmax': 177, 'ymin': 158, 'ymax': 238, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1340, 'xmax': 1509, 'ymin': 610, 'ymax': 720, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 201, 'xmax': 319, 'ymin': 574, 'ymax': 651, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 224, 'xmax': 317, 'ymin': 155, 'ymax': 246, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1260, 'xmax': 1405, 'ymin': 13, 'ymax': 127, 'confidence': 0.0}
+
+167. ee54f49c-1320.jpg - right
+{'obj': 'bejickaya', 'xmin': 1282, 'xmax': 1419, 'ymin': 12, 'ymax': 120, 'confidence': 0.9581378102}
+
+{'obj': 'text', 'xmin': 5, 'xmax': 189, 'ymin': 28, 'ymax': 97, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1293, 'xmax': 1452, 'ymin': 585, 'ymax': 694, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 180, 'xmax': 300, 'ymin': 450, 'ymax': 536, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 236, 'xmax': 336, 'ymin': 43, 'ymax': 126, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1281, 'xmax': 1425, 'ymin': 11, 'ymax': 121, 'confidence': 0.0}
+
+168. eecbd5a8-6088.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 796, 'xmax': 935, 'ymin': 5, 'ymax': 74, 'confidence': 0.9510177374}
+
+{'obj': 'text', 'xmin': 51, 'xmax': 164, 'ymin': 334, 'ymax': 376, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 950, 'xmax': 1081, 'ymin': 0, 'ymax': 48, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 818, 'xmax': 869, 'ymin': 328, 'ymax': 369, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 796, 'xmax': 933, 'ymin': 6, 'ymax': 75, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 874, 'xmax': 902, 'ymin': 329, 'ymax': 364, 'confidence': 0.0}
+
+169. efa3fbda-1210.jpg - right
+{'obj': 'bejickaya', 'xmin': 846, 'xmax': 941, 'ymin': 12, 'ymax': 88, 'confidence': 0.9594907761}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 118, 'ymin': 89, 'ymax': 139, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 896, 'xmax': 1011, 'ymin': 417, 'ymax': 498, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 117, 'xmax': 193, 'ymin': 369, 'ymax': 424, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 148, 'xmax': 210, 'ymin': 90, 'ymax': 148, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 847, 'xmax': 937, 'ymin': 12, 'ymax': 86, 'confidence': 0.0}
+
+170. f030def3-1405.jpg - right
+{'obj': 'bejickaya', 'xmin': 1232, 'xmax': 1371, 'ymin': 14, 'ymax': 129, 'confidence': 0.956379354}
+
+{'obj': 'text', 'xmin': 5, 'xmax': 177, 'ymin': 146, 'ymax': 226, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1298, 'xmax': 1467, 'ymin': 607, 'ymax': 719, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 197, 'xmax': 310, 'ymin': 548, 'ymax': 631, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 221, 'xmax': 309, 'ymin': 151, 'ymax': 238, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1229, 'xmax': 1374, 'ymin': 18, 'ymax': 136, 'confidence': 0.0}
+
+171. f0545afb-1374.jpg - right
+{'obj': 'bejickaya', 'xmin': 668, 'xmax': 724, 'ymin': 15, 'ymax': 62, 'confidence': 0.9476779103}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 119, 'ymin': 1, 'ymax': 39, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 681, 'xmax': 746, 'ymin': 245, 'ymax': 291, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 143, 'xmax': 213, 'ymin': 213, 'ymax': 258, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 153, 'xmax': 208, 'ymin': 11, 'ymax': 58, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 668, 'xmax': 724, 'ymin': 15, 'ymax': 62, 'confidence': 0.0}
+
+172. f0d212c0-5934.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 578, 'xmax': 658, 'ymin': 10, 'ymax': 58, 'confidence': 0.947981894}
+
+{'obj': 'text', 'xmin': 25, 'xmax': 124, 'ymin': 301, 'ymax': 344, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 667, 'xmax': 736, 'ymin': 1, 'ymax': 31, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 602, 'xmax': 633, 'ymin': 229, 'ymax': 259, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 577, 'xmax': 658, 'ymin': 11, 'ymax': 58, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 634, 'xmax': 651, 'ymin': 228, 'ymax': 251, 'confidence': 0.0}
+
+173. f0e0ea45-1263.jpg - right
+{'obj': 'bejickaya', 'xmin': 681, 'xmax': 737, 'ymin': 9, 'ymax': 53, 'confidence': 0.944103241}
+
+{'obj': 'text', 'xmin': 0, 'xmax': 134, 'ymin': 2, 'ymax': 39, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 630, 'xmax': 686, 'ymin': 191, 'ymax': 226, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 190, 'xmax': 254, 'ymin': 189, 'ymax': 224, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 175, 'xmax': 235, 'ymin': 10, 'ymax': 57, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 682, 'xmax': 737, 'ymin': 9, 'ymax': 53, 'confidence': 0.0}
+
+174. f26560ef-1281.jpg - right
+{'obj': 'bejickaya', 'xmin': 912, 'xmax': 981, 'ymin': 26, 'ymax': 82, 'confidence': 0.9467220306}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 176, 'ymin': 3, 'ymax': 52, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 885, 'xmax': 964, 'ymin': 291, 'ymax': 342, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 204, 'xmax': 299, 'ymin': 271, 'ymax': 325, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 227, 'xmax': 305, 'ymin': 17, 'ymax': 78, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 912, 'xmax': 985, 'ymin': 24, 'ymax': 82, 'confidence': 0.0}
+
+175. f2fe4a7e-1214.jpg - right
+{'obj': 'bejickaya', 'xmin': 804, 'xmax': 863, 'ymin': 39, 'ymax': 90, 'confidence': 0.948248446}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 156, 'ymin': 1, 'ymax': 45, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 800, 'xmax': 871, 'ymin': 286, 'ymax': 340, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 803, 'xmax': 861, 'ymin': 39, 'ymax': 91, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 169, 'xmax': 259, 'ymin': 272, 'ymax': 327, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 208, 'xmax': 276, 'ymin': 22, 'ymax': 78, 'confidence': 0.0}
+
+176. f30ec182-1259.jpg - right
+{'obj': 'bejickaya', 'xmin': 1311, 'xmax': 1458, 'ymin': 18, 'ymax': 137, 'confidence': 0.9542503953}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 184, 'ymin': 126, 'ymax': 200, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1355, 'xmax': 1524, 'ymin': 620, 'ymax': 736, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 181, 'xmax': 305, 'ymin': 559, 'ymax': 645, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 232, 'xmax': 325, 'ymin': 131, 'ymax': 221, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1310, 'xmax': 1456, 'ymin': 17, 'ymax': 137, 'confidence': 0.0}
+
+177. f36f4e92-6093.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 884, 'xmax': 1034, 'ymin': 7, 'ymax': 82, 'confidence': 0.9589925408}
+
+{'obj': 'text', 'xmin': 60, 'xmax': 189, 'ymin': 370, 'ymax': 417, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1055, 'xmax': 1186, 'ymin': 0, 'ymax': 49, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 900, 'xmax': 952, 'ymin': 344, 'ymax': 387, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 883, 'xmax': 1035, 'ymin': 10, 'ymax': 84, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 959, 'xmax': 987, 'ymin': 345, 'ymax': 381, 'confidence': 0.0}
+
+178. f3ffddf4-1378.jpg - right
+{'obj': 'bejickaya', 'xmin': 842, 'xmax': 905, 'ymin': 4, 'ymax': 56, 'confidence': 0.9560941458}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 165, 'ymin': 1, 'ymax': 47, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 824, 'xmax': 894, 'ymin': 241, 'ymax': 293, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 197, 'xmax': 286, 'ymin': 255, 'ymax': 309, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 221, 'xmax': 291, 'ymin': 15, 'ymax': 72, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 842, 'xmax': 907, 'ymin': 5, 'ymax': 59, 'confidence': 0.0}
+
+179. f4aea40c-6084.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 893, 'xmax': 1044, 'ymin': 16, 'ymax': 89, 'confidence': 0.9636026621}
+
+{'obj': 'text', 'xmin': 91, 'xmax': 215, 'ymin': 364, 'ymax': 406, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1065, 'xmax': 1201, 'ymin': 1, 'ymax': 49, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 903, 'xmax': 957, 'ymin': 342, 'ymax': 381, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 894, 'xmax': 1045, 'ymin': 15, 'ymax': 90, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 960, 'xmax': 988, 'ymin': 340, 'ymax': 374, 'confidence': 0.0}
+
+180. f5dc2e1b-1330.jpg - right
+{'obj': 'bejickaya', 'xmin': 615, 'xmax': 662, 'ymin': 9, 'ymax': 48, 'confidence': 0.9502024651}
+
+{'obj': 'text', 'xmin': 4, 'xmax': 125, 'ymin': 1, 'ymax': 38, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 585, 'xmax': 635, 'ymin': 182, 'ymax': 214, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 173, 'xmax': 233, 'ymin': 179, 'ymax': 214, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 160, 'xmax': 215, 'ymin': 10, 'ymax': 52, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 614, 'xmax': 663, 'ymin': 10, 'ymax': 50, 'confidence': 0.0}
+
+181. f6e0b86f-1338.jpg - right
+{'obj': 'bejickaya', 'xmin': 583, 'xmax': 627, 'ymin': 29, 'ymax': 66, 'confidence': 0.9448430538}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 114, 'ymin': 0, 'ymax': 34, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 576, 'xmax': 626, 'ymin': 206, 'ymax': 244, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 123, 'xmax': 185, 'ymin': 192, 'ymax': 231, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 151, 'xmax': 200, 'ymin': 15, 'ymax': 56, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 582, 'xmax': 626, 'ymin': 30, 'ymax': 68, 'confidence': 0.0}
+
+182. f80a5838-1250.jpg - right
+{'obj': 'bejickaya', 'xmin': 1288, 'xmax': 1422, 'ymin': 15, 'ymax': 122, 'confidence': 0.9540344477}
+
+{'obj': 'text', 'xmin': 3, 'xmax': 185, 'ymin': 103, 'ymax': 180, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1326, 'xmax': 1481, 'ymin': 549, 'ymax': 654, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 203, 'xmax': 325, 'ymin': 518, 'ymax': 602, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 247, 'xmax': 345, 'ymin': 113, 'ymax': 201, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 1287, 'xmax': 1421, 'ymin': 12, 'ymax': 123, 'confidence': 0.0}
+
+183. f8b636e3-5989.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 692, 'xmax': 821, 'ymin': 20, 'ymax': 92, 'confidence': 0.9616488218}
+
+{'obj': 'text', 'xmin': 84, 'xmax': 185, 'ymin': 361, 'ymax': 401, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 840, 'xmax': 952, 'ymin': 1, 'ymax': 51, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 749, 'xmax': 792, 'ymin': 288, 'ymax': 323, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 693, 'xmax': 820, 'ymin': 26, 'ymax': 94, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 798, 'xmax': 820, 'ymin': 288, 'ymax': 316, 'confidence': 0.0}
+
+184. f92110f1-1272.jpg - right
+{'obj': 'bejickaya', 'xmin': 603, 'xmax': 648, 'ymin': 21, 'ymax': 59, 'confidence': 0.9538884163}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 121, 'ymin': 5, 'ymax': 37, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 601, 'xmax': 654, 'ymin': 210, 'ymax': 248, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 127, 'xmax': 196, 'ymin': 197, 'ymax': 237, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 150, 'xmax': 204, 'ymin': 16, 'ymax': 56, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 604, 'xmax': 651, 'ymin': 20, 'ymax': 61, 'confidence': 0.0}
+
+185. fbc1dbf8-1274.jpg - right
+{'obj': 'bejickaya', 'xmin': 583, 'xmax': 627, 'ymin': 6, 'ymax': 43, 'confidence': 0.9573479295}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 113, 'ymin': 2, 'ymax': 34, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 592, 'xmax': 644, 'ymin': 195, 'ymax': 234, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 128, 'xmax': 192, 'ymin': 187, 'ymax': 229, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 143, 'xmax': 194, 'ymin': 9, 'ymax': 49, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 581, 'xmax': 627, 'ymin': 7, 'ymax': 45, 'confidence': 0.0}
+
+186. fbe5338a-5920.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 667, 'xmax': 775, 'ymin': 14, 'ymax': 72, 'confidence': 0.9635468721}
+
+{'obj': 'text', 'xmin': 36, 'xmax': 142, 'ymin': 331, 'ymax': 373, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 791, 'xmax': 886, 'ymin': 1, 'ymax': 36, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 694, 'xmax': 735, 'ymin': 275, 'ymax': 305, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 666, 'xmax': 775, 'ymin': 16, 'ymax': 74, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 739, 'xmax': 760, 'ymin': 271, 'ymax': 297, 'confidence': 0.0}
+
+187. fc07009d-1270.jpg - right
+{'obj': 'bejickaya', 'xmin': 552, 'xmax': 592, 'ymin': 25, 'ymax': 61, 'confidence': 0.9576171041}
+
+{'obj': 'text', 'xmin': 2, 'xmax': 110, 'ymin': 4, 'ymax': 33, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 557, 'xmax': 610, 'ymin': 210, 'ymax': 248, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 106, 'xmax': 169, 'ymin': 188, 'ymax': 227, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 134, 'xmax': 183, 'ymin': 13, 'ymax': 52, 'confidence': 0.0}
+{'obj': 'bejickaya', 'xmin': 551, 'xmax': 593, 'ymin': 24, 'ymax': 61, 'confidence': 0.0}
+
+188. fc44f524-6109.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 903, 'xmax': 1063, 'ymin': 15, 'ymax': 92, 'confidence': 0.9582719207}
+
+{'obj': 'text', 'xmin': 58, 'xmax': 184, 'ymin': 391, 'ymax': 438, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1090, 'xmax': 1229, 'ymin': 0, 'ymax': 52, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 935, 'xmax': 997, 'ymin': 380, 'ymax': 427, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 903, 'xmax': 1061, 'ymin': 13, 'ymax': 93, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 1002, 'xmax': 1031, 'ymin': 386, 'ymax': 421, 'confidence': 0.0}
+
+189. fd0ad6da-5990.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 384, 'xmax': 476, 'ymin': 7, 'ymax': 58, 'confidence': 0.9548573494}
+
+{'obj': 'text', 'xmin': 6, 'xmax': 55, 'ymin': 199, 'ymax': 230, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 491, 'xmax': 582, 'ymin': 2, 'ymax': 40, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 425, 'xmax': 459, 'ymin': 283, 'ymax': 317, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 382, 'xmax': 475, 'ymin': 4, 'ymax': 58, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 466, 'xmax': 484, 'ymin': 291, 'ymax': 320, 'confidence': 0.0}
+
+190. fe6636c0-6104.jpg - right
+{'obj': 'ruzhimmash', 'xmin': 823, 'xmax': 966, 'ymin': 12, 'ymax': 79, 'confidence': 0.9643734097}
+
+{'obj': 'text', 'xmin': 58, 'xmax': 176, 'ymin': 332, 'ymax': 372, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 995, 'xmax': 1123, 'ymin': 0, 'ymax': 44, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 855, 'xmax': 908, 'ymin': 333, 'ymax': 374, 'confidence': 0.0}
+{'obj': 'ruzhimmash', 'xmin': 825, 'xmax': 966, 'ymin': 12, 'ymax': 81, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 915, 'xmax': 943, 'ymin': 338, 'ymax': 371, 'confidence': 0.0}
+
+{<Prod_classify_result.wrong: 0>: 0, <Prod_classify_result.right: 1>: 190, <Prod_classify_result.two_prods: 2>: 0, <Prod_classify_result.no_prod: 3>: 0}
+{<Prod_classify_result.wrong: 0>: 0.0, <Prod_classify_result.right: 1>: 100.0, <Prod_classify_result.two_prods: 2>: 0.0, <Prod_classify_result.no_prod: 3>: 0.0}

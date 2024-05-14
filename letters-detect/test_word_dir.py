@@ -11,10 +11,10 @@ from word_compare_result import Word_compare_result
 # model and dataset
 model_path = 'models/letters-detect/06_05_1000_764_n_1500/exp13/weights/best.pt'
 dir_path = 'letters-detect/words_test/ruzhimmash/'
-label_path = dir_path + 'number.txt'
-image_dir_path = dir_path + 'number'
-test_results = 'letters-detect/words_test_results/ruzhimmash_number_exp13.txt'
-str1 = 'model - 06_05_1000_764_n_1500/exp13/weights/best.pt\nruzhimmash_number\n'
+label_path = dir_path + 'year.txt'
+image_dir_path = dir_path + 'year'
+test_results = 'letters-detect/words_test_results/ruzhimmash_year_exp13.txt'
+str1 = 'model - 06_05_1000_764_n_1500/exp13/weights/best.pt\nruzhimmash_year\n'
 
 
 # useful addresses
@@ -39,7 +39,7 @@ for image_name in image_dir:
     h, w = img.shape[:2]
     size_h = int(round(h / 32.0)) * 32
     size_w = int(round(w / 32.0)) * 32
-    results = model([img_path], size = (64,192))
+    results = model([img_path], size = (h,w))
     json_res = results.pandas().xyxy[0].to_json(orient="records")
     res2 = json.loads(json_res)
     img_letters = Letters_In_Image.get_letters_in_image_from_yolo_json(res2)

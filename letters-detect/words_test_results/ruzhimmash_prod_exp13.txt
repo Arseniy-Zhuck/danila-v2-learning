@@ -1,20 +1,20 @@
 model - 06_05_1000_764_n_1500/exp13/weights/best.pt
 ruzhimmash_prod
 1270 - 1275
+72751 - 1275
 7275 - 1275
-275 - 1275
+4275 - 1275
 1275 - 1275
-1275 - 1275
-1275 - 1275
-270 - 1275
-275 - 1275
-1279 - 1275
-2275 - 1275
-2275 - 1275
-2275 - 1275
-1275 - 1275
+9751 - 1275
+79751 - 1275
 7275 - 1275
-1275 - 1275
-12757 - 1275
-{<Word_compare_result.equal: 3>: 5, <Word_compare_result.partial: 2>: 11, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 0}
-{<Word_compare_result.equal: 3>: 31.2, <Word_compare_result.partial: 2>: 68.8, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 0.0}
+72751 - 1275
+1975 - 1275
+72275 - 1275
+21275 - 1275
+2751 - 1275
+727571 - 1275
+2751 - 1275
+72721 - 1275
+{<Word_compare_result.equal: 3>: 1, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 6.2, <Word_compare_result.partial: 2>: 93.8, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 0.0}
