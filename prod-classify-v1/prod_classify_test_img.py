@@ -158,11 +158,11 @@ class Objs_In_Image:
 
 
 
-img_path = 'prod-classify-v1/dataset/test/images/0b62db71-126.jpg'
+img_path = 'prod-classify-v1/WhatsApp Image 2023-05-23 at 07.34.17 (1).jpeg'
 label_path = 'prod-classify-v1/dataset/test/labels/0b62db71-126.txt'
 
 yolo_path = 'yolov5'
-model_path = 'models/prod-classify-v1/07_05_v1/exp/weights/last.pt'
+model_path = 'models/prod-classify-v1/07_05_v2/exp2/weights/last.pt'
 
 model = torch.hub.load(yolo_path, 'custom', model_path, source='local')
 results = model([img_path], size = 256)
@@ -171,18 +171,18 @@ res2 = json.loads(json_res)
 img_objs = Objs_In_Image.get_objs_in_image_from_yolo_json(res2)
 img_objs.delete_intersections()
 # label_path = label_dir_path + '/' + image_name.split('.')[0] + '.txt'
-data = []
-with open(label_path) as f:
-    for line in f:
-        data.append([float(x) for x in line.split()])
-img = cv2.imread(img_path)
-h, w = img.shape[:2]
-label_objs = Objs_In_Image()
-for d in data:
-    yolo_label_rect = Yolo_label_Rect.build_from_2D_array(d, h, w)
-    rect_labeled = yolo_label_rect.build_rect()
-    label_objs.objs.append(Prod_In_Image(Rama_Prod(int(d[0])).name, rect_labeled))
+# data = []
+# with open(label_path) as f:
+#     for line in f:
+#         data.append([float(x) for x in line.split()])
+# img = cv2.imread(img_path)
+# h, w = img.shape[:2]
+# label_objs = Objs_In_Image()
+# for d in data:
+#     yolo_label_rect = Yolo_label_Rect.build_from_2D_array(d, h, w)
+#     rect_labeled = yolo_label_rect.build_rect()
+#     label_objs.objs.append(Text_In_Image(Rama_Prod(int(d[0])).name, rect_labeled))
 print(img_objs)
-print(label_objs)
+# print(label_objs)
 
 

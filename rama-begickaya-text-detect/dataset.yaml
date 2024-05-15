@@ -1,0 +1,13 @@
+train: C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\rama-begickaya-text-detect\dataset\
+
+val: C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\rama-begickaya-text-detect\dataset\
+
+test:  C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\rama-begickaya-text-detect\dataset\test
+
+
+
+# Classes
+
+nc: 4
+
+names: ['number', 'prod', 'text', 'year' ]
