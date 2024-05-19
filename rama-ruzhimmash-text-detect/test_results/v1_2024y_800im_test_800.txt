@@ -1,0 +1,1410 @@
+ruzhimmash_v1_2024y_800im_test_800
+1. 03734d98-4915.jpgnumber
+{'obj': 'number', 'xmin': 1078, 'xmax': 1220, 'ymin': 0, 'ymax': 49, 'confidence': 0.9000641704}
+{'obj': 'number', 'xmin': 42, 'xmax': 175, 'ymin': 338, 'ymax': 383, 'confidence': 0.8699244857}
+prod
+{'obj': 'prod', 'xmin': 879, 'xmax': 1054, 'ymin': 5, 'ymax': 85, 'confidence': 0.9278225303}
+text
+{'obj': 'text', 'xmin': 961, 'xmax': 988, 'ymin': 340, 'ymax': 376, 'confidence': 0.5180414319}
+year
+{'obj': 'year', 'xmin': 896, 'xmax': 955, 'ymin': 336, 'ymax': 381, 'confidence': 0.884019196}
+
+number
+{'obj': 'number', 'xmin': 44, 'xmax': 174, 'ymin': 345, 'ymax': 380, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1071, 'xmax': 1215, 'ymin': 0, 'ymax': 49, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 884, 'xmax': 1050, 'ymin': 9, 'ymax': 83, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 961, 'xmax': 989, 'ymin': 345, 'ymax': 379, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 898, 'xmax': 956, 'ymin': 343, 'ymax': 380, 'confidence': 0.0}
+
+number : exists, IoU : 92.60000000000001%;
+ prod : exists, IoU : 89.5%;
+ year : exists, IoU : 81.6%;
+ 2. 05fd4356-4814.jpgnumber
+{'obj': 'number', 'xmin': 1040, 'xmax': 1174, 'ymin': 0, 'ymax': 55, 'confidence': 0.91102314}
+{'obj': 'number', 'xmin': 42, 'xmax': 186, 'ymin': 389, 'ymax': 443, 'confidence': 0.8701030016}
+prod
+{'obj': 'prod', 'xmin': 871, 'xmax': 1022, 'ymin': 11, 'ymax': 91, 'confidence': 0.9537672997}
+text
+{'obj': 'text', 'xmin': 960, 'xmax': 987, 'ymin': 356, 'ymax': 396, 'confidence': 0.5961295962}
+year
+{'obj': 'year', 'xmin': 896, 'xmax': 953, 'ymin': 351, 'ymax': 400, 'confidence': 0.8391240835}
+
+number
+{'obj': 'number', 'xmin': 51, 'xmax': 182, 'ymin': 394, 'ymax': 438, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1041, 'xmax': 1170, 'ymin': 3, 'ymax': 52, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 872, 'xmax': 1022, 'ymin': 17, 'ymax': 86, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 960, 'xmax': 988, 'ymin': 357, 'ymax': 395, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 901, 'xmax': 953, 'ymin': 354, 'ymax': 398, 'confidence': 0.0}
+
+number : exists, IoU : 88.2%;
+ prod : exists, IoU : 86.9%;
+ year : exists, IoU : 83.8%;
+ 3. 0d17eae4-4909.jpgnumber
+{'obj': 'number', 'xmin': 1087, 'xmax': 1224, 'ymin': 0, 'ymax': 52, 'confidence': 0.923089385}
+{'obj': 'number', 'xmin': 27, 'xmax': 160, 'ymin': 382, 'ymax': 425, 'confidence': 0.9135502577}
+prod
+{'obj': 'prod', 'xmin': 899, 'xmax': 1063, 'ymin': 10, 'ymax': 88, 'confidence': 0.9567786455}
+text
+{'obj': 'text', 'xmin': 983, 'xmax': 1012, 'ymin': 369, 'ymax': 405, 'confidence': 0.7487947345}
+year
+{'obj': 'year', 'xmin': 917, 'xmax': 977, 'ymin': 366, 'ymax': 408, 'confidence': 0.9214473367}
+
+number
+{'obj': 'number', 'xmin': 29, 'xmax': 158, 'ymin': 382, 'ymax': 427, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1082, 'xmax': 1224, 'ymin': 4, 'ymax': 56, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 900, 'xmax': 1062, 'ymin': 16, 'ymax': 89, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 982, 'xmax': 1009, 'ymin': 371, 'ymax': 408, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 918, 'xmax': 974, 'ymin': 369, 'ymax': 411, 'confidence': 0.0}
+
+number : exists, IoU : 95.6%;
+ prod : exists, IoU : 91.8%;
+ year : exists, IoU : 84.6%;
+ 4. 0deb23b6-4829.jpgnumber
+prod
+{'obj': 'prod', 'xmin': 53, 'xmax': 224, 'ymin': 9, 'ymax': 77, 'confidence': 0.7714408636}
+{'obj': 'prod', 'xmin': 1103, 'xmax': 1189, 'ymin': 0, 'ymax': 59, 'confidence': 0.6008145213}
+{'obj': 'prod', 'xmin': 870, 'xmax': 1063, 'ymin': 4, 'ymax': 78, 'confidence': 0.5683226585}
+text
+{'obj': 'text', 'xmin': 73, 'xmax': 110, 'ymin': 382, 'ymax': 439, 'confidence': 0.5068910122}
+year
+{'obj': 'year', 'xmin': 926, 'xmax': 999, 'ymin': 366, 'ymax': 429, 'confidence': 0.8462225199}
+{'obj': 'year', 'xmin': 110, 'xmax': 189, 'ymin': 391, 'ymax': 472, 'confidence': 0.3805668652}
+
+number
+{'obj': 'number', 'xmin': 36, 'xmax': 175, 'ymin': 381, 'ymax': 433, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1061, 'xmax': 1188, 'ymin': 2, 'ymax': 51, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 884, 'xmax': 1036, 'ymin': 13, 'ymax': 86, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 993, 'xmax': 1022, 'ymin': 373, 'ymax': 415, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 933, 'xmax': 984, 'ymin': 372, 'ymax': 417, 'confidence': 0.0}
+
+number : none, IoU : 0.0%;
+ prod : few, IoU : 0.0%;
+ year : few, IoU : 0.0%;
+ 5. 12536730-4904.jpgnumber
+{'obj': 'number', 'xmin': 1027, 'xmax': 1174, 'ymin': 0, 'ymax': 53, 'confidence': 0.9178209305}
+{'obj': 'number', 'xmin': 2, 'xmax': 129, 'ymin': 369, 'ymax': 411, 'confidence': 0.9110319614}
+prod
+{'obj': 'prod', 'xmin': 829, 'xmax': 996, 'ymin': 14, 'ymax': 91, 'confidence': 0.9567913413}
+text
+{'obj': 'text', 'xmin': 915, 'xmax': 943, 'ymin': 348, 'ymax': 381, 'confidence': 0.7353696227}
+year
+{'obj': 'year', 'xmin': 853, 'xmax': 909, 'ymin': 346, 'ymax': 387, 'confidence': 0.9229354858}
+
+number
+{'obj': 'number', 'xmin': 1, 'xmax': 129, 'ymin': 368, 'ymax': 413, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1024, 'xmax': 1175, 'ymin': 0, 'ymax': 48, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 833, 'xmax': 998, 'ymin': 14, 'ymax': 89, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 913, 'xmax': 944, 'ymin': 349, 'ymax': 380, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 850, 'xmax': 907, 'ymin': 349, 'ymax': 383, 'confidence': 0.0}
+
+number : exists, IoU : 94.8%;
+ prod : exists, IoU : 95.8%;
+ year : exists, IoU : 80.2%;
+ 6. 153b6852-4817.jpgnumber
+{'obj': 'number', 'xmin': 1025, 'xmax': 1160, 'ymin': 1, 'ymax': 53, 'confidence': 0.870262444}
+prod
+{'obj': 'prod', 'xmin': 854, 'xmax': 1016, 'ymin': 1, 'ymax': 77, 'confidence': 0.9367383122}
+text
+{'obj': 'text', 'xmin': 686, 'xmax': 843, 'ymin': 3, 'ymax': 47, 'confidence': 0.7751768231}
+{'obj': 'text', 'xmin': 0, 'xmax': 43, 'ymin': 7, 'ymax': 63, 'confidence': 0.6887100935}
+{'obj': 'text', 'xmin': 54, 'xmax': 172, 'ymin': 19, 'ymax': 91, 'confidence': 0.6613329649}
+{'obj': 'text', 'xmin': 199, 'xmax': 297, 'ymin': 0, 'ymax': 44, 'confidence': 0.492995739}
+{'obj': 'text', 'xmin': 71, 'xmax': 114, 'ymin': 353, 'ymax': 403, 'confidence': 0.4682961404}
+year
+{'obj': 'year', 'xmin': 932, 'xmax': 1001, 'ymin': 361, 'ymax': 425, 'confidence': 0.8399983048}
+{'obj': 'year', 'xmin': 58, 'xmax': 169, 'ymin': 18, 'ymax': 93, 'confidence': 0.4024800658}
+
+number
+{'obj': 'number', 'xmin': 1026, 'xmax': 1158, 'ymin': 12, 'ymax': 50, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 850, 'xmax': 1011, 'ymin': 7, 'ymax': 84, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 682, 'xmax': 835, 'ymin': 8, 'ymax': 50, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 77, 'xmax': 103, 'ymin': 359, 'ymax': 397, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 68, 'xmax': 157, 'ymin': 30, 'ymax': 98, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 940, 'xmax': 992, 'ymin': 377, 'ymax': 413, 'confidence': 0.0}
+
+number : exists, IoU : 73.9%;
+ prod : exists, IoU : 81.69999999999999%;
+ year : few, IoU : 0.0%;
+ 7. 16b4e31b-4847.jpgnumber
+{'obj': 'number', 'xmin': 878, 'xmax': 1031, 'ymin': 27, 'ymax': 85, 'confidence': 0.9138095975}
+{'obj': 'number', 'xmin': 36, 'xmax': 129, 'ymin': 254, 'ymax': 303, 'confidence': 0.8617366552}
+prod
+{'obj': 'prod', 'xmin': 685, 'xmax': 855, 'ymin': 22, 'ymax': 108, 'confidence': 0.9451729059}
+text
+{'obj': 'text', 'xmin': 799, 'xmax': 827, 'ymin': 386, 'ymax': 427, 'confidence': 0.3318025768}
+year
+{'obj': 'year', 'xmin': 737, 'xmax': 795, 'ymin': 374, 'ymax': 426, 'confidence': 0.8409371376}
+
+number
+{'obj': 'number', 'xmin': 36, 'xmax': 124, 'ymin': 260, 'ymax': 303, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 881, 'xmax': 1032, 'ymin': 28, 'ymax': 88, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 688, 'xmax': 848, 'ymin': 27, 'ymax': 107, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 799, 'xmax': 828, 'ymin': 392, 'ymax': 425, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 742, 'xmax': 793, 'ymin': 382, 'ymax': 424, 'confidence': 0.0}
+
+number : exists, IoU : 93.30000000000001%;
+ prod : exists, IoU : 89.2%;
+ year : exists, IoU : 74.1%;
+ 8. 1a97e529-4840.jpgnumber
+{'obj': 'number', 'xmin': 1070, 'xmax': 1200, 'ymin': 0, 'ymax': 56, 'confidence': 0.8945664167}
+{'obj': 'number', 'xmin': 82, 'xmax': 222, 'ymin': 390, 'ymax': 441, 'confidence': 0.8745065928}
+prod
+{'obj': 'prod', 'xmin': 887, 'xmax': 1063, 'ymin': 11, 'ymax': 106, 'confidence': 0.9204657674}
+text
+year
+{'obj': 'year', 'xmin': 889, 'xmax': 951, 'ymin': 324, 'ymax': 374, 'confidence': 0.8606692553}
+
+number
+{'obj': 'number', 'xmin': 91, 'xmax': 220, 'ymin': 396, 'ymax': 440, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1069, 'xmax': 1196, 'ymin': 5, 'ymax': 55, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 896, 'xmax': 1047, 'ymin': 23, 'ymax': 100, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 948, 'xmax': 974, 'ymin': 332, 'ymax': 366, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 893, 'xmax': 944, 'ymin': 335, 'ymax': 372, 'confidence': 0.0}
+
+number : exists, IoU : 88.4%;
+ prod : exists, IoU : 70.89999999999999%;
+ year : exists, IoU : 63.7%;
+ 9. 252c503b-4821.jpgnumber
+{'obj': 'number', 'xmin': 1083, 'xmax': 1220, 'ymin': 6, 'ymax': 59, 'confidence': 0.9194579124}
+{'obj': 'number', 'xmin': 37, 'xmax': 174, 'ymin': 359, 'ymax': 408, 'confidence': 0.8867101073}
+prod
+{'obj': 'prod', 'xmin': 892, 'xmax': 1056, 'ymin': 10, 'ymax': 89, 'confidence': 0.9506344199}
+text
+{'obj': 'text', 'xmin': 964, 'xmax': 992, 'ymin': 369, 'ymax': 405, 'confidence': 0.6614102721}
+year
+{'obj': 'year', 'xmin': 900, 'xmax': 959, 'ymin': 364, 'ymax': 412, 'confidence': 0.9090548754}
+
+number
+{'obj': 'number', 'xmin': 46, 'xmax': 173, 'ymin': 367, 'ymax': 406, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1083, 'xmax': 1223, 'ymin': 6, 'ymax': 62, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 893, 'xmax': 1056, 'ymin': 13, 'ymax': 89, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 966, 'xmax': 994, 'ymin': 373, 'ymax': 406, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 902, 'xmax': 959, 'ymin': 370, 'ymax': 410, 'confidence': 0.0}
+
+number : exists, IoU : 95.1%;
+ prod : exists, IoU : 95.6%;
+ year : exists, IoU : 82.5%;
+ 10. 254718bd-4857.jpgnumber
+{'obj': 'number', 'xmin': 986, 'xmax': 1131, 'ymin': 0, 'ymax': 54, 'confidence': 0.9088159204}
+{'obj': 'number', 'xmin': 88, 'xmax': 198, 'ymin': 275, 'ymax': 317, 'confidence': 0.868447125}
+prod
+{'obj': 'prod', 'xmin': 803, 'xmax': 963, 'ymin': 9, 'ymax': 82, 'confidence': 0.9470613599}
+text
+{'obj': 'text', 'xmin': 881, 'xmax': 908, 'ymin': 315, 'ymax': 349, 'confidence': 0.4743856192}
+year
+{'obj': 'year', 'xmin': 818, 'xmax': 873, 'ymin': 310, 'ymax': 350, 'confidence': 0.9245282412}
+
+number
+{'obj': 'number', 'xmin': 92, 'xmax': 195, 'ymin': 283, 'ymax': 318, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 987, 'xmax': 1133, 'ymin': 2, 'ymax': 52, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 807, 'xmax': 961, 'ymin': 11, 'ymax': 82, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 882, 'xmax': 906, 'ymin': 318, 'ymax': 351, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 822, 'xmax': 872, 'ymin': 315, 'ymax': 351, 'confidence': 0.0}
+
+number : exists, IoU : 93.2%;
+ prod : exists, IoU : 94.19999999999999%;
+ year : exists, IoU : 81.39999999999999%;
+ 11. 2beb1ab2-4872.jpgnumber
+{'obj': 'number', 'xmin': 640, 'xmax': 723, 'ymin': 0, 'ymax': 27, 'confidence': 0.9238420129}
+{'obj': 'number', 'xmin': 20, 'xmax': 104, 'ymin': 248, 'ymax': 280, 'confidence': 0.9143121243}
+prod
+{'obj': 'prod', 'xmin': 534, 'xmax': 626, 'ymin': 6, 'ymax': 52, 'confidence': 0.9534987211}
+text
+{'obj': 'text', 'xmin': 621, 'xmax': 641, 'ymin': 229, 'ymax': 254, 'confidence': 0.8313183188}
+{'obj': 'text', 'xmin': 581, 'xmax': 632, 'ymin': 228, 'ymax': 258, 'confidence': 0.2990084291}
+year
+{'obj': 'year', 'xmin': 581, 'xmax': 616, 'ymin': 228, 'ymax': 258, 'confidence': 0.9054768085}
+
+number
+{'obj': 'number', 'xmin': 20, 'xmax': 103, 'ymin': 250, 'ymax': 278, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 640, 'xmax': 721, 'ymin': 1, 'ymax': 30, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 530, 'xmax': 628, 'ymin': 8, 'ymax': 50, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 622, 'xmax': 640, 'ymin': 228, 'ymax': 255, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 582, 'xmax': 616, 'ymin': 229, 'ymax': 259, 'confidence': 0.0}
+
+number : exists, IoU : 90.60000000000001%;
+ prod : exists, IoU : 89.0%;
+ year : exists, IoU : 94.0%;
+ 12. 2d238c9e-4850.jpgnumber
+{'obj': 'number', 'xmin': 0, 'xmax': 131, 'ymin': 390, 'ymax': 444, 'confidence': 0.9207459688}
+{'obj': 'number', 'xmin': 1087, 'xmax': 1232, 'ymin': 1, 'ymax': 54, 'confidence': 0.894163847}
+prod
+{'obj': 'prod', 'xmin': 907, 'xmax': 1065, 'ymin': 10, 'ymax': 88, 'confidence': 0.9429836273}
+text
+{'obj': 'text', 'xmin': 1034, 'xmax': 1067, 'ymin': 402, 'ymax': 447, 'confidence': 0.5576333404}
+year
+{'obj': 'year', 'xmin': 962, 'xmax': 1028, 'ymin': 399, 'ymax': 453, 'confidence': 0.8906302452}
+
+number
+{'obj': 'number', 'xmin': 0, 'xmax': 135, 'ymin': 391, 'ymax': 446, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1093, 'xmax': 1221, 'ymin': 4, 'ymax': 51, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 907, 'xmax': 1067, 'ymin': 9, 'ymax': 84, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 1034, 'xmax': 1061, 'ymin': 405, 'ymax': 446, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 967, 'xmax': 1030, 'ymin': 405, 'ymax': 451, 'confidence': 0.0}
+
+number : exists, IoU : 94.3%;
+ prod : exists, IoU : 94.39999999999999%;
+ year : exists, IoU : 79.5%;
+ 13. 30c00f3f-4896.jpgnumber
+{'obj': 'number', 'xmin': 1040, 'xmax': 1179, 'ymin': 1, 'ymax': 52, 'confidence': 0.9290726781}
+{'obj': 'number', 'xmin': 47, 'xmax': 172, 'ymin': 327, 'ymax': 370, 'confidence': 0.8825457096}
+prod
+{'obj': 'prod', 'xmin': 855, 'xmax': 1013, 'ymin': 9, 'ymax': 83, 'confidence': 0.9525462389}
+text
+{'obj': 'text', 'xmin': 935, 'xmax': 962, 'ymin': 352, 'ymax': 387, 'confidence': 0.7946560383}
+year
+{'obj': 'year', 'xmin': 873, 'xmax': 929, 'ymin': 350, 'ymax': 389, 'confidence': 0.9404879808}
+
+number
+{'obj': 'number', 'xmin': 51, 'xmax': 171, 'ymin': 329, 'ymax': 366, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1037, 'xmax': 1183, 'ymin': 2, 'ymax': 53, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 856, 'xmax': 1014, 'ymin': 9, 'ymax': 85, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 933, 'xmax': 961, 'ymin': 350, 'ymax': 384, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 876, 'xmax': 931, 'ymin': 349, 'ymax': 389, 'confidence': 0.0}
+
+number : exists, IoU : 94.1%;
+ prod : exists, IoU : 98.1%;
+ year : exists, IoU : 90.9%;
+ 14. 32e2b204-4836.jpgnumber
+{'obj': 'number', 'xmin': 1010, 'xmax': 1226, 'ymin': 5, 'ymax': 85, 'confidence': 0.9454440475}
+{'obj': 'number', 'xmin': 62, 'xmax': 165, 'ymin': 386, 'ymax': 440, 'confidence': 0.8445786238}
+prod
+{'obj': 'prod', 'xmin': 748, 'xmax': 1000, 'ymin': 15, 'ymax': 143, 'confidence': 0.9300610423}
+text
+{'obj': 'text', 'xmin': 930, 'xmax': 973, 'ymin': 481, 'ymax': 540, 'confidence': 0.2624847293}
+year
+{'obj': 'year', 'xmin': 842, 'xmax': 925, 'ymin': 460, 'ymax': 541, 'confidence': 0.8062642217}
+
+number
+{'obj': 'number', 'xmin': 69, 'xmax': 162, 'ymin': 390, 'ymax': 438, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1013, 'xmax': 1220, 'ymin': 6, 'ymax': 78, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 773, 'xmax': 977, 'ymin': 32, 'ymax': 127, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 935, 'xmax': 966, 'ymin': 490, 'ymax': 535, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 851, 'xmax': 919, 'ymin': 480, 'ymax': 528, 'confidence': 0.0}
+
+number : exists, IoU : 87.9%;
+ prod : exists, IoU : 61.0%;
+ year : exists, IoU : 50.3%;
+ 15. 35da7aa5-4820.jpgnumber
+{'obj': 'number', 'xmin': 1055, 'xmax': 1225, 'ymin': 0, 'ymax': 56, 'confidence': 0.9406352639}
+{'obj': 'number', 'xmin': 48, 'xmax': 174, 'ymin': 331, 'ymax': 376, 'confidence': 0.8788001537}
+prod
+{'obj': 'prod', 'xmin': 836, 'xmax': 1027, 'ymin': 7, 'ymax': 90, 'confidence': 0.9439099431}
+text
+{'obj': 'text', 'xmin': 950, 'xmax': 983, 'ymin': 370, 'ymax': 408, 'confidence': 0.7784949541}
+year
+{'obj': 'year', 'xmin': 881, 'xmax': 944, 'ymin': 362, 'ymax': 409, 'confidence': 0.9069208503}
+
+number
+{'obj': 'number', 'xmin': 1050, 'xmax': 1230, 'ymin': 0, 'ymax': 58, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 58, 'xmax': 175, 'ymin': 335, 'ymax': 373, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 838, 'xmax': 1021, 'ymin': 10, 'ymax': 90, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 951, 'xmax': 983, 'ymin': 373, 'ymax': 407, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 883, 'xmax': 941, 'ymin': 368, 'ymax': 405, 'confidence': 0.0}
+
+number : exists, IoU : 93.4%;
+ prod : exists, IoU : 92.9%;
+ year : exists, IoU : 75.7%;
+ 16. 376015d6-4862.jpgnumber
+{'obj': 'number', 'xmin': 959, 'xmax': 1079, 'ymin': 3, 'ymax': 47, 'confidence': 0.886138618}
+{'obj': 'number', 'xmin': 45, 'xmax': 164, 'ymin': 334, 'ymax': 379, 'confidence': 0.8831230402}
+{'obj': 'number', 'xmin': 0, 'xmax': 23, 'ymin': 8, 'ymax': 53, 'confidence': 0.3055050373}
+prod
+{'obj': 'prod', 'xmin': 802, 'xmax': 937, 'ymin': 14, 'ymax': 79, 'confidence': 0.9475877285}
+text
+{'obj': 'text', 'xmin': 880, 'xmax': 905, 'ymin': 333, 'ymax': 365, 'confidence': 0.8394829631}
+year
+{'obj': 'year', 'xmin': 826, 'xmax': 874, 'ymin': 332, 'ymax': 370, 'confidence': 0.9109403491}
+
+number
+{'obj': 'number', 'xmin': 46, 'xmax': 162, 'ymin': 338, 'ymax': 376, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 959, 'xmax': 1076, 'ymin': 2, 'ymax': 44, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 803, 'xmax': 937, 'ymin': 15, 'ymax': 78, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 883, 'xmax': 906, 'ymin': 334, 'ymax': 364, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 828, 'xmax': 876, 'ymin': 334, 'ymax': 371, 'confidence': 0.0}
+
+number : exists, IoU : 91.8%;
+ prod : exists, IoU : 97.7%;
+ year : exists, IoU : 89.3%;
+ 17. 3c1dd8b3-4841.jpgnumber
+{'obj': 'number', 'xmin': 1089, 'xmax': 1228, 'ymin': 0, 'ymax': 48, 'confidence': 0.9116187096}
+{'obj': 'number', 'xmin': 34, 'xmax': 182, 'ymin': 416, 'ymax': 474, 'confidence': 0.8828368187}
+prod
+{'obj': 'prod', 'xmin': 907, 'xmax': 1071, 'ymin': 8, 'ymax': 92, 'confidence': 0.928851366}
+text
+{'obj': 'text', 'xmin': 1031, 'xmax': 1061, 'ymin': 377, 'ymax': 423, 'confidence': 0.4519308805}
+year
+{'obj': 'year', 'xmin': 964, 'xmax': 1029, 'ymin': 372, 'ymax': 432, 'confidence': 0.8713091016}
+
+number
+{'obj': 'number', 'xmin': 36, 'xmax': 181, 'ymin': 420, 'ymax': 473, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1091, 'xmax': 1224, 'ymin': 2, 'ymax': 48, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 918, 'xmax': 1074, 'ymin': 14, 'ymax': 90, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 1032, 'xmax': 1061, 'ymin': 381, 'ymax': 421, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 969, 'xmax': 1026, 'ymin': 382, 'ymax': 431, 'confidence': 0.0}
+
+number : exists, IoU : 92.4%;
+ prod : exists, IoU : 84.6%;
+ year : exists, IoU : 74.4%;
+ 18. 3f7e082a-4883.jpgnumber
+{'obj': 'number', 'xmin': 620, 'xmax': 707, 'ymin': 1, 'ymax': 32, 'confidence': 0.9235191345}
+{'obj': 'number', 'xmin': 1, 'xmax': 79, 'ymin': 229, 'ymax': 258, 'confidence': 0.9150218368}
+prod
+{'obj': 'prod', 'xmin': 509, 'xmax': 605, 'ymin': 10, 'ymax': 55, 'confidence': 0.9541819692}
+text
+{'obj': 'text', 'xmin': 589, 'xmax': 607, 'ymin': 232, 'ymax': 258, 'confidence': 0.8419805765}
+year
+{'obj': 'year', 'xmin': 545, 'xmax': 583, 'ymin': 230, 'ymax': 260, 'confidence': 0.9213222265}
+
+number
+{'obj': 'number', 'xmin': 0, 'xmax': 77, 'ymin': 229, 'ymax': 259, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 620, 'xmax': 707, 'ymin': 0, 'ymax': 33, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 509, 'xmax': 605, 'ymin': 9, 'ymax': 53, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 588, 'xmax': 607, 'ymin': 233, 'ymax': 258, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 546, 'xmax': 585, 'ymin': 232, 'ymax': 261, 'confidence': 0.0}
+
+number : exists, IoU : 97.5%;
+ prod : exists, IoU : 95.7%;
+ year : exists, IoU : 89.0%;
+ 19. 412c65ce-4864.jpgnumber
+{'obj': 'number', 'xmin': 1049, 'xmax': 1199, 'ymin': 3, 'ymax': 54, 'confidence': 0.9267009497}
+{'obj': 'number', 'xmin': 48, 'xmax': 170, 'ymin': 333, 'ymax': 376, 'confidence': 0.8902655244}
+prod
+{'obj': 'prod', 'xmin': 854, 'xmax': 1021, 'ymin': 11, 'ymax': 88, 'confidence': 0.9504731297}
+text
+{'obj': 'text', 'xmin': 939, 'xmax': 969, 'ymin': 364, 'ymax': 400, 'confidence': 0.8340787888}
+year
+{'obj': 'year', 'xmin': 873, 'xmax': 930, 'ymin': 359, 'ymax': 399, 'confidence': 0.9213744998}
+
+number
+{'obj': 'number', 'xmin': 53, 'xmax': 167, 'ymin': 337, 'ymax': 377, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1050, 'xmax': 1198, 'ymin': 5, 'ymax': 57, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 858, 'xmax': 1019, 'ymin': 14, 'ymax': 87, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 940, 'xmax': 968, 'ymin': 369, 'ymax': 401, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 875, 'xmax': 928, 'ymin': 364, 'ymax': 401, 'confidence': 0.0}
+
+number : exists, IoU : 92.0%;
+ prod : exists, IoU : 93.2%;
+ year : exists, IoU : 81.3%;
+ 20. 489e7ec4-4875.jpgnumber
+{'obj': 'number', 'xmin': 448, 'xmax': 503, 'ymin': 1, 'ymax': 23, 'confidence': 0.922649622}
+{'obj': 'number', 'xmin': 7, 'xmax': 64, 'ymin': 172, 'ymax': 193, 'confidence': 0.907536447}
+prod
+{'obj': 'prod', 'xmin': 375, 'xmax': 439, 'ymin': 6, 'ymax': 39, 'confidence': 0.9607481956}
+text
+{'obj': 'text', 'xmin': 419, 'xmax': 431, 'ymin': 161, 'ymax': 178, 'confidence': 0.8431084156}
+year
+{'obj': 'year', 'xmin': 389, 'xmax': 415, 'ymin': 160, 'ymax': 181, 'confidence': 0.9244341254}
+
+number
+{'obj': 'number', 'xmin': 5, 'xmax': 64, 'ymin': 172, 'ymax': 194, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 447, 'xmax': 504, 'ymin': 1, 'ymax': 23, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 374, 'xmax': 441, 'ymin': 7, 'ymax': 39, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 418, 'xmax': 432, 'ymin': 163, 'ymax': 180, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 389, 'xmax': 415, 'ymin': 161, 'ymax': 182, 'confidence': 0.0}
+
+number : exists, IoU : 98.2%;
+ prod : exists, IoU : 94.19999999999999%;
+ year : exists, IoU : 95.5%;
+ 21. 499f0a0f-4831.jpgnumber
+{'obj': 'number', 'xmin': 90, 'xmax': 236, 'ymin': 471, 'ymax': 542, 'confidence': 0.9348873496}
+{'obj': 'number', 'xmin': 907, 'xmax': 980, 'ymin': 0, 'ymax': 44, 'confidence': 0.8855299354}
+prod
+{'obj': 'prod', 'xmin': 792, 'xmax': 901, 'ymin': 17, 'ymax': 91, 'confidence': 0.9302272201}
+text
+{'obj': 'text', 'xmin': 837, 'xmax': 859, 'ymin': 293, 'ymax': 332, 'confidence': 0.3519687951}
+year
+{'obj': 'year', 'xmin': 798, 'xmax': 838, 'ymin': 297, 'ymax': 344, 'confidence': 0.789530158}
+
+number
+{'obj': 'number', 'xmin': 91, 'xmax': 231, 'ymin': 471, 'ymax': 546, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 902, 'xmax': 977, 'ymin': 2, 'ymax': 48, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 796, 'xmax': 893, 'ymin': 20, 'ymax': 88, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 838, 'xmax': 855, 'ymin': 298, 'ymax': 329, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 801, 'xmax': 835, 'ymin': 305, 'ymax': 341, 'confidence': 0.0}
+
+number : exists, IoU : 92.80000000000001%;
+ prod : exists, IoU : 83.8%;
+ year : exists, IoU : 68.89999999999999%;
+ 22. 4bce6ea0-4920.jpgnumber
+{'obj': 'number', 'xmin': 1039, 'xmax': 1164, 'ymin': 2, 'ymax': 53, 'confidence': 0.8990767598}
+{'obj': 'number', 'xmin': 59, 'xmax': 193, 'ymin': 404, 'ymax': 452, 'confidence': 0.8848548532}
+prod
+{'obj': 'prod', 'xmin': 876, 'xmax': 1017, 'ymin': 18, 'ymax': 95, 'confidence': 0.9271335602}
+text
+{'obj': 'text', 'xmin': 936, 'xmax': 961, 'ymin': 333, 'ymax': 367, 'confidence': 0.4825257659}
+year
+{'obj': 'year', 'xmin': 880, 'xmax': 931, 'ymin': 331, 'ymax': 372, 'confidence': 0.890037179}
+
+number
+{'obj': 'number', 'xmin': 57, 'xmax': 192, 'ymin': 406, 'ymax': 452, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1035, 'xmax': 1161, 'ymin': 0, 'ymax': 50, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 874, 'xmax': 1019, 'ymin': 18, 'ymax': 93, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 934, 'xmax': 963, 'ymin': 334, 'ymax': 365, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 878, 'xmax': 930, 'ymin': 330, 'ymax': 373, 'confidence': 0.0}
+
+number : exists, IoU : 94.5%;
+ prod : exists, IoU : 96.7%;
+ year : exists, IoU : 94.0%;
+ 23. 4d11d441-4906.jpgnumber
+{'obj': 'number', 'xmin': 1057, 'xmax': 1208, 'ymin': 1, 'ymax': 62, 'confidence': 0.9148775339}
+{'obj': 'number', 'xmin': 11, 'xmax': 144, 'ymin': 350, 'ymax': 397, 'confidence': 0.8796171546}
+prod
+{'obj': 'prod', 'xmin': 866, 'xmax': 1036, 'ymin': 14, 'ymax': 96, 'confidence': 0.9568773508}
+text
+{'obj': 'text', 'xmin': 944, 'xmax': 974, 'ymin': 385, 'ymax': 423, 'confidence': 0.6180902719}
+year
+{'obj': 'year', 'xmin': 874, 'xmax': 938, 'ymin': 379, 'ymax': 426, 'confidence': 0.8777497411}
+
+number
+{'obj': 'number', 'xmin': 13, 'xmax': 136, 'ymin': 351, 'ymax': 397, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1063, 'xmax': 1213, 'ymin': 5, 'ymax': 64, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 865, 'xmax': 1036, 'ymin': 17, 'ymax': 95, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 942, 'xmax': 973, 'ymin': 385, 'ymax': 420, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 875, 'xmax': 935, 'ymin': 380, 'ymax': 420, 'confidence': 0.0}
+
+number : exists, IoU : 91.2%;
+ prod : exists, IoU : 95.8%;
+ year : exists, IoU : 83.1%;
+ 24. 4f0d7809-4854.jpgnumber
+{'obj': 'number', 'xmin': 8, 'xmax': 129, 'ymin': 308, 'ymax': 358, 'confidence': 0.904076457}
+{'obj': 'number', 'xmin': 985, 'xmax': 1117, 'ymin': 45, 'ymax': 104, 'confidence': 0.8820239305}
+prod
+{'obj': 'prod', 'xmin': 809, 'xmax': 973, 'ymin': 29, 'ymax': 119, 'confidence': 0.9220080376}
+text
+year
+{'obj': 'year', 'xmin': 830, 'xmax': 891, 'ymin': 379, 'ymax': 434, 'confidence': 0.8345561028}
+
+number
+{'obj': 'number', 'xmin': 7, 'xmax': 129, 'ymin': 309, 'ymax': 359, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 988, 'xmax': 1111, 'ymin': 44, 'ymax': 103, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 821, 'xmax': 962, 'ymin': 40, 'ymax': 111, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 893, 'xmax': 923, 'ymin': 394, 'ymax': 431, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 836, 'xmax': 884, 'ymin': 388, 'ymax': 430, 'confidence': 0.0}
+
+number : exists, IoU : 97.3%;
+ prod : exists, IoU : 69.3%;
+ year : exists, IoU : 62.8%;
+ 25. 58e47340-4816.jpgnumber
+{'obj': 'number', 'xmin': 1089, 'xmax': 1222, 'ymin': 0, 'ymax': 48, 'confidence': 0.8964518905}
+{'obj': 'number', 'xmin': 28, 'xmax': 181, 'ymin': 367, 'ymax': 418, 'confidence': 0.8830527067}
+prod
+{'obj': 'prod', 'xmin': 910, 'xmax': 1070, 'ymin': 10, 'ymax': 85, 'confidence': 0.9416965842}
+text
+{'obj': 'text', 'xmin': 136, 'xmax': 186, 'ymin': 9, 'ymax': 53, 'confidence': 0.4996658564}
+year
+{'obj': 'year', 'xmin': 912, 'xmax': 974, 'ymin': 313, 'ymax': 356, 'confidence': 0.8818687797}
+
+number
+{'obj': 'number', 'xmin': 32, 'xmax': 177, 'ymin': 374, 'ymax': 414, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1087, 'xmax': 1223, 'ymin': 2, 'ymax': 51, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 914, 'xmax': 1072, 'ymin': 16, 'ymax': 88, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 975, 'xmax': 1003, 'ymin': 321, 'ymax': 353, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 915, 'xmax': 971, 'ymin': 320, 'ymax': 358, 'confidence': 0.0}
+
+number : exists, IoU : 90.9%;
+ prod : exists, IoU : 87.1%;
+ year : exists, IoU : 75.7%;
+ 26. 593bf67f-4828.jpgnumber
+{'obj': 'number', 'xmin': 1043, 'xmax': 1213, 'ymin': 5, 'ymax': 74, 'confidence': 0.928401947}
+{'obj': 'number', 'xmin': 66, 'xmax': 188, 'ymin': 343, 'ymax': 400, 'confidence': 0.8191618323}
+prod
+{'obj': 'prod', 'xmin': 825, 'xmax': 1029, 'ymin': 12, 'ymax': 110, 'confidence': 0.9287543893}
+text
+year
+{'obj': 'year', 'xmin': 886, 'xmax': 962, 'ymin': 390, 'ymax': 457, 'confidence': 0.7638343573}
+
+number
+{'obj': 'number', 'xmin': 80, 'xmax': 180, 'ymin': 351, 'ymax': 394, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1048, 'xmax': 1210, 'ymin': 14, 'ymax': 65, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 845, 'xmax': 1018, 'ymin': 26, 'ymax': 100, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 967, 'xmax': 997, 'ymin': 416, 'ymax': 453, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 893, 'xmax': 952, 'ymin': 407, 'ymax': 451, 'confidence': 0.0}
+
+number : exists, IoU : 72.3%;
+ prod : exists, IoU : 65.3%;
+ year : exists, IoU : 53.0%;
+ 27. 5a807933-4902.jpgnumber
+{'obj': 'number', 'xmin': 1079, 'xmax': 1221, 'ymin': 2, 'ymax': 51, 'confidence': 0.9104254842}
+{'obj': 'number', 'xmin': 45, 'xmax': 178, 'ymin': 340, 'ymax': 384, 'confidence': 0.8941323161}
+prod
+{'obj': 'prod', 'xmin': 888, 'xmax': 1048, 'ymin': 11, 'ymax': 84, 'confidence': 0.9355044961}
+text
+{'obj': 'text', 'xmin': 964, 'xmax': 991, 'ymin': 342, 'ymax': 377, 'confidence': 0.5544874668}
+year
+{'obj': 'year', 'xmin': 899, 'xmax': 957, 'ymin': 339, 'ymax': 382, 'confidence': 0.9043332338}
+
+number
+{'obj': 'number', 'xmin': 47, 'xmax': 175, 'ymin': 344, 'ymax': 379, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1077, 'xmax': 1220, 'ymin': 1, 'ymax': 48, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 889, 'xmax': 1052, 'ymin': 8, 'ymax': 83, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 963, 'xmax': 990, 'ymin': 347, 'ymax': 381, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 900, 'xmax': 959, 'ymin': 343, 'ymax': 379, 'confidence': 0.0}
+
+number : exists, IoU : 92.7%;
+ prod : exists, IoU : 93.7%;
+ year : exists, IoU : 83.39999999999999%;
+ 28. 5d7e7680-4869.jpgnumber
+{'obj': 'number', 'xmin': 1062, 'xmax': 1202, 'ymin': 3, 'ymax': 54, 'confidence': 0.9016649723}
+{'obj': 'number', 'xmin': 46, 'xmax': 170, 'ymin': 364, 'ymax': 410, 'confidence': 0.9000779986}
+prod
+{'obj': 'prod', 'xmin': 875, 'xmax': 1035, 'ymin': 15, 'ymax': 92, 'confidence': 0.9497647882}
+text
+{'obj': 'text', 'xmin': 967, 'xmax': 994, 'ymin': 365, 'ymax': 401, 'confidence': 0.743180573}
+year
+{'obj': 'year', 'xmin': 905, 'xmax': 960, 'ymin': 361, 'ymax': 404, 'confidence': 0.9305493236}
+
+number
+{'obj': 'number', 'xmin': 48, 'xmax': 170, 'ymin': 367, 'ymax': 407, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1064, 'xmax': 1201, 'ymin': 5, 'ymax': 53, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 877, 'xmax': 1034, 'ymin': 18, 'ymax': 89, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 969, 'xmax': 994, 'ymin': 364, 'ymax': 399, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 905, 'xmax': 959, 'ymin': 361, 'ymax': 403, 'confidence': 0.0}
+
+number : exists, IoU : 94.69999999999999%;
+ prod : exists, IoU : 92.30000000000001%;
+ year : exists, IoU : 100.0%;
+ 29. 5f1cb490-4887.jpgnumber
+{'obj': 'number', 'xmin': 827, 'xmax': 977, 'ymin': 27, 'ymax': 92, 'confidence': 0.9263986349}
+{'obj': 'number', 'xmin': 10, 'xmax': 98, 'ymin': 240, 'ymax': 288, 'confidence': 0.8751376867}
+prod
+{'obj': 'prod', 'xmin': 645, 'xmax': 812, 'ymin': 22, 'ymax': 112, 'confidence': 0.9446538687}
+text
+year
+{'obj': 'year', 'xmin': 669, 'xmax': 731, 'ymin': 365, 'ymax': 423, 'confidence': 0.8242110014}
+
+number
+{'obj': 'number', 'xmin': 14, 'xmax': 96, 'ymin': 243, 'ymax': 290, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 831, 'xmax': 974, 'ymin': 34, 'ymax': 95, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 652, 'xmax': 804, 'ymin': 28, 'ymax': 106, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 733, 'xmax': 763, 'ymin': 387, 'ymax': 422, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 675, 'xmax': 728, 'ymin': 372, 'ymax': 423, 'confidence': 0.0}
+
+number : exists, IoU : 86.9%;
+ prod : exists, IoU : 80.4%;
+ year : exists, IoU : 76.6%;
+ 30. 5f4f129e-4905.jpgnumber
+{'obj': 'number', 'xmin': 1031, 'xmax': 1174, 'ymin': 2, 'ymax': 53, 'confidence': 0.9194207191}
+{'obj': 'number', 'xmin': 43, 'xmax': 174, 'ymin': 369, 'ymax': 424, 'confidence': 0.8515229225}
+prod
+{'obj': 'prod', 'xmin': 856, 'xmax': 1009, 'ymin': 16, 'ymax': 95, 'confidence': 0.9582998753}
+text
+{'obj': 'text', 'xmin': 956, 'xmax': 985, 'ymin': 368, 'ymax': 407, 'confidence': 0.6874091625}
+year
+{'obj': 'year', 'xmin': 892, 'xmax': 948, 'ymin': 368, 'ymax': 412, 'confidence': 0.9016283154}
+
+number
+{'obj': 'number', 'xmin': 50, 'xmax': 169, 'ymin': 374, 'ymax': 421, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1034, 'xmax': 1172, 'ymin': 1, 'ymax': 50, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 853, 'xmax': 1010, 'ymin': 18, 'ymax': 91, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 954, 'xmax': 982, 'ymin': 370, 'ymax': 406, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 889, 'xmax': 949, 'ymin': 370, 'ymax': 410, 'confidence': 0.0}
+
+number : exists, IoU : 91.60000000000001%;
+ prod : exists, IoU : 92.0%;
+ year : exists, IoU : 88.8%;
+ 31. 6131ebbf-4897.jpgnumber
+{'obj': 'number', 'xmin': 31, 'xmax': 163, 'ymin': 348, 'ymax': 395, 'confidence': 0.9019037485}
+{'obj': 'number', 'xmin': 1054, 'xmax': 1191, 'ymin': 0, 'ymax': 54, 'confidence': 0.856082201}
+prod
+{'obj': 'prod', 'xmin': 880, 'xmax': 1034, 'ymin': 10, 'ymax': 84, 'confidence': 0.9492151737}
+text
+{'obj': 'text', 'xmin': 968, 'xmax': 996, 'ymin': 363, 'ymax': 401, 'confidence': 0.6027031541}
+year
+{'obj': 'year', 'xmin': 904, 'xmax': 959, 'ymin': 358, 'ymax': 403, 'confidence': 0.9138974547}
+
+number
+{'obj': 'number', 'xmin': 32, 'xmax': 161, 'ymin': 354, 'ymax': 393, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1059, 'xmax': 1188, 'ymin': 0, 'ymax': 55, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 879, 'xmax': 1032, 'ymin': 11, 'ymax': 85, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 964, 'xmax': 995, 'ymin': 365, 'ymax': 401, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 907, 'xmax': 960, 'ymin': 362, 'ymax': 402, 'confidence': 0.0}
+
+number : exists, IoU : 94.89999999999999%;
+ prod : exists, IoU : 97.39999999999999%;
+ year : exists, IoU : 86.2%;
+ 32. 62965253-4818.jpgnumber
+{'obj': 'number', 'xmin': 1039, 'xmax': 1178, 'ymin': 1, 'ymax': 55, 'confidence': 0.9245216846}
+{'obj': 'number', 'xmin': 69, 'xmax': 195, 'ymin': 311, 'ymax': 357, 'confidence': 0.8818385601}
+prod
+{'obj': 'prod', 'xmin': 859, 'xmax': 1016, 'ymin': 7, 'ymax': 80, 'confidence': 0.9434132576}
+text
+{'obj': 'text', 'xmin': 932, 'xmax': 958, 'ymin': 335, 'ymax': 371, 'confidence': 0.7485456467}
+year
+{'obj': 'year', 'xmin': 869, 'xmax': 923, 'ymin': 330, 'ymax': 372, 'confidence': 0.9267375469}
+
+number
+{'obj': 'number', 'xmin': 1037, 'xmax': 1173, 'ymin': 3, 'ymax': 54, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 76, 'xmax': 192, 'ymin': 313, 'ymax': 354, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 863, 'xmax': 1015, 'ymin': 7, 'ymax': 80, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 932, 'xmax': 957, 'ymin': 335, 'ymax': 368, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 868, 'xmax': 924, 'ymin': 329, 'ymax': 371, 'confidence': 0.0}
+
+number : exists, IoU : 92.2%;
+ prod : exists, IoU : 97.5%;
+ year : exists, IoU : 95.89999999999999%;
+ 33. 6374e791-4865.jpgnumber
+{'obj': 'number', 'xmin': 1050, 'xmax': 1186, 'ymin': 0, 'ymax': 50, 'confidence': 0.9008019567}
+{'obj': 'number', 'xmin': 44, 'xmax': 186, 'ymin': 375, 'ymax': 430, 'confidence': 0.8596317768}
+prod
+{'obj': 'prod', 'xmin': 879, 'xmax': 1032, 'ymin': 8, 'ymax': 87, 'confidence': 0.948995173}
+text
+{'obj': 'text', 'xmin': 971, 'xmax': 998, 'ymin': 362, 'ymax': 399, 'confidence': 0.564525187}
+year
+{'obj': 'year', 'xmin': 912, 'xmax': 966, 'ymin': 359, 'ymax': 403, 'confidence': 0.9071077704}
+
+number
+{'obj': 'number', 'xmin': 51, 'xmax': 180, 'ymin': 382, 'ymax': 424, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1049, 'xmax': 1181, 'ymin': 2, 'ymax': 50, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 883, 'xmax': 1027, 'ymin': 13, 'ymax': 84, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 970, 'xmax': 995, 'ymin': 362, 'ymax': 397, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 916, 'xmax': 968, 'ymin': 362, 'ymax': 400, 'confidence': 0.0}
+
+number : exists, IoU : 92.5%;
+ prod : exists, IoU : 86.4%;
+ year : exists, IoU : 80.9%;
+ 34. 65b350d5-4881.jpgnumber
+{'obj': 'number', 'xmin': 16, 'xmax': 111, 'ymin': 295, 'ymax': 335, 'confidence': 0.924624145}
+{'obj': 'number', 'xmin': 620, 'xmax': 683, 'ymin': 1, 'ymax': 26, 'confidence': 0.9154222012}
+prod
+{'obj': 'prod', 'xmin': 532, 'xmax': 610, 'ymin': 9, 'ymax': 54, 'confidence': 0.954549253}
+text
+{'obj': 'text', 'xmin': 595, 'xmax': 611, 'ymin': 222, 'ymax': 248, 'confidence': 0.7165232301}
+year
+{'obj': 'year', 'xmin': 563, 'xmax': 594, 'ymin': 222, 'ymax': 253, 'confidence': 0.895599246}
+
+number
+{'obj': 'number', 'xmin': 15, 'xmax': 109, 'ymin': 294, 'ymax': 337, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 620, 'xmax': 683, 'ymin': 1, 'ymax': 29, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 532, 'xmax': 610, 'ymin': 10, 'ymax': 54, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 596, 'xmax': 612, 'ymin': 223, 'ymax': 245, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 563, 'xmax': 594, 'ymin': 225, 'ymax': 253, 'confidence': 0.0}
+
+number : exists, IoU : 93.4%;
+ prod : exists, IoU : 97.8%;
+ year : exists, IoU : 90.3%;
+ 35. 6babd547-4884.jpgnumber
+{'obj': 'number', 'xmin': 930, 'xmax': 1048, 'ymin': 4, 'ymax': 53, 'confidence': 0.8871328831}
+prod
+{'obj': 'prod', 'xmin': 776, 'xmax': 923, 'ymin': 2, 'ymax': 81, 'confidence': 0.9517662525}
+text
+{'obj': 'text', 'xmin': 205, 'xmax': 264, 'ymin': 16, 'ymax': 62, 'confidence': 0.8605318666}
+{'obj': 'text', 'xmin': 650, 'xmax': 767, 'ymin': 17, 'ymax': 57, 'confidence': 0.8393277526}
+{'obj': 'text', 'xmin': 60, 'xmax': 147, 'ymin': 55, 'ymax': 116, 'confidence': 0.8252489567}
+{'obj': 'text', 'xmin': 63, 'xmax': 101, 'ymin': 362, 'ymax': 402, 'confidence': 0.7470217347}
+year
+{'obj': 'year', 'xmin': 870, 'xmax': 920, 'ymin': 328, 'ymax': 380, 'confidence': 0.6298756003}
+
+number
+{'obj': 'number', 'xmin': 932, 'xmax': 1046, 'ymin': 8, 'ymax': 48, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 780, 'xmax': 922, 'ymin': 11, 'ymax': 77, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 653, 'xmax': 764, 'ymin': 17, 'ymax': 56, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 66, 'xmax': 98, 'ymin': 363, 'ymax': 406, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 61, 'xmax': 143, 'ymin': 53, 'ymax': 123, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 207, 'xmax': 258, 'ymin': 17, 'ymax': 68, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 871, 'xmax': 910, 'ymin': 334, 'ymax': 374, 'confidence': 0.0}
+
+number : exists, IoU : 81.5%;
+ prod : exists, IoU : 82.5%;
+ year : exists, IoU : 63.1%;
+ 36. 6cfb97db-4901.jpgnumber
+{'obj': 'number', 'xmin': 1027, 'xmax': 1173, 'ymin': 0, 'ymax': 52, 'confidence': 0.9290328622}
+{'obj': 'number', 'xmin': 63, 'xmax': 184, 'ymin': 323, 'ymax': 375, 'confidence': 0.8639323711}
+prod
+{'obj': 'prod', 'xmin': 841, 'xmax': 1004, 'ymin': 5, 'ymax': 81, 'confidence': 0.9545249939}
+text
+{'obj': 'text', 'xmin': 938, 'xmax': 965, 'ymin': 348, 'ymax': 385, 'confidence': 0.7403985262}
+year
+{'obj': 'year', 'xmin': 872, 'xmax': 930, 'ymin': 346, 'ymax': 389, 'confidence': 0.9382652044}
+
+number
+{'obj': 'number', 'xmin': 66, 'xmax': 182, 'ymin': 331, 'ymax': 373, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1030, 'xmax': 1174, 'ymin': 2, 'ymax': 54, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 845, 'xmax': 1006, 'ymin': 6, 'ymax': 83, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 936, 'xmax': 966, 'ymin': 352, 'ymax': 388, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 871, 'xmax': 927, 'ymin': 348, 'ymax': 389, 'confidence': 0.0}
+
+number : exists, IoU : 92.60000000000001%;
+ prod : exists, IoU : 94.5%;
+ year : exists, IoU : 90.60000000000001%;
+ 37. 6d7c2b20-4888.jpgnumber
+{'obj': 'number', 'xmin': 582, 'xmax': 657, 'ymin': 1, 'ymax': 31, 'confidence': 0.9262208343}
+{'obj': 'number', 'xmin': 16, 'xmax': 88, 'ymin': 191, 'ymax': 220, 'confidence': 0.8791688085}
+prod
+{'obj': 'prod', 'xmin': 481, 'xmax': 569, 'ymin': 5, 'ymax': 47, 'confidence': 0.9583398104}
+text
+{'obj': 'text', 'xmin': 541, 'xmax': 558, 'ymin': 217, 'ymax': 239, 'confidence': 0.8705587983}
+year
+{'obj': 'year', 'xmin': 506, 'xmax': 537, 'ymin': 214, 'ymax': 240, 'confidence': 0.8204113841}
+
+number
+{'obj': 'number', 'xmin': 16, 'xmax': 86, 'ymin': 194, 'ymax': 219, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 583, 'xmax': 659, 'ymin': 4, 'ymax': 33, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 483, 'xmax': 569, 'ymin': 7, 'ymax': 50, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 541, 'xmax': 558, 'ymin': 216, 'ymax': 239, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 507, 'xmax': 536, 'ymin': 216, 'ymax': 242, 'confidence': 0.0}
+
+number : exists, IoU : 88.4%;
+ prod : exists, IoU : 89.1%;
+ year : exists, IoU : 86.5%;
+ 38. 6dcefeb2-4856.jpgnumber
+{'obj': 'number', 'xmin': 0, 'xmax': 132, 'ymin': 384, 'ymax': 433, 'confidence': 0.9234791994}
+{'obj': 'number', 'xmin': 1094, 'xmax': 1248, 'ymin': 3, 'ymax': 59, 'confidence': 0.9178465605}
+prod
+{'obj': 'prod', 'xmin': 899, 'xmax': 1070, 'ymin': 13, 'ymax': 95, 'confidence': 0.9563426375}
+text
+{'obj': 'text', 'xmin': 1001, 'xmax': 1033, 'ymin': 414, 'ymax': 455, 'confidence': 0.7157999873}
+year
+{'obj': 'year', 'xmin': 931, 'xmax': 993, 'ymin': 411, 'ymax': 460, 'confidence': 0.9084147811}
+
+number
+{'obj': 'number', 'xmin': 0, 'xmax': 135, 'ymin': 383, 'ymax': 431, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1094, 'xmax': 1246, 'ymin': 5, 'ymax': 57, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 898, 'xmax': 1074, 'ymin': 12, 'ymax': 96, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 1001, 'xmax': 1029, 'ymin': 412, 'ymax': 455, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 934, 'xmax': 991, 'ymin': 412, 'ymax': 458, 'confidence': 0.0}
+
+number : exists, IoU : 94.6%;
+ prod : exists, IoU : 96.6%;
+ year : exists, IoU : 89.7%;
+ 39. 6fdd8d3a-4891.jpgnumber
+{'obj': 'number', 'xmin': 990, 'xmax': 1112, 'ymin': 4, 'ymax': 48, 'confidence': 0.9248235226}
+{'obj': 'number', 'xmin': 38, 'xmax': 169, 'ymin': 359, 'ymax': 403, 'confidence': 0.8881362081}
+prod
+{'obj': 'prod', 'xmin': 833, 'xmax': 970, 'ymin': 12, 'ymax': 79, 'confidence': 0.962680459}
+text
+{'obj': 'text', 'xmin': 918, 'xmax': 944, 'ymin': 341, 'ymax': 375, 'confidence': 0.8008614779}
+year
+{'obj': 'year', 'xmin': 856, 'xmax': 911, 'ymin': 339, 'ymax': 379, 'confidence': 0.9219309092}
+
+number
+{'obj': 'number', 'xmin': 39, 'xmax': 167, 'ymin': 358, 'ymax': 406, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 989, 'xmax': 1115, 'ymin': 2, 'ymax': 48, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 833, 'xmax': 971, 'ymin': 9, 'ymax': 76, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 919, 'xmax': 944, 'ymin': 339, 'ymax': 375, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 858, 'xmax': 913, 'ymin': 340, 'ymax': 380, 'confidence': 0.0}
+
+number : exists, IoU : 93.4%;
+ prod : exists, IoU : 92.9%;
+ year : exists, IoU : 92.5%;
+ 40. 73cf3c64-4871.jpgnumber
+{'obj': 'number', 'xmin': 1048, 'xmax': 1190, 'ymin': 0, 'ymax': 51, 'confidence': 0.8977044821}
+{'obj': 'number', 'xmin': 43, 'xmax': 178, 'ymin': 331, 'ymax': 379, 'confidence': 0.8198873997}
+prod
+{'obj': 'prod', 'xmin': 866, 'xmax': 1023, 'ymin': 6, 'ymax': 82, 'confidence': 0.939958632}
+text
+{'obj': 'text', 'xmin': 947, 'xmax': 974, 'ymin': 346, 'ymax': 382, 'confidence': 0.4343876541}
+year
+{'obj': 'year', 'xmin': 888, 'xmax': 944, 'ymin': 344, 'ymax': 387, 'confidence': 0.9052352905}
+
+number
+{'obj': 'number', 'xmin': 47, 'xmax': 173, 'ymin': 339, 'ymax': 379, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1047, 'xmax': 1187, 'ymin': 0, 'ymax': 50, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 870, 'xmax': 1022, 'ymin': 11, 'ymax': 81, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 951, 'xmax': 974, 'ymin': 354, 'ymax': 386, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 888, 'xmax': 942, 'ymin': 350, 'ymax': 388, 'confidence': 0.0}
+
+number : exists, IoU : 97.89999999999999%;
+ prod : exists, IoU : 91.0%;
+ year : exists, IoU : 84.8%;
+ 41. 74f7432a-4898.jpgnumber
+{'obj': 'number', 'xmin': 57, 'xmax': 181, 'ymin': 374, 'ymax': 416, 'confidence': 0.9068808556}
+{'obj': 'number', 'xmin': 1055, 'xmax': 1198, 'ymin': 0, 'ymax': 58, 'confidence': 0.8238677979}
+prod
+{'obj': 'prod', 'xmin': 864, 'xmax': 1036, 'ymin': 11, 'ymax': 99, 'confidence': 0.9353066683}
+text
+year
+{'obj': 'year', 'xmin': 891, 'xmax': 952, 'ymin': 350, 'ymax': 403, 'confidence': 0.8091517091}
+
+number
+{'obj': 'number', 'xmin': 56, 'xmax': 178, 'ymin': 377, 'ymax': 417, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1052, 'xmax': 1196, 'ymin': 3, 'ymax': 56, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 870, 'xmax': 1038, 'ymin': 18, 'ymax': 92, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 956, 'xmax': 980, 'ymin': 361, 'ymax': 393, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 894, 'xmax': 950, 'ymin': 364, 'ymax': 400, 'confidence': 0.0}
+
+number : exists, IoU : 90.8%;
+ prod : exists, IoU : 81.89999999999999%;
+ year : exists, IoU : 65.2%;
+ 42. 75a8da74-4867.jpgnumber
+{'obj': 'number', 'xmin': 1019, 'xmax': 1156, 'ymin': 0, 'ymax': 47, 'confidence': 0.8952090144}
+{'obj': 'number', 'xmin': 40, 'xmax': 163, 'ymin': 334, 'ymax': 379, 'confidence': 0.8893168569}
+prod
+{'obj': 'prod', 'xmin': 843, 'xmax': 993, 'ymin': 9, 'ymax': 81, 'confidence': 0.9599314928}
+text
+{'obj': 'text', 'xmin': 927, 'xmax': 955, 'ymin': 353, 'ymax': 388, 'confidence': 0.7537914515}
+year
+{'obj': 'year', 'xmin': 867, 'xmax': 920, 'ymin': 348, 'ymax': 391, 'confidence': 0.9349628091}
+
+number
+{'obj': 'number', 'xmin': 42, 'xmax': 160, 'ymin': 337, 'ymax': 376, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1019, 'xmax': 1153, 'ymin': 0, 'ymax': 49, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 844, 'xmax': 993, 'ymin': 10, 'ymax': 79, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 929, 'xmax': 957, 'ymin': 352, 'ymax': 389, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 869, 'xmax': 922, 'ymin': 348, 'ymax': 389, 'confidence': 0.0}
+
+number : exists, IoU : 96.6%;
+ prod : exists, IoU : 96.6%;
+ year : exists, IoU : 92.4%;
+ 43. 75b714de-4916.jpgnumber
+{'obj': 'number', 'xmin': 1029, 'xmax': 1178, 'ymin': 2, 'ymax': 54, 'confidence': 0.9165606499}
+{'obj': 'number', 'xmin': 60, 'xmax': 183, 'ymin': 323, 'ymax': 372, 'confidence': 0.8718677163}
+prod
+{'obj': 'prod', 'xmin': 851, 'xmax': 1008, 'ymin': 13, 'ymax': 88, 'confidence': 0.9330365658}
+text
+{'obj': 'text', 'xmin': 929, 'xmax': 956, 'ymin': 343, 'ymax': 377, 'confidence': 0.6806453466}
+year
+{'obj': 'year', 'xmin': 866, 'xmax': 921, 'ymin': 336, 'ymax': 379, 'confidence': 0.9024887681}
+
+number
+{'obj': 'number', 'xmin': 57, 'xmax': 179, 'ymin': 328, 'ymax': 368, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1033, 'xmax': 1173, 'ymin': 0, 'ymax': 50, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 854, 'xmax': 1007, 'ymin': 10, 'ymax': 86, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 929, 'xmax': 955, 'ymin': 342, 'ymax': 377, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 866, 'xmax': 925, 'ymin': 338, 'ymax': 379, 'confidence': 0.0}
+
+number : exists, IoU : 86.0%;
+ prod : exists, IoU : 93.10000000000001%;
+ year : exists, IoU : 90.7%;
+ 44. 764a104b-4908.jpgnumber
+{'obj': 'number', 'xmin': 33, 'xmax': 163, 'ymin': 353, 'ymax': 396, 'confidence': 0.9047262073}
+{'obj': 'number', 'xmin': 1035, 'xmax': 1177, 'ymin': 0, 'ymax': 56, 'confidence': 0.7416906357}
+prod
+{'obj': 'prod', 'xmin': 859, 'xmax': 1016, 'ymin': 14, 'ymax': 89, 'confidence': 0.9442731738}
+text
+{'obj': 'text', 'xmin': 935, 'xmax': 963, 'ymin': 348, 'ymax': 384, 'confidence': 0.3719262779}
+year
+{'obj': 'year', 'xmin': 877, 'xmax': 931, 'ymin': 343, 'ymax': 387, 'confidence': 0.9024881124}
+
+number
+{'obj': 'number', 'xmin': 32, 'xmax': 164, 'ymin': 354, 'ymax': 394, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1037, 'xmax': 1170, 'ymin': 2, 'ymax': 54, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 862, 'xmax': 1016, 'ymin': 15, 'ymax': 85, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 933, 'xmax': 963, 'ymin': 348, 'ymax': 380, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 880, 'xmax': 931, 'ymin': 344, 'ymax': 387, 'confidence': 0.0}
+
+number : exists, IoU : 94.69999999999999%;
+ prod : exists, IoU : 92.9%;
+ year : exists, IoU : 92.30000000000001%;
+ 45. 784715bf-4918.jpgnumber
+{'obj': 'number', 'xmin': 1080, 'xmax': 1230, 'ymin': 2, 'ymax': 57, 'confidence': 0.9252216816}
+{'obj': 'number', 'xmin': 45, 'xmax': 179, 'ymin': 349, 'ymax': 397, 'confidence': 0.8668259978}
+prod
+{'obj': 'prod', 'xmin': 892, 'xmax': 1057, 'ymin': 13, 'ymax': 92, 'confidence': 0.9470844865}
+text
+{'obj': 'text', 'xmin': 974, 'xmax': 1001, 'ymin': 360, 'ymax': 395, 'confidence': 0.6867754459}
+year
+{'obj': 'year', 'xmin': 910, 'xmax': 968, 'ymin': 356, 'ymax': 400, 'confidence': 0.9199929237}
+
+number
+{'obj': 'number', 'xmin': 51, 'xmax': 180, 'ymin': 356, 'ymax': 395, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1084, 'xmax': 1225, 'ymin': 2, 'ymax': 54, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 896, 'xmax': 1061, 'ymin': 17, 'ymax': 89, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 971, 'xmax': 998, 'ymin': 361, 'ymax': 398, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 908, 'xmax': 967, 'ymin': 363, 'ymax': 400, 'confidence': 0.0}
+
+number : exists, IoU : 91.2%;
+ prod : exists, IoU : 88.7%;
+ year : exists, IoU : 81.69999999999999%;
+ 46. 7b065d83-4911.jpgnumber
+{'obj': 'number', 'xmin': 1078, 'xmax': 1226, 'ymin': 2, 'ymax': 55, 'confidence': 0.9256815314}
+{'obj': 'number', 'xmin': 51, 'xmax': 178, 'ymin': 401, 'ymax': 446, 'confidence': 0.7413534522}
+prod
+{'obj': 'prod', 'xmin': 884, 'xmax': 1051, 'ymin': 17, 'ymax': 98, 'confidence': 0.951914072}
+text
+{'obj': 'text', 'xmin': 994, 'xmax': 1024, 'ymin': 391, 'ymax': 428, 'confidence': 0.7918657064}
+{'obj': 'text', 'xmin': 929, 'xmax': 1025, 'ymin': 391, 'ymax': 434, 'confidence': 0.2621330917}
+year
+{'obj': 'year', 'xmin': 928, 'xmax': 986, 'ymin': 390, 'ymax': 433, 'confidence': 0.9024446011}
+
+number
+{'obj': 'number', 'xmin': 48, 'xmax': 176, 'ymin': 401, 'ymax': 449, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1079, 'xmax': 1224, 'ymin': 2, 'ymax': 57, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 884, 'xmax': 1054, 'ymin': 19, 'ymax': 99, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 992, 'xmax': 1024, 'ymin': 390, 'ymax': 428, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 929, 'xmax': 989, 'ymin': 392, 'ymax': 434, 'confidence': 0.0}
+
+number : exists, IoU : 96.89999999999999%;
+ prod : exists, IoU : 96.39999999999999%;
+ year : exists, IoU : 90.9%;
+ 47. 7bf1b513-4853.jpgnumber
+{'obj': 'number', 'xmin': 1024, 'xmax': 1140, 'ymin': 25, 'ymax': 79, 'confidence': 0.8886214495}
+prod
+{'obj': 'prod', 'xmin': 858, 'xmax': 1019, 'ymin': 13, 'ymax': 102, 'confidence': 0.9465017319}
+text
+{'obj': 'text', 'xmin': 225, 'xmax': 290, 'ymin': 0, 'ymax': 58, 'confidence': 0.8128894567}
+{'obj': 'text', 'xmin': 703, 'xmax': 846, 'ymin': 22, 'ymax': 73, 'confidence': 0.7886328697}
+{'obj': 'text', 'xmin': 10, 'xmax': 48, 'ymin': 399, 'ymax': 447, 'confidence': 0.7686271667}
+{'obj': 'text', 'xmin': 52, 'xmax': 155, 'ymin': 28, 'ymax': 97, 'confidence': 0.731090486}
+year
+{'obj': 'year', 'xmin': 948, 'xmax': 1015, 'ymin': 385, 'ymax': 448, 'confidence': 0.653023541}
+
+number
+{'obj': 'number', 'xmin': 1022, 'xmax': 1137, 'ymin': 34, 'ymax': 74, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 862, 'xmax': 1008, 'ymin': 27, 'ymax': 95, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 705, 'xmax': 843, 'ymin': 27, 'ymax': 62, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 8, 'xmax': 40, 'ymin': 401, 'ymax': 447, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 54, 'xmax': 157, 'ymin': 30, 'ymax': 102, 'confidence': 0.0}
+{'obj': 'text', 'xmin': 226, 'xmax': 282, 'ymin': 0, 'ymax': 48, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 954, 'xmax': 1009, 'ymin': 397, 'ymax': 440, 'confidence': 0.0}
+
+number : exists, IoU : 73.7%;
+ prod : exists, IoU : 70.8%;
+ year : exists, IoU : 58.4%;
+ 48. 82149238-4886.jpgnumber
+{'obj': 'number', 'xmin': 55, 'xmax': 139, 'ymin': 256, 'ymax': 285, 'confidence': 0.9093488455}
+{'obj': 'number', 'xmin': 703, 'xmax': 798, 'ymin': 1, 'ymax': 42, 'confidence': 0.8425754309}
+prod
+{'obj': 'prod', 'xmin': 582, 'xmax': 693, 'ymin': 10, 'ymax': 69, 'confidence': 0.9442911148}
+text
+year
+{'obj': 'year', 'xmin': 597, 'xmax': 637, 'ymin': 234, 'ymax': 269, 'confidence': 0.8841724396}
+
+number
+{'obj': 'number', 'xmin': 59, 'xmax': 139, 'ymin': 256, 'ymax': 285, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 703, 'xmax': 797, 'ymin': 5, 'ymax': 40, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 586, 'xmax': 691, 'ymin': 12, 'ymax': 65, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 640, 'xmax': 661, 'ymin': 241, 'ymax': 265, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 601, 'xmax': 636, 'ymin': 239, 'ymax': 268, 'confidence': 0.0}
+
+number : exists, IoU : 95.19999999999999%;
+ prod : exists, IoU : 87.4%;
+ year : exists, IoU : 77.10000000000001%;
+ 49. 826c09d1-4858.jpgnumber
+{'obj': 'number', 'xmin': 845, 'xmax': 958, 'ymin': 1, 'ymax': 49, 'confidence': 0.9005703926}
+{'obj': 'number', 'xmin': 53, 'xmax': 156, 'ymin': 253, 'ymax': 293, 'confidence': 0.8628798723}
+prod
+{'obj': 'prod', 'xmin': 691, 'xmax': 830, 'ymin': 2, 'ymax': 73, 'confidence': 0.9404952526}
+text
+{'obj': 'text', 'xmin': 752, 'xmax': 774, 'ymin': 270, 'ymax': 297, 'confidence': 0.4042774737}
+year
+{'obj': 'year', 'xmin': 704, 'xmax': 747, 'ymin': 267, 'ymax': 300, 'confidence': 0.8999278545}
+
+number
+{'obj': 'number', 'xmin': 55, 'xmax': 152, 'ymin': 261, 'ymax': 289, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 844, 'xmax': 954, 'ymin': 6, 'ymax': 50, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 699, 'xmax': 825, 'ymin': 5, 'ymax': 69, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 751, 'xmax': 775, 'ymin': 274, 'ymax': 302, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 702, 'xmax': 746, 'ymin': 271, 'ymax': 304, 'confidence': 0.0}
+
+number : exists, IoU : 86.7%;
+ prod : exists, IoU : 83.6%;
+ year : exists, IoU : 77.9%;
+ 50. 868fe062-4880.jpgnumber
+{'obj': 'number', 'xmin': 562, 'xmax': 630, 'ymin': 1, 'ymax': 34, 'confidence': 0.8987249732}
+{'obj': 'number', 'xmin': 28, 'xmax': 103, 'ymin': 249, 'ymax': 281, 'confidence': 0.8965195417}
+prod
+{'obj': 'prod', 'xmin': 471, 'xmax': 556, 'ymin': 9, 'ymax': 59, 'confidence': 0.9577382207}
+text
+{'obj': 'text', 'xmin': 548, 'xmax': 564, 'ymin': 208, 'ymax': 233, 'confidence': 0.453725934}
+year
+{'obj': 'year', 'xmin': 512, 'xmax': 546, 'ymin': 205, 'ymax': 238, 'confidence': 0.8592161536}
+
+number
+{'obj': 'number', 'xmin': 31, 'xmax': 101, 'ymin': 251, 'ymax': 283, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 561, 'xmax': 627, 'ymin': 4, 'ymax': 34, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 475, 'xmax': 551, 'ymin': 13, 'ymax': 55, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 548, 'xmax': 564, 'ymin': 211, 'ymax': 233, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 514, 'xmax': 544, 'ymin': 210, 'ymax': 236, 'confidence': 0.0}
+
+number : exists, IoU : 87.1%;
+ prod : exists, IoU : 77.9%;
+ year : exists, IoU : 74.6%;
+ 51. 86e155e9-4825.jpgnumber
+{'obj': 'number', 'xmin': 14, 'xmax': 172, 'ymin': 442, 'ymax': 500, 'confidence': 0.8856921196}
+{'obj': 'number', 'xmin': 1122, 'xmax': 1257, 'ymin': 0, 'ymax': 64, 'confidence': 0.8853955865}
+prod
+{'obj': 'prod', 'xmin': 932, 'xmax': 1107, 'ymin': 7, 'ymax': 109, 'confidence': 0.9429092407}
+text
+year
+{'obj': 'year', 'xmin': 974, 'xmax': 1044, 'ymin': 387, 'ymax': 453, 'confidence': 0.8565631509}
+
+number
+{'obj': 'number', 'xmin': 18, 'xmax': 170, 'ymin': 441, 'ymax': 497, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1122, 'xmax': 1255, 'ymin': 8, 'ymax': 59, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 943, 'xmax': 1101, 'ymin': 20, 'ymax': 100, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 1047, 'xmax': 1075, 'ymin': 398, 'ymax': 438, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 982, 'xmax': 1040, 'ymin': 395, 'ymax': 441, 'confidence': 0.0}
+
+number : exists, IoU : 92.0%;
+ prod : exists, IoU : 72.2%;
+ year : exists, IoU : 60.0%;
+ 52. 86ef8e82-4877.jpgnumber
+{'obj': 'number', 'xmin': 744, 'xmax': 857, 'ymin': 3, 'ymax': 44, 'confidence': 0.9187327027}
+{'obj': 'number', 'xmin': 26, 'xmax': 114, 'ymin': 244, 'ymax': 282, 'confidence': 0.8887776732}
+prod
+{'obj': 'prod', 'xmin': 602, 'xmax': 727, 'ymin': 11, 'ymax': 69, 'confidence': 0.9614192247}
+text
+{'obj': 'text', 'xmin': 685, 'xmax': 707, 'ymin': 290, 'ymax': 320, 'confidence': 0.8286218047}
+year
+{'obj': 'year', 'xmin': 635, 'xmax': 678, 'ymin': 286, 'ymax': 322, 'confidence': 0.9111412764}
+
+number
+{'obj': 'number', 'xmin': 30, 'xmax': 114, 'ymin': 247, 'ymax': 281, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 744, 'xmax': 859, 'ymin': 1, 'ymax': 46, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 602, 'xmax': 726, 'ymin': 11, 'ymax': 69, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 684, 'xmax': 708, 'ymin': 291, 'ymax': 318, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 638, 'xmax': 680, 'ymin': 286, 'ymax': 321, 'confidence': 0.0}
+
+number : exists, IoU : 92.5%;
+ prod : exists, IoU : 100.0%;
+ year : exists, IoU : 91.10000000000001%;
+ 53. 89819f67-4921.jpgnumber
+{'obj': 'number', 'xmin': 984, 'xmax': 1111, 'ymin': 3, 'ymax': 53, 'confidence': 0.8958163857}
+{'obj': 'number', 'xmin': 43, 'xmax': 165, 'ymin': 304, 'ymax': 344, 'confidence': 0.8076863885}
+prod
+{'obj': 'prod', 'xmin': 814, 'xmax': 963, 'ymin': 7, 'ymax': 78, 'confidence': 0.9365518689}
+text
+{'obj': 'text', 'xmin': 881, 'xmax': 905, 'ymin': 312, 'ymax': 343, 'confidence': 0.5642381907}
+year
+{'obj': 'year', 'xmin': 825, 'xmax': 875, 'ymin': 310, 'ymax': 347, 'confidence': 0.9251916409}
+
+number
+{'obj': 'number', 'xmin': 44, 'xmax': 167, 'ymin': 307, 'ymax': 344, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 980, 'xmax': 1109, 'ymin': 7, 'ymax': 52, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 821, 'xmax': 964, 'ymin': 8, 'ymax': 77, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 883, 'xmax': 905, 'ymin': 316, 'ymax': 347, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 826, 'xmax': 875, 'ymin': 315, 'ymax': 348, 'confidence': 0.0}
+
+number : exists, IoU : 91.10000000000001%;
+ prod : exists, IoU : 94.0%;
+ year : exists, IoU : 85.1%;
+ 54. 8d246694-4907.jpgnumber
+{'obj': 'number', 'xmin': 1042, 'xmax': 1198, 'ymin': 0, 'ymax': 55, 'confidence': 0.9058838487}
+{'obj': 'number', 'xmin': 58, 'xmax': 176, 'ymin': 348, 'ymax': 388, 'confidence': 0.9030951262}
+prod
+{'obj': 'prod', 'xmin': 843, 'xmax': 1022, 'ymin': 11, 'ymax': 93, 'confidence': 0.9413235784}
+text
+year
+{'obj': 'year', 'xmin': 870, 'xmax': 929, 'ymin': 354, 'ymax': 399, 'confidence': 0.8893860579}
+
+number
+{'obj': 'number', 'xmin': 59, 'xmax': 176, 'ymin': 351, 'ymax': 387, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1043, 'xmax': 1197, 'ymin': 5, 'ymax': 55, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 852, 'xmax': 1019, 'ymin': 14, 'ymax': 90, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 937, 'xmax': 965, 'ymin': 363, 'ymax': 397, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 871, 'xmax': 929, 'ymin': 360, 'ymax': 399, 'confidence': 0.0}
+
+number : exists, IoU : 91.7%;
+ prod : exists, IoU : 88.1%;
+ year : exists, IoU : 85.2%;
+ 55. 8f0e4c6d-4860.jpgnumber
+{'obj': 'number', 'xmin': 46, 'xmax': 172, 'ymin': 347, 'ymax': 399, 'confidence': 0.8498256207}
+{'obj': 'number', 'xmin': 1024, 'xmax': 1178, 'ymin': 0, 'ymax': 62, 'confidence': 0.8458313346}
+prod
+{'obj': 'prod', 'xmin': 841, 'xmax': 1008, 'ymin': 6, 'ymax': 95, 'confidence': 0.922583878}
+text
+year
+{'obj': 'year', 'xmin': 875, 'xmax': 940, 'ymin': 356, 'ymax': 413, 'confidence': 0.8359179497}
+
+number
+{'obj': 'number', 'xmin': 50, 'xmax': 170, 'ymin': 352, 'ymax': 392, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1027, 'xmax': 1163, 'ymin': 5, 'ymax': 54, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 852, 'xmax': 1003, 'ymin': 13, 'ymax': 85, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 944, 'xmax': 971, 'ymin': 366, 'ymax': 405, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 883, 'xmax': 934, 'ymin': 364, 'ymax': 408, 'confidence': 0.0}
+
+number : exists, IoU : 75.7%;
+ prod : exists, IoU : 74.7%;
+ year : exists, IoU : 63.2%;
+ 56. 91ea2a4c-4894.jpgnumber
+{'obj': 'number', 'xmin': 57, 'xmax': 181, 'ymin': 364, 'ymax': 405, 'confidence': 0.9255831242}
+{'obj': 'number', 'xmin': 1080, 'xmax': 1217, 'ymin': 2, 'ymax': 53, 'confidence': 0.9156916738}
+prod
+{'obj': 'prod', 'xmin': 895, 'xmax': 1052, 'ymin': 15, 'ymax': 90, 'confidence': 0.9407369494}
+text
+{'obj': 'text', 'xmin': 965, 'xmax': 991, 'ymin': 367, 'ymax': 402, 'confidence': 0.6848830581}
+year
+{'obj': 'year', 'xmin': 903, 'xmax': 959, 'ymin': 367, 'ymax': 407, 'confidence': 0.9324587584}
+
+number
+{'obj': 'number', 'xmin': 57, 'xmax': 182, 'ymin': 364, 'ymax': 401, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1074, 'xmax': 1216, 'ymin': 2, 'ymax': 55, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 893, 'xmax': 1058, 'ymin': 17, 'ymax': 88, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 964, 'xmax': 989, 'ymin': 369, 'ymax': 400, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 904, 'xmax': 962, 'ymin': 365, 'ymax': 407, 'confidence': 0.0}
+
+number : exists, IoU : 94.0%;
+ prod : exists, IoU : 92.10000000000001%;
+ year : exists, IoU : 90.5%;
+ 57. 964c53f5-4885.jpgnumber
+{'obj': 'number', 'xmin': 715, 'xmax': 817, 'ymin': 5, 'ymax': 46, 'confidence': 0.9235340357}
+{'obj': 'number', 'xmin': 28, 'xmax': 113, 'ymin': 222, 'ymax': 256, 'confidence': 0.9079420567}
+prod
+{'obj': 'prod', 'xmin': 584, 'xmax': 697, 'ymin': 10, 'ymax': 63, 'confidence': 0.9579082727}
+text
+{'obj': 'text', 'xmin': 649, 'xmax': 670, 'ymin': 268, 'ymax': 294, 'confidence': 0.8578593135}
+year
+{'obj': 'year', 'xmin': 601, 'xmax': 644, 'ymin': 262, 'ymax': 293, 'confidence': 0.9192275405}
+
+number
+{'obj': 'number', 'xmin': 28, 'xmax': 112, 'ymin': 220, 'ymax': 255, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 715, 'xmax': 813, 'ymin': 3, 'ymax': 45, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 584, 'xmax': 696, 'ymin': 8, 'ymax': 62, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 649, 'xmax': 670, 'ymin': 271, 'ymax': 296, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 604, 'xmax': 644, 'ymin': 263, 'ymax': 294, 'confidence': 0.0}
+
+number : exists, IoU : 94.39999999999999%;
+ prod : exists, IoU : 96.39999999999999%;
+ year : exists, IoU : 90.10000000000001%;
+ 58. 9832c9b8-4837.jpgnumber
+{'obj': 'number', 'xmin': 1022, 'xmax': 1204, 'ymin': 2, 'ymax': 71, 'confidence': 0.901689291}
+{'obj': 'number', 'xmin': 30, 'xmax': 148, 'ymin': 374, 'ymax': 440, 'confidence': 0.865002811}
+prod
+{'obj': 'prod', 'xmin': 797, 'xmax': 1002, 'ymin': 15, 'ymax': 118, 'confidence': 0.9591380358}
+text
+{'obj': 'text', 'xmin': 952, 'xmax': 994, 'ymin': 454, 'ymax': 508, 'confidence': 0.3064988852}
+year
+{'obj': 'year', 'xmin': 865, 'xmax': 951, 'ymin': 437, 'ymax': 517, 'confidence': 0.7941144109}
+
+number
+{'obj': 'number', 'xmin': 35, 'xmax': 140, 'ymin': 385, 'ymax': 431, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1023, 'xmax': 1204, 'ymin': 5, 'ymax': 62, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 804, 'xmax': 993, 'ymin': 22, 'ymax': 110, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 957, 'xmax': 994, 'ymin': 458, 'ymax': 502, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 878, 'xmax': 943, 'ymin': 452, 'ymax': 502, 'confidence': 0.0}
+
+number : exists, IoU : 83.6%;
+ prod : exists, IoU : 80.10000000000001%;
+ year : exists, IoU : 48.9%;
+ 59. 9a7b27e3-4913.jpgnumber
+{'obj': 'number', 'xmin': 1061, 'xmax': 1213, 'ymin': 1, 'ymax': 56, 'confidence': 0.923361659}
+{'obj': 'number', 'xmin': 1, 'xmax': 120, 'ymin': 387, 'ymax': 432, 'confidence': 0.9108262658}
+prod
+{'obj': 'prod', 'xmin': 861, 'xmax': 1034, 'ymin': 13, 'ymax': 97, 'confidence': 0.9481745958}
+text
+{'obj': 'text', 'xmin': 963, 'xmax': 994, 'ymin': 398, 'ymax': 436, 'confidence': 0.808975935}
+year
+{'obj': 'year', 'xmin': 897, 'xmax': 956, 'ymin': 394, 'ymax': 438, 'confidence': 0.9110661745}
+
+number
+{'obj': 'number', 'xmin': 0, 'xmax': 120, 'ymin': 392, 'ymax': 434, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1062, 'xmax': 1219, 'ymin': 2, 'ymax': 55, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 862, 'xmax': 1036, 'ymin': 18, 'ymax': 98, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 963, 'xmax': 991, 'ymin': 400, 'ymax': 437, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 893, 'xmax': 956, 'ymin': 399, 'ymax': 439, 'confidence': 0.0}
+
+number : exists, IoU : 94.5%;
+ prod : exists, IoU : 93.10000000000001%;
+ year : exists, IoU : 83.8%;
+ 60. 9a9442f3-4890.jpgnumber
+{'obj': 'number', 'xmin': 1050, 'xmax': 1198, 'ymin': 1, 'ymax': 52, 'confidence': 0.921417594}
+{'obj': 'number', 'xmin': 32, 'xmax': 161, 'ymin': 422, 'ymax': 468, 'confidence': 0.8988614678}
+prod
+{'obj': 'prod', 'xmin': 861, 'xmax': 1025, 'ymin': 19, 'ymax': 100, 'confidence': 0.9394161701}
+text
+{'obj': 'text', 'xmin': 972, 'xmax': 1003, 'ymin': 394, 'ymax': 433, 'confidence': 0.7661687732}
+year
+{'obj': 'year', 'xmin': 905, 'xmax': 965, 'ymin': 392, 'ymax': 438, 'confidence': 0.9085617065}
+
+number
+{'obj': 'number', 'xmin': 33, 'xmax': 163, 'ymin': 418, 'ymax': 467, 'confidence': 0.0}
+{'obj': 'number', 'xmin': 1051, 'xmax': 1195, 'ymin': 0, 'ymax': 56, 'confidence': 0.0}
+prod
+{'obj': 'prod', 'xmin': 865, 'xmax': 1027, 'ymin': 18, 'ymax': 102, 'confidence': 0.0}
+text
+{'obj': 'text', 'xmin': 972, 'xmax': 1003, 'ymin': 392, 'ymax': 432, 'confidence': 0.0}
+year
+{'obj': 'year', 'xmin': 907, 'xmax': 966, 'ymin': 392, 'ymax': 438, 'confidence': 0.0}
+
+number : exists, IoU : 91.10000000000001%;
+ prod : exists, IoU : 94.69999999999999%;
+ year : exists, IoU : 96.7%;
+ number
+none : 1, exists : 59, few : 0, whole : 60, 
+none : 25.0, exists : 98.3, few : 0.0, whole : 100.0, 
+avg_IoU : 89.60000000000001
+avg_IoU_exists : 91.10000000000001
+70.0 count = 59, per_cent = 98.380.0 count = 55, per_cent = 91.790.0 count = 45, per_cent = 75.0
+
+prod
+none : 0, exists : 59, few : 1, whole : 60, 
+none : 0.0, exists : 98.3, few : 25.0, whole : 100.0, 
+avg_IoU : 87.2
+avg_IoU_exists : 88.7
+70.0 count = 56, per_cent = 93.3000000000000180.0 count = 51, per_cent = 85.090.0 count = 33, per_cent = 55.00000000000001
+
+year
+none : 0, exists : 58, few : 2, whole : 60, 
+none : 0.0, exists : 96.7, few : 33.300000000000004, whole : 100.0, 
+avg_IoU : 78.2
+avg_IoU_exists : 80.9
+70.0 count = 47, per_cent = 78.380.0 count = 38, per_cent = 63.390.0 count = 17, per_cent = 28.299999999999997
+

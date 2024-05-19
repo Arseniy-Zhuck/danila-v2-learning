@@ -1,0 +1,52 @@
+model_initial - 06_05_1000_764_n_1500, trained_dataset - dataset_500_r - взяли только картинки русхиммаша, 
+ model - 10_05_16_1000_764_n_1500_b_500_r, test_dataset - 50 image 
+_ - 1
+06 - 06
+72 - 72
+8 - 9
+37 - 37
+5 - 6
+6 - 6
+34 - 34
+36 - 36
+8 - 8
+97 - 97
+_ - 6
+20 - 20
+35 - 35
+3 - 8
+35 - 35
+99 - 99
+21 - 21
+9 - 6
+97 - 97
+766 - 792
+9 - 9
+_ - 36
+3331 - 31
+21 - 21
+9 - 9
+_ - 6
+56 - 56
+57 - 57
+7 - 7
+87 - 81
+9 - 9
+2 - 2
+07 - 07
+9 - 9
+36 - 36
+4 - 1
+2 - 2
+592 - 92
+73 - 73
+33 - 38
+35 - 35
+45 - 43
+0 - 0
+_ - 1
+4 - 4
+75 - 70
+36 - 36
+{<Word_compare_result.equal: 3>: 31, <Word_compare_result.partial: 2>: 6, <Word_compare_result.none: 0>: 5, <Word_compare_result.wrong: 1>: 6}
+{<Word_compare_result.equal: 3>: 64.60000000000001, <Word_compare_result.partial: 2>: 12.5, <Word_compare_result.none: 0>: 10.4, <Word_compare_result.wrong: 1>: 12.5}
