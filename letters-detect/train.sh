@@ -15,3 +15,5 @@ python train.py --img 32 --batch 4 --epochs 40 --data 'C:\Users\a_zhuck\Document
 python train.py --img 32 --batch 4 --epochs 40 --data 'C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\dataset_1500_b_1500_r.yaml' --weights 'C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\models\letters-detect\11_05_16_1000_764_n_1500_b_764_n_b_500_r\exp21\weights\last.pt' --nosave --cache
 # ruzhimmash - 500 764_n_b plus train - 15
 python train.py --img 32 --batch 4 --epochs 40 --data 'C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\dataset_1500_b_1500_r.yaml' --weights 'C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\yolov5x.pt' --nosave --cache
+# ruzhimmash - 7500_b_r - 16
+python train.py --img 32 --batch 2 --epochs 50 --data 'C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\dataset_7500_b_7500_r.yaml' --weights 'C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\yolov5x.pt' --nosave --cache

@@ -9,12 +9,12 @@ import os
 from word_compare_result import Word_compare_result
 
 # model and dataset
-model_path = 'models/letters-detect/13_05_17_1000_764_n_1500_b_764_n_b_500_r_764_n_b_311_n_r/exp26/weights/last.pt'
-dir_path = 'letters-detect/words_test/ruzhimmash/'
+model_path = 'models/letters-detect/15_05_19_1500_b_1500_r/exp28/weights/best.pt'
+dir_path = 'letters-detect/words_test/begickaya/'
 label_path = dir_path + 'number.txt'
 image_dir_path = dir_path + 'number'
-test_results = 'letters-detect/words_test_results/ruzhimmash_number_exp26.txt'
-str1 = 'model - models/letters-detect/13_05_17_1000_764_n_1500_b_764_n_b_500_r_764_n_b_311_n_r/exp26/weights/last.pt\nruzhimmash_number\n'
+test_results = 'letters-detect/words_test_results/begickaya_number_exp28_64_192.txt'
+str1 = 'models/letters-detect/15_05_19_1500_b_1500_r/exp28/weights/best.pt\nbegickaya_number\n'
 
 
 # useful addresses
