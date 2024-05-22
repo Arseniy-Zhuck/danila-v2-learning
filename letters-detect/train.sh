@@ -17,3 +17,7 @@ python train.py --img 32 --batch 4 --epochs 40 --data 'C:\Users\a_zhuck\Document
 python train.py --img 32 --batch 4 --epochs 40 --data 'C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\dataset_1500_b_1500_r.yaml' --weights 'C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\yolov5x.pt' --nosave --cache
 # ruzhimmash - 7500_b_r - 16
 python train.py --img 32 --batch 2 --epochs 50 --data 'C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\dataset_7500_b_7500_r.yaml' --weights 'C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\yolov5x.pt' --nosave --cache
+# bejickaya - 1500_b - 17
+python train.py --img 32 --batch 4 --epochs 40 --data 'C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\dataset_1500_b.yaml' --weights 'C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\yolov5x.pt' --nosave --cache
+# ruzhimmash - 1500_r - 18
+python train.py --img 32 --batch 4 --epochs 40 --data 'C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\letters-detect\dataset_1500_r.yaml' --weights 'C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\yolov5x.pt' --nosave --cache
