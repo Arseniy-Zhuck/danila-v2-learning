@@ -350,14 +350,14 @@ def res_str(test_res):
     return res_number + res_prod + res_year
 
 
-prod_name = 'begickaya'
-v = 3
+prod_name = 'ruzhimmash'
+v = 4
 d_s = 'test'
-count = 1300
-model_name = '2024y_1300im_to_text'
+count = 1200
+model_name = '2024y_1200im'
 yolo_path = 'yolov5'
 model_path = 'models/rama-text-' + prod_name + '-detect/' + model_name + '.pt'
-dir_path = 'rama-' + prod_name + '-text-detect/dataset/' + d_s
+dir_path = 'rama-' + prod_name + '-text-detect/dataset_1000/' + d_s
 test_results = 'rama-' + prod_name + '-text-detect/test_results/v' + str(v) + '_' + model_name + '_' + d_s + '_' + str(count) + '.txt'
 str1 = prod_name + '_v' + str(v) + '_' + model_name + '_' + d_s + '_' + str(count) + '\n'
 
@@ -382,7 +382,7 @@ for image_name in image_dir:
     img_objs = Objs_In_Image.get_objs_in_image_from_yolo_json(res2)
     img_objs.delete_intersections()
     img_objs.make_dict()
-    label_path = label_dir_path + '/' + image_name.split('.')[0] + '.txt'
+    label_path = label_dir_path + '/' + image_name[:image_name.rfind('.')] + '.txt'
     data = []
     with open(label_path) as f:
         for line in f:
