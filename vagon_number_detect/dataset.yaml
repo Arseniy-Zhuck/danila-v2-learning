@@ -1,0 +1,13 @@
+train: C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\vagon_number_detect\dataset\train
+
+val: C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\vagon_number_detect\dataset\val
+
+test:  C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\vagon_number_detect\dataset\test
+
+
+
+# Classes
+
+nc: 1
+
+names: ['number']

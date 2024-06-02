@@ -9,9 +9,9 @@ import os
 from word_compare_result import Word_compare_result
 
 # model and dataset
-model_path = 'models/letters-detect/12_05_16_500_r/exp24/weights/best.pt'
+model_path = 'models/letters-detect/21_05_30_11000_b_11000_r/exp37/weights/last.pt'
 dir_path = 'letters-detect/ruzhimmash/dataset_500_r/test'
-test_results = 'letters-detect/test_results/exp22_dataset_500_r_test.txt'
+test_results = 'letters-detect/test_results/exp37_dataset_11000_b_11000_r_test.txt'
 str1 = 'model_initial - none, trained_dataset - dataset_500_r, model - 12_05_16_500_r, test_dataset - 50 image \n'
 
 # useful addresses

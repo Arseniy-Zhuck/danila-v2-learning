@@ -351,10 +351,10 @@ def res_str(test_res):
 
 
 prod_name = 'ruzhimmash'
-v = 4
+v = 6
 d_s = 'test'
 count = 1200
-model_name = '2024y_1200im'
+model_name = '2024y_6000im'
 yolo_path = 'yolov5'
 model_path = 'models/rama-text-' + prod_name + '-detect/' + model_name + '.pt'
 dir_path = 'rama-' + prod_name + '-text-detect/dataset_1000/' + d_s

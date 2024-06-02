@@ -9,12 +9,12 @@ import os
 from word_compare_result import Word_compare_result
 
 # model and dataset
-model_path = 'models/letters-detect/20_05_23_1500_r_500_n_r/exp34/weights/last.pt'
-dir_path = 'letters-detect/words_test/ruzhimmash/'
+model_path = 'models/letters-detect/21_05_30_11000_b_11000_r/exp37/weights/last.pt'
+dir_path = 'letters-detect/words_test/begickaya/'
 label_path = dir_path + 'number.txt'
 image_dir_path = dir_path + 'number'
-test_results = 'letters-detect/words_test_results/ruzhimmash_number_exp34_64_128.txt'
-str1 = 'models/letters-detect/20_05_23_1500_r_500_n_r/exp34/weights/last.pt\nbegickaya_number\n'
+test_results = 'letters-detect/words_test_results/begickaya_number_exp37_64_192.txt'
+str1 = 'models/letters-detect/21_05_30_11000_b_11000_r/exp37/weights/last.pt\nbegickaya_number\n'
 
 
 # useful addresses
@@ -39,7 +39,7 @@ for image_name in image_dir:
     h, w = img.shape[:2]
     size_h = int(round(h / 32.0)) * 32
     size_w = int(round(w / 32.0)) * 32
-    results = model([img_path], size = (64,128))
+    results = model([img_path], size = (64,192))
     json_res = results.pandas().xyxy[0].to_json(orient="records")
     res2 = json.loads(json_res)
     img_letters = Letters_In_Image.get_letters_in_image_from_yolo_json(res2)

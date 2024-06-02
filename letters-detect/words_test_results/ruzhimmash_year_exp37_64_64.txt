@@ -1,0 +1,20 @@
+models/letters-detect/21_05_30_11000_b_11000_r/exp37/weights/last.pt
+ruzhimmash_year
+231 - 23
+23 - 23
+23 - 23
+23 - 23
+23 - 23
+23 - 23
+23 - 23
+23 - 23
+23 - 23
+23 - 23
+23 - 23
+23 - 23
+23 - 23
+23 - 23
+23 - 23
+23 - 23
+{<Word_compare_result.equal: 3>: 15, <Word_compare_result.partial: 2>: 1, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 93.8, <Word_compare_result.partial: 2>: 6.2, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 0.0}

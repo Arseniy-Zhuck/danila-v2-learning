@@ -1,0 +1,7 @@
+02.06_2024
+models/vagon_number_detect/1_06_02/exp38/weights/best.pt
+Testing-dataset: 55 tests - 70_IOU 0.9818, 80_IOU 0.9455, 90_IOU 0.7636, av_IOU = 0.9069
+
+02.06_2024
+models/vagon_number_detect/1_06_02/exp38/weights/best.pt
+Learning-dataset: 441 tests - 70_IOU 0.9955, 80_IOU 0.9887, 90_IOU 0.9433, av_IOU = 0.9475

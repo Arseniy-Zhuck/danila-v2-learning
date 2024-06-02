@@ -1,0 +1,20 @@
+models/letters-detect/21_05_30_11000_b_11000_r/exp37/weights/last.pt
+ruzhimmash_prod
+1275 - 1275
+12751 - 1275
+1275 - 1275
+1275 - 1275
+1275 - 1275
+12775 - 1275
+12751 - 1275
+1275 - 1275
+12775 - 1275
+1275 - 1275
+1275 - 1275
+1275 - 1275
+12751 - 1275
+12751 - 1275
+12751 - 1275
+127751 - 1275
+{<Word_compare_result.equal: 3>: 8, <Word_compare_result.partial: 2>: 8, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 50.0, <Word_compare_result.partial: 2>: 50.0, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 0.0}
