@@ -20,7 +20,7 @@ from sklearn.metrics import classification_report
 data = []
 labels = []
 
-new_dir = 'detail_classify/dataset/train/rama'
+new_dir = 'detail_classify/dataset_10000/train/rama'
 files = os.listdir(new_dir)
 print(new_dir)
 n = 1
@@ -34,7 +34,7 @@ for file in files:
     n+=1
 
 
-new_dir = 'detail_classify/dataset/train/vagon'
+new_dir = 'detail_classify/dataset_10000/train/vagon'
 files = os.listdir(new_dir)
 print(new_dir)
 for file in files:
@@ -57,7 +57,8 @@ trainY = keras.utils.to_categorical(trainY, 2)
 
 from keras import models, Input
 from keras import layers
-
+print(str(n) + ' images are prepared')
+print('Building_model')
 model = models.Sequential([
     layers.Conv2D(32, (3,3), activation='relu', # (3,3) - фильтр
                         input_shape=(512,512,1)),
@@ -83,9 +84,10 @@ model = models.Sequential([
 model.compile(optimizer='adam',
               loss='categorical_crossentropy',
               metrics=['accuracy'])
+print('start_training')
 model.fit(trainX, trainY, epochs=50, batch_size=16)
 
-model.save('detail_classify/detail_classify_model.h5')
+model.save('detail_classify/detail_classify_model_10000_50_16.h5')
 model_loaded = keras.models.load_model('detail_classify/detail_classify_model.h5')
 
 test_loss, test_acc = model_loaded.evaluate(testX, testY)

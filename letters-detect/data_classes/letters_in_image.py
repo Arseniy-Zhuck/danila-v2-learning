@@ -149,7 +149,7 @@ class Letters_In_Image:
         i = 0
         while i < len(self.letters) - 1:
             IoU = self.letters[i].rect.IoU(self.letters[i+1].rect)
-            if IoU > 0.5:
+            if IoU > 0.3:
                 new_letter = self.letters[i] if self.letters[i].confidence > self.letters[i + 1].confidence else self.letters[i + 1]
                 i += 2
             else:

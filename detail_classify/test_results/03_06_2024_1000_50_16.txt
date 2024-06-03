@@ -1,0 +1,6 @@
+1. test rama 4369.jpeg
+2. test rama 4382.jpeg
+3. test rama 4384.jpeg
+4. test rama 4388.jpeg
+learning-dataset973 tests are ready - current percent 1.0
+test-dataset110 tests are ready - current percent 0.9636363636363636
