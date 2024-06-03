@@ -88,7 +88,7 @@ print('start_training')
 model.fit(trainX, trainY, epochs=50, batch_size=16)
 
 model.save('detail_classify/detail_classify_model_10000_50_16.h5')
-model_loaded = keras.models.load_model('detail_classify/detail_classify_model.h5')
+model_loaded = keras.models.load_model('detail_classify/detail_classify_model_3000_21_16.h5')
 
 test_loss, test_acc = model_loaded.evaluate(testX, testY)
 
