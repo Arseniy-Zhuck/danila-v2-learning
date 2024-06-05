@@ -3,15 +3,31 @@ import os
 from datetime import datetime
 
 import cv2
+import numpy as np
+from PIL.Image import Image
 from easyocr import easyocr
+import pytesseract
 
 
-class Vagon_number_recognize_class:
-    def __init__(self):
-        self.reader = easyocr.Reader(['ru'], gpu= False)
+class Vagon_number_recognize_class_v3:
+    # def __init__(self):
+    #     # self.reader = pytesseract.pytesseract.image_to_string(Image.open(filename))
 
     def recognize(self, file_path):
-        return self.reader.readtext(file_path, allowlist='0123456789')
+        img = cv2.imread(file_path)
+        # gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+        # blur = cv2.GaussianBlur(gray, (3,3), 0.7)
+        # ret, thresh = cv2.threshold(blur, 150, 255, cv2.THRESH_BINARY)
+        # img_erode = cv2.erode(thresh, np.ones((3, 3), np.uint8), iterations=1)
+        # counturs, hierarchy = cv2.findContours(img_erode, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
+        # cv2.drawContours(img,counturs,-1, (0,0,0), 3, cv2.LINE_AA, hierarchy, 1 )
+        # hash_object = hashlib.md5(bytes(str(datetime.now()), 'utf-8'))
+        # hash_str = hash_object.hexdigest()
+        # cut_vagon_img_prep = 'cut_vagon_img_prep' + hash_str + '.jpg'
+        # cv2.imwrite(cut_vagon_img_prep, img)
+        res = pytesseract.image_to_string(img)
+        # os.remove(cut_vagon_img_prep)
+        return res
 
     def work_image_cut(self, filepath):
         bounds = self.recognize(filepath)

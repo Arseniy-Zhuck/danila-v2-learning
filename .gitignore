@@ -64,3 +64,12 @@
 /detail_classify/dataset_10000/
 /detail_classify/detail_classify_model_1000_50_16.h5
 
+/vagon_number_recognize/crops/
+/vagon_number_recognize/cuts/
+/vagon_number_recognize/dataset_1400/
+/vagon_number_recognize/dataset_7000/
+/vagon_number_recognize/dataset_test/
+/vagon_number_recognize/project-6-at-2024-06-05-14-44-1e6ce472/
+/vagon_number_recognize/Разметка обрезков вагонов/
+/vagon_number_recognize/project-6-at-2024-06-05-14-44-1e6ce472.zip
+/vagon_number_recognize/Разметка обрезков вагонов.zip

@@ -1,6 +1,6 @@
 import os
 import shutil
-dir = 'letters-detect/ruzhimmash/dataset_11000_b_11000_r/'
+dir = 'vagon_number_recognize/dataset_7000'
 ss = ['val', 'test', 'train']
 tt = ['images','labels']
 

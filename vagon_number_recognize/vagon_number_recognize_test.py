@@ -5,17 +5,19 @@ import cv2
 import os
 
 from vagon_number_recognize.Vagon_number_recognize_class import Vagon_number_recognize_class
+from vagon_number_recognize.Vagon_number_recognize_class_v2 import Vagon_number_recognize_class_v2
+from vagon_number_recognize.Vagon_number_recognize_class_v3 import Vagon_number_recognize_class_v3
 from word_compare_result import Word_compare_result
 
 # model and dataset
-dir_path = 'vagon_number_recognize/dataset/'
+dir_path = 'vagon_number_recognize/dataset_test/'
 label_path = dir_path + 'numbers.txt'
 image_dir_path = dir_path + 'numbers'
-test_results = 'vagon_number_recognize/test_results/easyocr_danila_189.txt'
+test_results = 'vagon_number_recognize/test_results/easyocr_v3.txt'
 
 # useful addresses
 image_dir = os.listdir(image_dir_path)
-vagon_number_recognizer = Vagon_number_recognize_class()
+vagon_number_recognizer = Vagon_number_recognize_class_v3()
 
 def compare(result_text, label_text):
     if result_text == '':

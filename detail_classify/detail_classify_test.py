@@ -4,12 +4,12 @@ import numpy as np
 from tensorflow import keras
 import cv2
 
-model_loaded = keras.models.load_model('detail_classify/detail_classify_model_1000_50_16.h5')
+model_loaded = keras.models.load_model('detail_classify/detail_classify_model_10000_50_16.h5')
 mistakes = []
 print('learning-dataset starts')
 # test_res = []
 n = 0
-dir = 'detail_classify/dataset_1000/train/rama'
+dir = 'detail_classify/dataset_10000/train/rama'
 files = os.listdir(dir)
 print('rama --- proccessing')
 correct_answers = 0
@@ -30,7 +30,7 @@ for file in files:
         mistakes.append('train rama ' + file)
     n+=1
 
-dir = 'detail_classify/dataset_1000/train/vagon'
+dir = 'detail_classify/dataset_10000/train/vagon'
 files = os.listdir(dir)
 print('vagon --- proccessing')
 for file in files:
@@ -54,7 +54,7 @@ for file in files:
 print('test-dataset starts')
 # test_res = []
 test_n = 0
-dir = 'detail_classify/dataset_1000/test/rama'
+dir = 'detail_classify/dataset_10000/test/rama'
 files = os.listdir(dir)
 print('rama --- proccessing')
 test_correct_answers = 0
@@ -75,7 +75,7 @@ for file in files:
         mistakes.append('test rama ' + file)
     test_n+=1
 
-dir = 'detail_classify/dataset_1000/test/vagon'
+dir = 'detail_classify/dataset_10000/test/vagon'
 files = os.listdir(dir)
 print('vagon --- proccessing')
 for file in files:
