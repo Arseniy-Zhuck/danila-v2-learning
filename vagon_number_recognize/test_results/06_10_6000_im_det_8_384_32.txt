@@ -1,0 +1,18 @@
+models/vagon_number_recognize/06_10_6000_im/exp39/weights/last.pt
+
+vagon_number_recognize/test_results/06_10_6000_im_det_8_384_32.txt55645238 - 53645230
+164982 - 51649812
+403 - 59445031
+51373354 - 51133254
+95221641 - 95227641
+55192202 - 55192702
+54285069 - 51174209
+60635046 - 61304671
+11006 - 106
+62032422 - 62073242
+70722579 - 70722509
+31124951 - 51174951
+51749556 - 51174951
+57765381 - 57176158
+{<Word_compare_result.equal: 3>: 47, <Word_compare_result.partial: 2>: 13, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 77.0, <Word_compare_result.partial: 2>: 21.3, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
