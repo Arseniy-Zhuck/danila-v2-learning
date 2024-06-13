@@ -1,0 +1,13 @@
+models/vagon_number_recognize/06_10_6000_im/exp39/weights/last.pt
+
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_v209_96_196.txt55652301 - 53645230
+93 - 59445031
+51133295 - 51133254
+5239536 - 52395365
+16844105 - 68441054
+15112495 - 51174951
+56187495 - 51174951
+95486909 - 95486908
+9548608 - 95486908
+{<Word_compare_result.equal: 3>: 52, <Word_compare_result.partial: 2>: 8, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 85.2, <Word_compare_result.partial: 2>: 13.100000000000001, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}

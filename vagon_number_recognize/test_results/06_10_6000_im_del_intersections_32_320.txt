@@ -1,0 +1,20 @@
+models/vagon_number_recognize/06_10_6000_im/exp39/weights/last.pt
+
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_32_320.txt55615230 - 53645230
+31649812 - 51649812
+4437 - 59445031
+511333254 - 51133254
+5295365 - 52395365
+7680738 - 76807338
+55192202 - 55192702
+51174809 - 51174209
+5175510 - 51755130
+942734222 - 94273422
+513677127 - 51367712
+159764605 - 59764605
+6207342 - 62073242
+507443339 - 50744333
+61174951 - 51174951
+571761581 - 57176158
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}

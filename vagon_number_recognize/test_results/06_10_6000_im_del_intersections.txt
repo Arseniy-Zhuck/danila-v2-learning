@@ -1,0 +1,243 @@
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_32_32.txt
+{<Word_compare_result.equal: 3>: 0, <Word_compare_result.partial: 2>: 1, <Word_compare_result.none: 0>: 56, <Word_compare_result.wrong: 1>: 4}
+{<Word_compare_result.equal: 3>: 0.0, <Word_compare_result.partial: 2>: 1.6, <Word_compare_result.none: 0>: 91.8, <Word_compare_result.wrong: 1>: 6.6000000000000005}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_32_64.txt
+{<Word_compare_result.equal: 3>: 1, <Word_compare_result.partial: 2>: 33, <Word_compare_result.none: 0>: 10, <Word_compare_result.wrong: 1>: 17}
+{<Word_compare_result.equal: 3>: 1.6, <Word_compare_result.partial: 2>: 54.1, <Word_compare_result.none: 0>: 16.400000000000002, <Word_compare_result.wrong: 1>: 27.900000000000002}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_32_96.txt
+{<Word_compare_result.equal: 3>: 28, <Word_compare_result.partial: 2>: 29, <Word_compare_result.none: 0>: 3, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 45.9, <Word_compare_result.partial: 2>: 47.5, <Word_compare_result.none: 0>: 4.9, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_32_128.txt
+{<Word_compare_result.equal: 3>: 42, <Word_compare_result.partial: 2>: 17, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 68.89999999999999, <Word_compare_result.partial: 2>: 27.900000000000002, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_32_160.txt
+{<Word_compare_result.equal: 3>: 46, <Word_compare_result.partial: 2>: 14, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 75.4, <Word_compare_result.partial: 2>: 23.0, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_32_196.txt
+{<Word_compare_result.equal: 3>: 50, <Word_compare_result.partial: 2>: 10, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 82.0, <Word_compare_result.partial: 2>: 16.400000000000002, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_32_256.txt
+{<Word_compare_result.equal: 3>: 48, <Word_compare_result.partial: 2>: 12, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 78.7, <Word_compare_result.partial: 2>: 19.7, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_32_320.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_32_384.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_64_32.txt
+{<Word_compare_result.equal: 3>: 1, <Word_compare_result.partial: 2>: 33, <Word_compare_result.none: 0>: 10, <Word_compare_result.wrong: 1>: 17}
+{<Word_compare_result.equal: 3>: 1.6, <Word_compare_result.partial: 2>: 54.1, <Word_compare_result.none: 0>: 16.400000000000002, <Word_compare_result.wrong: 1>: 27.900000000000002}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_64_64.txt
+{<Word_compare_result.equal: 3>: 1, <Word_compare_result.partial: 2>: 33, <Word_compare_result.none: 0>: 10, <Word_compare_result.wrong: 1>: 17}
+{<Word_compare_result.equal: 3>: 1.6, <Word_compare_result.partial: 2>: 54.1, <Word_compare_result.none: 0>: 16.400000000000002, <Word_compare_result.wrong: 1>: 27.900000000000002}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_64_96.txt
+{<Word_compare_result.equal: 3>: 28, <Word_compare_result.partial: 2>: 29, <Word_compare_result.none: 0>: 3, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 45.9, <Word_compare_result.partial: 2>: 47.5, <Word_compare_result.none: 0>: 4.9, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_64_128.txt
+{<Word_compare_result.equal: 3>: 42, <Word_compare_result.partial: 2>: 17, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 68.89999999999999, <Word_compare_result.partial: 2>: 27.900000000000002, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_64_160.txt
+{<Word_compare_result.equal: 3>: 46, <Word_compare_result.partial: 2>: 14, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 75.4, <Word_compare_result.partial: 2>: 23.0, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_64_196.txt
+{<Word_compare_result.equal: 3>: 50, <Word_compare_result.partial: 2>: 10, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 82.0, <Word_compare_result.partial: 2>: 16.400000000000002, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_64_256.txt
+{<Word_compare_result.equal: 3>: 48, <Word_compare_result.partial: 2>: 12, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 78.7, <Word_compare_result.partial: 2>: 19.7, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_64_320.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_64_384.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_96_32.txt
+{<Word_compare_result.equal: 3>: 28, <Word_compare_result.partial: 2>: 29, <Word_compare_result.none: 0>: 3, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 45.9, <Word_compare_result.partial: 2>: 47.5, <Word_compare_result.none: 0>: 4.9, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_96_64.txt
+{<Word_compare_result.equal: 3>: 28, <Word_compare_result.partial: 2>: 29, <Word_compare_result.none: 0>: 3, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 45.9, <Word_compare_result.partial: 2>: 47.5, <Word_compare_result.none: 0>: 4.9, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_96_96.txt
+{<Word_compare_result.equal: 3>: 28, <Word_compare_result.partial: 2>: 29, <Word_compare_result.none: 0>: 3, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 45.9, <Word_compare_result.partial: 2>: 47.5, <Word_compare_result.none: 0>: 4.9, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_96_128.txt
+{<Word_compare_result.equal: 3>: 42, <Word_compare_result.partial: 2>: 17, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 68.89999999999999, <Word_compare_result.partial: 2>: 27.900000000000002, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_96_160.txt
+{<Word_compare_result.equal: 3>: 46, <Word_compare_result.partial: 2>: 14, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 75.4, <Word_compare_result.partial: 2>: 23.0, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_96_196.txt
+{<Word_compare_result.equal: 3>: 50, <Word_compare_result.partial: 2>: 10, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 82.0, <Word_compare_result.partial: 2>: 16.400000000000002, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_96_256.txt
+{<Word_compare_result.equal: 3>: 48, <Word_compare_result.partial: 2>: 12, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 78.7, <Word_compare_result.partial: 2>: 19.7, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_96_320.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_96_384.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_128_32.txt
+{<Word_compare_result.equal: 3>: 42, <Word_compare_result.partial: 2>: 17, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 68.89999999999999, <Word_compare_result.partial: 2>: 27.900000000000002, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_128_64.txt
+{<Word_compare_result.equal: 3>: 42, <Word_compare_result.partial: 2>: 17, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 68.89999999999999, <Word_compare_result.partial: 2>: 27.900000000000002, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_128_96.txt
+{<Word_compare_result.equal: 3>: 42, <Word_compare_result.partial: 2>: 17, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 68.89999999999999, <Word_compare_result.partial: 2>: 27.900000000000002, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_128_128.txt
+{<Word_compare_result.equal: 3>: 42, <Word_compare_result.partial: 2>: 17, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 68.89999999999999, <Word_compare_result.partial: 2>: 27.900000000000002, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_128_160.txt
+{<Word_compare_result.equal: 3>: 46, <Word_compare_result.partial: 2>: 14, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 75.4, <Word_compare_result.partial: 2>: 23.0, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_128_196.txt
+{<Word_compare_result.equal: 3>: 50, <Word_compare_result.partial: 2>: 10, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 82.0, <Word_compare_result.partial: 2>: 16.400000000000002, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_128_256.txt
+{<Word_compare_result.equal: 3>: 48, <Word_compare_result.partial: 2>: 12, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 78.7, <Word_compare_result.partial: 2>: 19.7, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_128_320.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_128_384.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_160_32.txt
+{<Word_compare_result.equal: 3>: 46, <Word_compare_result.partial: 2>: 14, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 75.4, <Word_compare_result.partial: 2>: 23.0, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_160_64.txt
+{<Word_compare_result.equal: 3>: 46, <Word_compare_result.partial: 2>: 14, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 75.4, <Word_compare_result.partial: 2>: 23.0, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_160_96.txt
+{<Word_compare_result.equal: 3>: 46, <Word_compare_result.partial: 2>: 14, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 75.4, <Word_compare_result.partial: 2>: 23.0, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_160_128.txt
+{<Word_compare_result.equal: 3>: 46, <Word_compare_result.partial: 2>: 14, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 75.4, <Word_compare_result.partial: 2>: 23.0, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_160_160.txt
+{<Word_compare_result.equal: 3>: 46, <Word_compare_result.partial: 2>: 14, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 75.4, <Word_compare_result.partial: 2>: 23.0, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_160_196.txt
+{<Word_compare_result.equal: 3>: 50, <Word_compare_result.partial: 2>: 10, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 82.0, <Word_compare_result.partial: 2>: 16.400000000000002, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_160_256.txt
+{<Word_compare_result.equal: 3>: 48, <Word_compare_result.partial: 2>: 12, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 78.7, <Word_compare_result.partial: 2>: 19.7, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_160_320.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_160_384.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_196_32.txt
+{<Word_compare_result.equal: 3>: 50, <Word_compare_result.partial: 2>: 10, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 82.0, <Word_compare_result.partial: 2>: 16.400000000000002, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_196_64.txt
+{<Word_compare_result.equal: 3>: 50, <Word_compare_result.partial: 2>: 10, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 82.0, <Word_compare_result.partial: 2>: 16.400000000000002, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_196_96.txt
+{<Word_compare_result.equal: 3>: 50, <Word_compare_result.partial: 2>: 10, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 82.0, <Word_compare_result.partial: 2>: 16.400000000000002, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_196_128.txt
+{<Word_compare_result.equal: 3>: 50, <Word_compare_result.partial: 2>: 10, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 82.0, <Word_compare_result.partial: 2>: 16.400000000000002, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_196_160.txt
+{<Word_compare_result.equal: 3>: 50, <Word_compare_result.partial: 2>: 10, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 82.0, <Word_compare_result.partial: 2>: 16.400000000000002, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_196_196.txt
+{<Word_compare_result.equal: 3>: 50, <Word_compare_result.partial: 2>: 10, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 82.0, <Word_compare_result.partial: 2>: 16.400000000000002, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_196_256.txt
+{<Word_compare_result.equal: 3>: 48, <Word_compare_result.partial: 2>: 12, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 78.7, <Word_compare_result.partial: 2>: 19.7, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_196_320.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_196_384.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_256_32.txt
+{<Word_compare_result.equal: 3>: 48, <Word_compare_result.partial: 2>: 12, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 78.7, <Word_compare_result.partial: 2>: 19.7, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_256_64.txt
+{<Word_compare_result.equal: 3>: 48, <Word_compare_result.partial: 2>: 12, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 78.7, <Word_compare_result.partial: 2>: 19.7, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_256_96.txt
+{<Word_compare_result.equal: 3>: 48, <Word_compare_result.partial: 2>: 12, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 78.7, <Word_compare_result.partial: 2>: 19.7, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_256_128.txt
+{<Word_compare_result.equal: 3>: 48, <Word_compare_result.partial: 2>: 12, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 78.7, <Word_compare_result.partial: 2>: 19.7, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_256_160.txt
+{<Word_compare_result.equal: 3>: 48, <Word_compare_result.partial: 2>: 12, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 78.7, <Word_compare_result.partial: 2>: 19.7, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_256_196.txt
+{<Word_compare_result.equal: 3>: 48, <Word_compare_result.partial: 2>: 12, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 78.7, <Word_compare_result.partial: 2>: 19.7, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_256_256.txt
+{<Word_compare_result.equal: 3>: 48, <Word_compare_result.partial: 2>: 12, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 78.7, <Word_compare_result.partial: 2>: 19.7, <Word_compare_result.none: 0>: 1.6, <Word_compare_result.wrong: 1>: 0.0}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_256_320.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_256_384.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_320_32.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_320_64.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_320_96.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_320_128.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_320_160.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_320_196.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_320_256.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_320_320.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_320_384.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_384_32.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_384_64.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_384_96.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_384_128.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_384_160.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_384_196.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_384_256.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_384_320.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
+vagon_number_recognize/test_results/06_10_6000_im_del_intersections_384_384.txt
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 15, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 24.6, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.6}
