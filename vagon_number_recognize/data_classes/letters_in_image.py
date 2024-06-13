@@ -68,6 +68,21 @@ class Rect:
         new_ymax = max(self.ymax, rect.ymax)
         return Rect(new_xmin, new_xmax, new_ymin, new_ymax)
 
+    def sort_rects_for_w_min(self, rect):
+        if (self.xmax - self.xmin) < (rect.xmax - rect.xmin):
+            return self, rect
+        else:
+            return rect, self
+
+    def equal_x_for_percent(self, rect, percent):
+        min_rect, max_rect = self.sort_rects_for_w_min(rect)
+        x_intersect = min(max_rect.xmax - min_rect.xmin, min_rect.xmax - max_rect.xmin)
+        if x_intersect < 0:
+            x_intersect = 0
+        wmin = min_rect.xmax - min_rect.xmin
+        cur_percent = x_intersect / float(wmin)
+        return (cur_percent > percent)
+
 class Yolo_label_Rect:
 
     @staticmethod
@@ -117,6 +132,8 @@ class Letters_In_Image:
     def __init__(self):
         self.letters = []
 
+
+
     @staticmethod
     def compare(letters1, letters2):
         if len(letters1.letters) == 0:
@@ -144,21 +161,68 @@ class Letters_In_Image:
     def sort_letters(self):
         self.letters.sort(key = lambda letter_in_image: letter_in_image.rect.xmin)
 
+    def delete_intersection(self):
+        index1 = 0
+        flag = False
+        while not (flag) and (index1 < len(self.letters) - 1):
+            index2 = index1 + 1
+            while not (flag) and (index2 < len(self.letters)):
+                if self.letters[index1].rect.IoU(self.letters[index2].rect) > 0.5:
+                    flag = True
+                    if self.letters[index1].confidence > self.letters[index2].confidence:
+                        ind = index2
+                    else:
+                        ind = index1
+                    self.letters.remove(self.letters[ind])
+                index2 += 1
+            index1 += 1
+
+
+    def find_x_intersection(self):
+        otvet_index_1 = 0
+        otvet_index_2 = 0
+        index1 = 0
+        flag = False
+        while not(flag) and (index1 < len(self.letters) - 1):
+            index2 = index1 + 1
+            while not(flag) and (index2 < len(self.letters)):
+                if self.letters[index1].rect.equal_x_for_percent(self.letters[index2].rect, 0.6):
+                    flag = True
+                    otvet_index_1 = index1
+                    otvet_index_2 = index2
+                index2 += 1
+            index1 += 1
+        return (flag, otvet_index_1, otvet_index_2)
+
     def delete_intersections(self):
-        new_letters = []
-        i = 0
-        while i < len(self.letters) - 1:
-            IoU = self.letters[i].rect.IoU(self.letters[i+1].rect)
-            if IoU > 0.3:
-                new_letter = self.letters[i] if self.letters[i].confidence > self.letters[i + 1].confidence else self.letters[i + 1]
-                i += 2
-            else:
-                new_letter = self.letters[i]
-                i += 1
-            new_letters.append(new_letter)
-        if (i == len(self.letters) - 1):
-            new_letters.append(self.letters[i])
-        self.letters = new_letters
+        has_intersections_flag = self.has_intersections()
+        while has_intersections_flag:
+            self.delete_intersection()
+            has_intersections_flag = self.has_intersections()
+
+    def has_intersections(self):
+        index1 = 0
+        flag = False
+        while not (flag) and (index1 < len(self.letters) - 1):
+            index2 = index1 + 1
+            while not (flag) and (index2 < len(self.letters)):
+                if self.letters[index1].rect.IoU(self.letters[index2].rect) > 0.5:
+                    flag = True
+                index2 += 1
+            index1 += 1
+        return flag
+
+
+
+    def delete_x_intersections(self):
+        (flag, index1, index2) = self.find_x_intersection()
+        while flag:
+            if flag:
+                if (self.letters[index1].rect.xmax - self.letters[index1].rect.xmin) < (self.letters[index2].rect.xmax - self.letters[index2].rect.xmin):
+                    self.letters.remove(self.letters[index1])
+                else:
+                    self.letters.remove(self.letters[index2])
+            (flag, index1, index2) = self.find_x_intersection()
 
     def make_word(self):
         if (len(self.letters) == 0):
@@ -169,6 +233,17 @@ class Letters_In_Image:
                 res += letter.letter
             return res
 
+    def get_avg_conf(self):
+        sum_conf = 0.0
+        count_conf = 0
+        for letter in self.letters:
+            sum_conf = sum_conf + letter.confidence
+            count_conf += 1
+        if count_conf==0:
+            res = 0.0
+        else:
+            res = sum_conf / count_conf
+        return res
 
     def __str__(self):
         res = ''

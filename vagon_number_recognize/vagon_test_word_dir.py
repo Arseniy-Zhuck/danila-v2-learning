@@ -13,7 +13,7 @@ model_path = 'models/vagon_number_recognize/06_10_6000_im/exp39/weights/last.pt'
 dir_path = 'vagon_number_recognize/dataset_test/'
 label_path = dir_path + 'numbers.txt'
 image_dir_path = dir_path + 'numbers'
-test_result = 'vagon_number_recognize/test_results/06_10_6000_im_det_8'
+test_result = 'vagon_number_recognize/test_results/06_10_6000_im_del_intersections_v209'
 str1 = 'models/vagon_number_recognize/06_10_6000_im/exp39/weights/last.pt\n'
 
 
@@ -52,14 +52,17 @@ for size_h in sizes_h:
             img_path = image_dir_path + '/' + image_name
             img = cv2.imread(img_path)
             h, w = img.shape[:2]
-            model.max_det = 8
+            # model.max_det = 8
             results = model([img_path], size = (size_h,size_w))
             json_res = results.pandas().xyxy[0].to_json(orient="records")
             res2 = json.loads(json_res)
             img_letters = Letters_In_Image.get_letters_in_image_from_yolo_json(res2)
+            letters_copy = img_letters.letters.copy()
             img_letters.sort_letters()
             img_letters.delete_intersections()
-
+            img_letters.delete_x_intersections()
+            if len(img_letters.letters) > 8:
+                img_letters.letters = img_letters.letters[0:8]
             # label_path = label_dir_path + '/' + image_name.split('.')[0] + '.txt'
             label_letters = Letters_In_Image()
             d = data[image_name]
@@ -81,7 +84,13 @@ for size_h in sizes_h:
                     cv2.rectangle(img1, (let.rect.xmin, let.rect.ymin),
                                   (let.rect.xmax, let.rect.ymax), (0, 0, 255), 2)
                     os.makedirs(test_result + '_' + str(size_h) + '_' + str(size_w), exist_ok=True)
-                    cv2.imwrite(test_result + '_' + str(size_h) + '_' + str(size_w) + '/' + image_name, img1)
+                    cv2.imwrite(test_result + '_' + str(size_h) + '_' + str(size_w) + '/res_' + image_name, img1)
+                img2 = img.copy()
+                for let in letters_copy:
+                    cv2.rectangle(img2, (let.rect.xmin, let.rect.ymin),
+                                  (let.rect.xmax, let.rect.ymax), (0, 0, 255), 2)
+                    os.makedirs(test_result + '_' + str(size_h) + '_' + str(size_w), exist_ok=True)
+                    cv2.imwrite(test_result + '_' + str(size_h) + '_' + str(size_w) + '/whole_letters_' + image_name, img2)
                 new_lines.append(img_letters.make_word() + ' - ' + label_letters.make_word())
                 new_lines.append('\n')
         print(counts)

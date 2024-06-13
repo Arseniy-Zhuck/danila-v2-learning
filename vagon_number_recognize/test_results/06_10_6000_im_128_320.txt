@@ -1,6 +1,7 @@
 models/vagon_number_recognize/06_10_6000_im/exp39/weights/last.pt
 
-vagon_number_recognize/test_results/06_10_6000_im_128_320.txt55615230 - 53645230
+vagon_number_recognize/test_results/06_10_6000_im_128_320.txt
+55615230 - 53645230
 31649812 - 51649812
 4437 - 59445031
 511373332354 - 51133254
