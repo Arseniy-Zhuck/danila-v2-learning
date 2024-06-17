@@ -1,0 +1,20 @@
+models/vagon_number_recognize/06_16_22000_im/exp40/weights/text_recognize_yolo.pt
+
+vagon_number_recognize/06_16_22000_im_96_160.txt53645332 - 53645230
+3649112 - 51649812
+6908700 - 64908700
+545122 - 59445031
+5607833 - 54607833
+51133295 - 51133254
+9577641 - 95227641
+5170241 - 51702041
+7680738 - 76807338
+55192202 - 55192702
+5067894 - 50612894
+5175610 - 51755130
+51367741 - 51367712
+06 - 106
+15976460 - 59764605
+45486908 - 95486908
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 16, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 0}
+{<Word_compare_result.equal: 3>: 73.8, <Word_compare_result.partial: 2>: 26.200000000000003, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 0.0}

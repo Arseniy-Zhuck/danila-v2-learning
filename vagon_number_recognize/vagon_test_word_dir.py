@@ -9,12 +9,12 @@ import os
 from word_compare_result import Word_compare_result
 
 # model and dataset
-model_path = 'models/vagon_number_recognize/06_10_6000_im/exp39/weights/last.pt'
+model_path = 'models/vagon_number_recognize/06_16_9000_im/exp41/weights/text_recognize_yolo.pt'
 dir_path = 'vagon_number_recognize/dataset_test/'
 label_path = dir_path + 'numbers.txt'
 image_dir_path = dir_path + 'numbers'
-test_result = 'vagon_number_recognize/test_results/06_10_6000_im_del_intersections_v209'
-str1 = 'models/vagon_number_recognize/06_10_6000_im/exp39/weights/last.pt\n'
+test_result = 'vagon_number_recognize/06_16_9000_im'
+str1 = 'models/vagon_number_recognize/06_16_9000_im/exp41/weights/text_recognize_yolo.pt\n'
 
 
 # useful addresses
@@ -31,8 +31,8 @@ with open(label_path) as f:
 
 
 print(str1)
-sizes_h = [32, 64, 96, 128, 160, 196, 256, 320, 384]
-sizes_w = [32, 64, 96, 128, 160, 196, 256, 320, 384]
+sizes_h = [32, 64, 96, 128, 160, 192, 224, 256, 288, 320, 352, 384]
+sizes_w = [32, 64, 96, 128, 160, 192, 224, 256, 288, 320, 352, 384]
 new_new_lines = []
 for size_h in sizes_h:
     for size_w in sizes_w:

@@ -1,6 +1,6 @@
 import os
 import shutil
-dir = 'vagon_number_recognize/dataset_7000'
+dir = 'vagon_number_recognize/dataset_9000'
 ss = ['val', 'test', 'train']
 tt = ['images','labels']
 

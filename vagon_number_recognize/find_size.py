@@ -6,7 +6,7 @@ h_over_w_summ = 0
 h_sum = 0
 w_sum = 0
 count = 0
-dir = 'vagon_number_recognize/dataset_1400/train/images'
+dir = 'vagon_number_recognize/dataset_9000/train/images'
 files = os.listdir(dir)
 for file in files:
     whole_file_name = dir + '\\' + file
