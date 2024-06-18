@@ -6,3 +6,5 @@ python train.py --img 64 --batch 4 --epochs 50 --data 'C:\Users\a_zhuck\Document
 
 # 9000im - 128size
 python train.py --img 192 --batch 4 --epochs 50 --data 'C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\vagon_number_recognize\dataset_9000.yaml' --weights 'C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\yolov5x.pt' --nosave
+
+python train.py --img 192 --batch 4 --epochs 50 --data 'C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\vagon_number_recognize\dataset_9500.yaml' --weights 'C:\Users\a_zhuck\Documents\GitHub\danila-v2-learning\yolov5x.pt' --nosave
