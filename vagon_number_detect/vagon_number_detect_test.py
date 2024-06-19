@@ -107,11 +107,11 @@ def test_yollov5(dir, labels_dir, flag):
     print(ds + str(n) + ' tests - 70_IOU ' + str(round(per_cent70, 4)) + ', 80_IOU ' + str(round(per_cent80, 4)) +
                   ', 90_IOU ' + str(round(per_cent90, 4))  + ', av_IOU = ' + str(round(av_IOU,4)))
 
-model_path = 'models/vagon_number_detect/1_06_02/exp38/weights/best.pt'
+model_path = 'models/vagon_number_detect/19_06_03/exp42/weights/last.pt'
 yolo_path = 'yolov5'
-dir = 'vagon_number_detect/dataset/train/images'
-labels_dir = 'vagon_number_detect/dataset/train/labels'
-test_yollov5(dir, labels_dir, True)
+dir = 'vagon_number_detect/dataset/test/images'
+labels_dir = 'vagon_number_detect/dataset/test/labels'
+test_yollov5(dir, labels_dir, False)
 
 # if (len(sys.argv) == 1):
 #     print('Please enter file with weights')

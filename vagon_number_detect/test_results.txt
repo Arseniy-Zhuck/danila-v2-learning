@@ -5,3 +5,11 @@ Testing-dataset: 55 tests - 70_IOU 0.9818, 80_IOU 0.9455, 90_IOU 0.7636, av_IOU 
 02.06_2024
 models/vagon_number_detect/1_06_02/exp38/weights/best.pt
 Learning-dataset: 441 tests - 70_IOU 0.9955, 80_IOU 0.9887, 90_IOU 0.9433, av_IOU = 0.9475
+
+19.06_2024
+models/vagon_number_detect/19_06_03/exp42/weights/last.pt
+Learning-dataset: 479 tests - 70_IOU 0.9896, 80_IOU 0.9854, 90_IOU 0.9269, av_IOU = 0.9407
+
+19.06_2024
+models/vagon_number_detect/19_06_03/exp42/weights/last.pt
+Testing-dataset: 55 tests - 70_IOU 1.0, 80_IOU 0.9636, 90_IOU 0.7818, av_IOU = 0.924
