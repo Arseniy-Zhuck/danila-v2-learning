@@ -9,12 +9,12 @@ import os
 from word_compare_result import Word_compare_result
 
 # model and dataset
-model_path = 'models/vagon_number_recognize/06_16_9000_im/exp41/weights/text_recognize_yolo.pt'
+model_path = 'models/vagon_number_recognize/06_20_9500_im/exp43/weights/text_recognize_yolo.pt'
 dir_path = 'vagon_number_recognize/dataset_test/'
 label_path = dir_path + 'numbers.txt'
 image_dir_path = dir_path + 'numbers'
-test_result = 'vagon_number_recognize/06_16_9000_im'
-str1 = 'models/vagon_number_recognize/06_16_9000_im/exp41/weights/text_recognize_yolo.pt\n'
+test_result = 'vagon_number_recognize/06_20_9500_im'
+str1 = 'models/vagon_number_recognize/06_20_9500_im/exp43/weights/text_recognize_yolo.pt\n'
 
 
 # useful addresses
